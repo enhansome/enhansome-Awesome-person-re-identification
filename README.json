@@ -1,0 +1,257 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Vehicle Re-Identification",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-10-23T06:31:19Z",
+            "owner": "bismex",
+            "repo": "Awesome-vehicle-re-identification",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Cross-Modality Person Re-Identification",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-07-14T06:22:11Z",
+            "owner": "bismex",
+            "repo": "Awesome-cross-modality-person-re-identification",
+            "stars": 153
+          }
+        }
+      ],
+      "title": ":high_brightness: Other awesome re-identification"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Multi-camera multi-object tracking (MCMOT) [github1",
+          "description": "] [github2] [workshop:AI-city-challange] [workshop:MMP-Tracking]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-10-07T06:54:10Z",
+            "owner": "luanshiyinyang",
+            "repo": "awesome-multiple-object-tracking",
+            "stars": 1482
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trajectory prediction [github1",
+          "description": "] [github2]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-01-31T21:06:47Z",
+            "owner": "xuehaouwa",
+            "repo": "Awesome-Trajectory-Prediction",
+            "stars": 1249
+          }
+        }
+      ],
+      "title": ":high_brightness: Other recommended related topics"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Statistics"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Survey"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Duke Leaderboard [page",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-18T07:34:37Z",
+            "owner": "layumi",
+            "repo": "Person_reID_baseline_pytorch",
+            "stars": 4444
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome re-id dataset [github",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-10-23T07:24:42Z",
+            "owner": "NEU-Gou",
+            "repo": "awesome-reid-dataset",
+            "stars": 1101
+          }
+        }
+      ],
+      "title": "Datasets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Library for deep-learning person re-identification [Torchreid(pytorch)",
+          "description": "] [Openreid(pytorch)]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-09T05:23:24Z",
+            "owner": "KaiyangZhou",
+            "repo": "deep-person-reid",
+            "stars": 4894
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cross modal reid baseline [Visual-thermal reid(pytorch)",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-30T13:19:34Z",
+            "owner": "mangye16",
+            "repo": "Cross-Modal-Re-ID-baseline",
+            "stars": 402
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Language Person Search [Matlab",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2026-07-06T00:56:20Z",
+            "owner": "layumi",
+            "repo": "Image-Text-Embedding",
+            "stars": 297
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "3D Person reid [Pytorch",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-06T00:54:43Z",
+            "owner": "layumi",
+            "repo": "person-reid-3d",
+            "stars": 271
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2stream Person reid [Matlab",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-06T00:57:49Z",
+            "owner": "layumi",
+            "repo": "2016_person_re-ID",
+            "stars": 264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Person reid baseline [IDE(Caffe)",
+          "description": "] [Tricks(pytorch)] [Triplet(pytorch)] [GAN(pytorch)] [GAN(Matlab)] [FDGAN(pytorch)] [DGNet(pytorch)]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Matlab",
+            "last_commit": "2017-11-14T23:36:07Z",
+            "owner": "zhunzhong07",
+            "repo": "IDE-baseline-Market-1501",
+            "stars": 245
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Person reid with Pedestrian alignment [STN(Matlab)",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Cuda",
+            "last_commit": "2026-07-06T00:55:24Z",
+            "owner": "layumi",
+            "repo": "Pedestrian_Alignment",
+            "stars": 238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vehicle reid baseline [Jakel21(pytorch)",
+          "description": "] [lxc86739795(pytorch)] [AICity 2020 Champion(pytorch)]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-08-12T03:13:33Z",
+            "owner": "Jakel21",
+            "repo": "vehicle-ReID-baseline",
+            "stars": 147
+          }
+        }
+      ],
+      "title": "Codes"
+    },
+    {
+      "description": "https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-re-id.md",
+      "items": [],
+      "title": "Reference"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Previous change history"
+    },
+    {
+      "description": "The github page will be revised largely at 2020 to provide more convenient information. For example changing category, adding ML paper, adding github code, etc.",
+      "items": [],
+      "title": ":high_brightness: [Notice]"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T22:56:05.647Z",
+    "original_repository": "bismex/Awesome-person-re-identification",
+    "original_repository_sha": "7185322f85d74fa4bdfeffd30e233ee3475ee86e",
+    "enhanced_repository": "enhansome/enhansome-Awesome-person-re-identification",
+    "enhanced_repository_description": null,
+    "title": "Awesome Person Re-identification (Person ReID) with stars"
+  }
+}
