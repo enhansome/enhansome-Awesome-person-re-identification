@@ -62,7 +62,7 @@
             "last_commit": "2023-01-31T21:06:47Z",
             "owner": "xuehaouwa",
             "repo": "Awesome-Trajectory-Prediction",
-            "stars": 1249
+            "stars": 1250
           }
         }
       ],
@@ -126,7 +126,7 @@
             "last_commit": "2026-01-09T05:23:24Z",
             "owner": "KaiyangZhou",
             "repo": "deep-person-reid",
-            "stars": 4894
+            "stars": 4895
           }
         },
         {
@@ -140,7 +140,7 @@
             "last_commit": "2023-11-30T13:19:34Z",
             "owner": "mangye16",
             "repo": "Cross-Modal-Re-ID-baseline",
-            "stars": 402
+            "stars": 401
           }
         },
         {
@@ -247,7 +247,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T22:34:13.739Z",
+    "last_updated": "2026-08-15T22:32:43.641Z",
     "original_repository": "bismex/Awesome-person-re-identification",
     "original_repository_sha": "7185322f85d74fa4bdfeffd30e233ee3475ee86e",
     "enhanced_repository": "enhansome/enhansome-Awesome-person-re-identification",
