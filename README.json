@@ -106,7 +106,7 @@
             "last_commit": "2025-10-23T07:24:42Z",
             "owner": "NEU-Gou",
             "repo": "awesome-reid-dataset",
-            "stars": 1101
+            "stars": 1103
           }
         }
       ],
@@ -247,7 +247,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T22:35:45.054Z",
+    "last_updated": "2026-08-18T22:35:45.700Z",
     "original_repository": "bismex/Awesome-person-re-identification",
     "original_repository_sha": "7185322f85d74fa4bdfeffd30e233ee3475ee86e",
     "enhanced_repository": "enhansome/enhansome-Awesome-person-re-identification",
