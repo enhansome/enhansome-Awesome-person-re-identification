@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 249192342,
             "language": null,
             "last_commit": "2021-10-23T06:31:19Z",
             "owner": "bismex",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 195900171,
             "language": null,
             "last_commit": "2022-07-14T06:22:11Z",
             "owner": "bismex",
@@ -35,7 +37,7 @@
       "title": ":high_brightness: Other awesome re-identification"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -44,6 +46,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 273806363,
             "language": null,
             "last_commit": "2025-10-07T06:54:10Z",
             "owner": "luanshiyinyang",
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159589360,
             "language": null,
             "last_commit": "2023-01-31T21:06:47Z",
             "owner": "xuehaouwa",
@@ -69,17 +73,7 @@
       "title": ":high_brightness: Other recommended related topics"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Statistics"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Survey"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -88,11 +82,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115712649,
             "language": "Python",
             "last_commit": "2026-07-18T07:34:37Z",
             "owner": "layumi",
             "repo": "Person_reID_baseline_pytorch",
-            "stars": 4444
+            "stars": 4445
           }
         },
         {
@@ -102,6 +97,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 151848528,
             "language": null,
             "last_commit": "2025-10-23T07:24:42Z",
             "owner": "NEU-Gou",
@@ -113,7 +109,7 @@
       "title": "Datasets"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -122,6 +118,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124800162,
             "language": "Python",
             "last_commit": "2026-01-09T05:23:24Z",
             "owner": "KaiyangZhou",
@@ -136,6 +133,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 161232372,
             "language": "Python",
             "last_commit": "2023-11-30T13:19:34Z",
             "owner": "mangye16",
@@ -150,6 +148,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111048530,
             "language": "MATLAB",
             "last_commit": "2026-07-06T00:56:20Z",
             "owner": "layumi",
@@ -164,6 +163,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 269918633,
             "language": "Python",
             "last_commit": "2026-07-06T00:54:43Z",
             "owner": "layumi",
@@ -178,6 +178,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78332110,
             "language": "C",
             "last_commit": "2026-07-06T00:57:49Z",
             "owner": "layumi",
@@ -192,6 +193,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75269717,
             "language": "Matlab",
             "last_commit": "2017-11-14T23:36:07Z",
             "owner": "zhunzhong07",
@@ -206,6 +208,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96018179,
             "language": "Cuda",
             "last_commit": "2026-07-06T00:55:24Z",
             "owner": "layumi",
@@ -220,6 +223,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 174914010,
             "language": "Python",
             "last_commit": "2019-08-12T03:13:33Z",
             "owner": "Jakel21",
@@ -229,26 +233,12 @@
         }
       ],
       "title": "Codes"
-    },
-    {
-      "description": "https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-re-id.md",
-      "items": [],
-      "title": "Reference"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Previous change history"
-    },
-    {
-      "description": "The github page will be revised largely at 2020 to provide more convenient information. For example changing category, adding ML paper, adding github code, etc.",
-      "items": [],
-      "title": ":high_brightness: [Notice]"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T22:35:45.700Z",
+    "last_updated": "2026-08-19T12:11:21.188Z",
     "original_repository": "bismex/Awesome-person-re-identification",
+    "original_repository_id": 65597500,
     "original_repository_sha": "7185322f85d74fa4bdfeffd30e233ee3475ee86e",
     "enhanced_repository": "enhansome/enhansome-Awesome-person-re-identification",
     "enhanced_repository_description": null,

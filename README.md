@@ -81,7 +81,7 @@ This is a repository for organizing articles related to person re-identification
 >
 > ###### 10) *"SEAS: ShapE-Aligned Supervision for Person Re-Identification"* \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_SEAS_ShapE-Aligned_Supervision_for_Person_Re-Identification_CVPR_2024_paper.pdf)]
 >
-> ###### 11) *"Magic Tokens: Select Diverse Tokens for Multi-modal Object Re-Identification"* \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Magic_Tokens_Select_Diverse_Tokens_for_Multi-modal_Object_Re-Identification_CVPR_2024_paper.pdf)] \[[github](https://github.com/924973292/EDITOR) ⭐ 113 | 🐛 0 | 🌐 Python | 📅 2024-10-24]
+> ###### 11) *"Magic Tokens: Select Diverse Tokens for Multi-modal Object Re-Identification"* \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Magic_Tokens_Select_Diverse_Tokens_for_Multi-modal_Object_Re-Identification_CVPR_2024_paper.pdf)] \[[github](https://github.com/924973292/EDITOR) ⭐ 114 | 🐛 0 | 🌐 Python | 📅 2024-10-24]
 >
 > ###### 12) *"CA-Jaccard: Camera-aware Jaccard Distance for Person Re-identification"* \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_CA-Jaccard_Camera-aware_Jaccard_Distance_for_Person_Re-identification_CVPR_2024_paper.pdf)] \[[github](https://github.com/chen960/CA-Jaccard/) ⭐ 30 | 🐛 0 | 🌐 Python | 📅 2024-10-28]
 >
@@ -221,7 +221,7 @@ This is a repository for organizing articles related to person re-identification
 
 * <ins>***Person re-identification***</ins>
 
-> ###### 1) *"Body Part-Based Representation Learning for Occluded Person Re-Identification"* \[[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Somers_Body_Part-Based_Representation_Learning_for_Occluded_Person_Re-Identification_WACV_2023_paper.pdf)]\[[github](https://github.com/VlSomers/bpbreid) ⭐ 257 | 🐛 20 | 🌐 Python | 📅 2025-11-05]
+> ###### 1) *"Body Part-Based Representation Learning for Occluded Person Re-Identification"* \[[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Somers_Body_Part-Based_Representation_Learning_for_Occluded_Person_Re-Identification_WACV_2023_paper.pdf)]\[[github](https://github.com/VlSomers/bpbreid) ⭐ 258 | 🐛 20 | 🌐 Python | 📅 2025-11-05]
 >
 > ###### 2) *"Graph-Based Self-Learning for Robust Person Re-identification"* \[[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Xian_Graph-Based_Self-Learning_for_Robust_Person_Re-Identification_WACV_2023_paper.pdf)]
 >
@@ -437,7 +437,7 @@ This is a repository for organizing articles related to person re-identification
 >
 > ###### 22) *"Learning Instance-Level Spatial-Temporal Patterns for Person Re-Identification"* \[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ren_Learning_Instance-Level_Spatial-Temporal_Patterns_for_Person_Re-Identification_ICCV_2021_paper.pdf)] \[[github](https://github.com/RenMin1991/cleaned-DukeMTMC-reID/) ⭐ 15 | 🐛 1 | 📅 2021-08-26]
 >
-> ###### 23) *"TransReID: Transformer-Based Object Re-Identification"* \[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/He_TransReID_Transformer-Based_Object_Re-Identification_ICCV_2021_paper.pdf)] \[[github](https://github.com/heshuting555/TransReID) ⭐ 1,047 | 🐛 39 | 🌐 Python | 📅 2024-06-12]
+> ###### 23) *"TransReID: Transformer-Based Object Re-Identification"* \[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/He_TransReID_Transformer-Based_Object_Re-Identification_ICCV_2021_paper.pdf)] \[[github](https://github.com/heshuting555/TransReID) ⭐ 1,048 | 🐛 39 | 🌐 Python | 📅 2024-06-12]
 >
 > ###### 24) *"Attack-Guided Perceptual Data Generation for Real-World Re-Identification"* \[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Huang_Attack-Guided_Perceptual_Data_Generation_for_Real-World_Re-Identification_ICCV_2021_paper.pdf)]
 
@@ -1143,7 +1143,7 @@ These are papers that search for "gait" and "person re-identification" in google
 
 ## Datasets
 
-* Duke Leaderboard \[[page](https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/leaderboard) ⭐ 4,444 | 🐛 172 | 🌐 Python | 📅 2026-07-18]
+* Duke Leaderboard \[[page](https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/leaderboard) ⭐ 4,445 | 🐛 172 | 🌐 Python | 📅 2026-07-18]
 * Awesome re-id dataset \[[github](https://github.com/NEU-Gou/awesome-reid-dataset) ⭐ 1,103 | 🐛 14 | 📅 2025-10-23]
 * Market-1501 Leaderboard \[[page](https://jingdongwang2017.github.io/Projects/ReID/Datasets/result_market1501.html)]
 * Re-id dataset collection \[[page](http://robustsystems.coe.neu.edu/sites/robustsystems.coe.neu.edu/files/systems/projectpages/reiddataset.html)]
@@ -1299,4 +1299,4 @@ The github page will be revised largely at 2020 to provide more convenient infor
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
