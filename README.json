@@ -1448,7 +1448,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-re-id.md",
+          "title": "handong1587/handong1587.github.io",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1494,7 +1494,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T22:37:51.067Z",
+    "last_updated": "2026-08-25T06:03:48.049Z",
     "original_repository": "bismex/Awesome-person-re-identification",
     "original_repository_id": 65597500,
     "original_repository_sha": "7185322f85d74fa4bdfeffd30e233ee3475ee86e",
