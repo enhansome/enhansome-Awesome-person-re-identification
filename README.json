@@ -1332,7 +1332,7 @@
             "last_commit": "2026-01-09T05:23:24Z",
             "owner": "KaiyangZhou",
             "repo": "deep-person-reid",
-            "stars": 4899
+            "stars": 4900
           }
         },
         {
@@ -1347,7 +1347,7 @@
             "last_commit": "2023-11-30T13:19:34Z",
             "owner": "mangye16",
             "repo": "Cross-Modal-Re-ID-baseline",
-            "stars": 401
+            "stars": 402
           }
         },
         {
@@ -1494,7 +1494,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:03:48.049Z",
+    "last_updated": "2026-08-25T22:38:51.751Z",
     "original_repository": "bismex/Awesome-person-re-identification",
     "original_repository_id": 65597500,
     "original_repository_sha": "7185322f85d74fa4bdfeffd30e233ee3475ee86e",

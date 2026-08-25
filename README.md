@@ -1152,8 +1152,8 @@ These are papers that search for "gait" and "person re-identification" in google
 
 ## Codes
 
-* Library for deep-learning person re-identification \[[Torchreid(pytorch)](https://github.com/KaiyangZhou/deep-person-reid) ⭐ 4,899 | 🐛 163 | 🌐 Python | 📅 2026-01-09] \[[Openreid(pytorch)](https://github.com/Cysu/open-reid) ⭐ 1,367 | 🐛 37 | 🌐 Python | 📅 2019-04-23]
-* Cross modal reid baseline \[[Visual-thermal reid(pytorch)](https://github.com/mangye16/Cross-Modal-Re-ID-baseline) ⭐ 401 | 🐛 9 | 🌐 Python | 📅 2023-11-30]
+* Library for deep-learning person re-identification \[[Torchreid(pytorch)](https://github.com/KaiyangZhou/deep-person-reid) ⭐ 4,900 | 🐛 163 | 🌐 Python | 📅 2026-01-09] \[[Openreid(pytorch)](https://github.com/Cysu/open-reid) ⭐ 1,368 | 🐛 37 | 🌐 Python | 📅 2019-04-23]
+* Cross modal reid baseline \[[Visual-thermal reid(pytorch)](https://github.com/mangye16/Cross-Modal-Re-ID-baseline) ⭐ 402 | 🐛 9 | 🌐 Python | 📅 2023-11-30]
 * Language Person Search \[[Matlab](https://github.com/layumi/Image-Text-Embedding) ⭐ 297 | 🐛 12 | 🌐 MATLAB | 📅 2026-07-06]
 * 3D Person reid \[[Pytorch](https://github.com/layumi/person-reid-3d) ⭐ 271 | 🐛 11 | 🌐 Python | 📅 2026-07-06]
 * 2stream Person reid \[[Matlab](https://github.com/layumi/2016_person_re-ID) ⭐ 264 | 🐛 8 | 🌐 C | 📅 2026-07-06]
