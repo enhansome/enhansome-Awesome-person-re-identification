@@ -14,7 +14,7 @@ This is a repository for organizing articles related to person re-identification
 ### :high\_brightness: Other recommended related topics
 
 * Multi-camera multi-object tracking (MCMOT) \[[github1](https://github.com/luanshiyinyang/awesome-multiple-object-tracking) ⭐ 1,483 | 🐛 4 | 📅 2025-10-07] \[[github2](https://github.com/SherryJYC/paper-MTMC) ⭐ 207 | 🐛 0 | 📅 2022-11-30] \[[workshop:AI-city-challange](https://www.aicitychallenge.org/)] \[[workshop:MMP-Tracking](https://iccv2021-mmp.github.io/)]
-* Trajectory prediction \[[github1](https://github.com/xuehaouwa/Awesome-Trajectory-Prediction) ⭐ 1,249 | 🐛 4 | 📅 2023-01-31] \[[github2](https://github.com/jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction) ⭐ 1,690 | 🐛 1 | 🌐 TeX | 📅 2026-08-24]
+* Trajectory prediction \[[github1](https://github.com/xuehaouwa/Awesome-Trajectory-Prediction) ⭐ 1,249 | 🐛 4 | 📅 2023-01-31] \[[github2](https://github.com/jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction) ⭐ 1,689 | 🐛 1 | 🌐 TeX | 📅 2026-08-24]
 
 ### :high\_brightness: Updated 2024-06-17
 
@@ -131,7 +131,7 @@ This is a repository for organizing articles related to person re-identification
 >
 > ###### 3) *"ISAR: A Benchmark for Single- and Few-Shot Object Instance Segmentation and Re-Identification"* \[[paper](\[https://openaccess.thecvf.com/content/WACV2024/papers/Therien_Object_Re-Identification_From_Point_Clouds_WACV_2024_paper.pdf]\(https://openaccess.thecvf.com/content/WACV2024/papers/Gorlo_ISAR_A_Benchmark_for_Single-_and_Few-Shot_Object_Instance_Segmentation_WACV_2024_paper.pdf\))]
 >
-> ###### 4) *"WildlifeDatasets: An open-source toolkit for animal re-identification"* \[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Cermak_WildlifeDatasets_An_Open-Source_Toolkit_for_Animal_Re-Identification_WACV_2024_paper.pdf)] \[[github](https://github.com/WildlifeDatasets/wildlife-datasets) ⭐ 196 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-08-17]
+> ###### 4) *"WildlifeDatasets: An open-source toolkit for animal re-identification"* \[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Cermak_WildlifeDatasets_An_Open-Source_Toolkit_for_Animal_Re-Identification_WACV_2024_paper.pdf)] \[[github](https://github.com/WildlifeDatasets/wildlife-datasets) ⭐ 197 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-08-17]
 >
 > ###### 5) *"Computer Vision on the Edge: Individual Cattle Identification in Real-time with ReadMyCow System"* \[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Smink_Computer_Vision_on_the_Edge_Individual_Cattle_Identification_in_Real-Time_WACV_2024_paper.pdf)]
 
@@ -1152,7 +1152,7 @@ These are papers that search for "gait" and "person re-identification" in google
 
 ## Codes
 
-* Library for deep-learning person re-identification \[[Torchreid(pytorch)](https://github.com/KaiyangZhou/deep-person-reid) ⭐ 4,900 | 🐛 163 | 🌐 Python | 📅 2026-01-09] \[[Openreid(pytorch)](https://github.com/Cysu/open-reid) ⭐ 1,368 | 🐛 37 | 🌐 Python | 📅 2019-04-23]
+* Library for deep-learning person re-identification \[[Torchreid(pytorch)](https://github.com/KaiyangZhou/deep-person-reid) ⭐ 4,901 | 🐛 163 | 🌐 Python | 📅 2026-01-09] \[[Openreid(pytorch)](https://github.com/Cysu/open-reid) ⭐ 1,368 | 🐛 37 | 🌐 Python | 📅 2019-04-23]
 * Cross modal reid baseline \[[Visual-thermal reid(pytorch)](https://github.com/mangye16/Cross-Modal-Re-ID-baseline) ⭐ 402 | 🐛 9 | 🌐 Python | 📅 2023-11-30]
 * Language Person Search \[[Matlab](https://github.com/layumi/Image-Text-Embedding) ⭐ 296 | 🐛 12 | 🌐 MATLAB | 📅 2026-07-06]
 * 3D Person reid \[[Pytorch](https://github.com/layumi/person-reid-3d) ⭐ 271 | 🐛 11 | 🌐 Python | 📅 2026-07-06]

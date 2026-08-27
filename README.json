@@ -348,7 +348,7 @@
             "last_commit": "2026-08-17T07:36:57Z",
             "owner": "WildlifeDatasets",
             "repo": "wildlife-datasets",
-            "stars": 196
+            "stars": 197
           }
         }
       ],
@@ -1332,7 +1332,7 @@
             "last_commit": "2026-01-09T05:23:24Z",
             "owner": "KaiyangZhou",
             "repo": "deep-person-reid",
-            "stars": 4900
+            "stars": 4901
           }
         },
         {
@@ -1494,9 +1494,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T03:05:31.194Z",
-    "original_repository": "bismex/Awesome-person-re-identification",
-    "original_repository_id": 65597500,
+    "last_updated": "2026-08-27T11:24:30.333Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 65597500,
+      "language": null,
+      "last_commit": "2024-06-18T00:18:05Z",
+      "owner": "bismex",
+      "repo": "Awesome-person-re-identification",
+      "stars": 1361
+    },
     "original_repository_sha": "7185322f85d74fa4bdfeffd30e233ee3475ee86e",
     "enhanced_repository": "enhansome/enhansome-Awesome-person-re-identification",
     "enhanced_repository_description": null,
