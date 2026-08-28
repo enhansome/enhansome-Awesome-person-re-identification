@@ -13,7 +13,7 @@ This is a repository for organizing articles related to person re-identification
 
 ### :high\_brightness: Other recommended related topics
 
-* Multi-camera multi-object tracking (MCMOT) \[[github1](https://github.com/luanshiyinyang/awesome-multiple-object-tracking) ⭐ 1,483 | 🐛 4 | 📅 2025-10-07] \[[github2](https://github.com/SherryJYC/paper-MTMC) ⭐ 207 | 🐛 0 | 📅 2022-11-30] \[[workshop:AI-city-challange](https://www.aicitychallenge.org/)] \[[workshop:MMP-Tracking](https://iccv2021-mmp.github.io/)]
+* Multi-camera multi-object tracking (MCMOT) \[[github1](https://github.com/luanshiyinyang/awesome-multiple-object-tracking) ⭐ 1,483 | 🐛 5 | 📅 2025-10-07] \[[github2](https://github.com/SherryJYC/paper-MTMC) ⭐ 207 | 🐛 0 | 📅 2022-11-30] \[[workshop:AI-city-challange](https://www.aicitychallenge.org/)] \[[workshop:MMP-Tracking](https://iccv2021-mmp.github.io/)]
 * Trajectory prediction \[[github1](https://github.com/xuehaouwa/Awesome-Trajectory-Prediction) ⭐ 1,249 | 🐛 4 | 📅 2023-01-31] \[[github2](https://github.com/jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction) ⭐ 1,689 | 🐛 1 | 🌐 TeX | 📅 2026-08-24]
 
 ### :high\_brightness: Updated 2024-06-17
@@ -147,7 +147,7 @@ This is a repository for organizing articles related to person re-identification
 >
 > ###### 3) *"Towards Grand Unified Representation Learning for Unsupervised Visible-Infrared Person Re-Identification"* \[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Towards_Grand_Unified_Representation_Learning_for_Unsupervised_Visible-Infrared_Person_Re-Identification_ICCV_2023_paper.pdf)] \[[github](https://github.com/yangbincv/GUR) ⭐ 20 | 🐛 3 | 🌐 Python | 📅 2023-10-21]
 >
-> ###### 4) *"A Long-Term Person Re-Identification Benchmark with Clothes Change"* \[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_DeepChange_A_Long-Term_Person_Re-Identification_Benchmark_with_Clothes_Change_ICCV_2023_paper.pdf)] \[[github](https://github.com/PengBoXiangShang/deepchange) ⭐ 155 | 🐛 1 | 📅 2025-10-08]
+> ###### 4) *"A Long-Term Person Re-Identification Benchmark with Clothes Change"* \[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_DeepChange_A_Long-Term_Person_Re-Identification_Benchmark_with_Clothes_Change_ICCV_2023_paper.pdf)] \[[github](https://github.com/PengBoXiangShang/deepchange) ⭐ 156 | 🐛 1 | 📅 2025-10-08]
 >
 > ###### 5) *"Discrepant and Multi-instance Proxies for Unsupervised Person Re-identification"* \[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zou_Discrepant_and_Multi-Instance_Proxies_for_Unsupervised_Person_Re-Identification_ICCV_2023_paper.pdf)]
 >
@@ -1075,7 +1075,7 @@ This is a repository for organizing articles related to person re-identification
 
 > ###### 1) *"Beyond Intra-modality: A Survey of Heterogeneous Person Re-identification"*, IJCAI 2020 \[[paper](https://arxiv.org/abs/1905.10048)] \[[github](https://github.com/lightChaserX/Awesome-Hetero-reID)]
 >
-> ###### 2) *"Deep Learning for Person Re-identification: A Survey and Outlook"*, arXiv 2020 \[[paper](https://arxiv.org/abs/2001.04193)] \[[github](https://github.com/mangye16/ReID-Survey) ⭐ 755 | 🐛 18 | 🌐 Python | 📅 2025-02-17]
+> ###### 2) *"Deep Learning for Person Re-identification: A Survey and Outlook"*, arXiv 2020 \[[paper](https://arxiv.org/abs/2001.04193)] \[[github](https://github.com/mangye16/ReID-Survey) ⭐ 756 | 🐛 18 | 🌐 Python | 📅 2025-02-17]
 >
 > ###### 3) *"Person search: New paradigm of person re-identification: A survey and outlook of recent works"*, Image and Vision Computing 2020 \[[paper](https://www.sciencedirect.com/science/article/pii/S0262885620301025)]
 >
@@ -1299,4 +1299,4 @@ The github page will be revised largely at 2020 to provide more convenient infor
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
