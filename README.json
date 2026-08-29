@@ -10,12 +10,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Vehicle Re-identification",
+            "homepage": null,
             "id": 249192342,
             "language": null,
+            "license": null,
             "last_commit": "2021-10-23T06:31:19Z",
+            "open_issues": 0,
             "owner": "bismex",
             "repo": "Awesome-vehicle-re-identification",
-            "stars": 162
+            "stars": 162,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "awesome-reid",
+              "identification",
+              "re-id",
+              "reid",
+              "reidentification",
+              "vehicle",
+              "vehicle-re-identification",
+              "vehicle-reid",
+              "vehicle-reidentification"
+            ]
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -26,12 +43,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Cross-modality Person Re-identification",
+            "homepage": null,
             "id": 195900171,
             "language": null,
+            "license": null,
             "last_commit": "2022-07-14T06:22:11Z",
+            "open_issues": 1,
             "owner": "bismex",
             "repo": "Awesome-cross-modality-person-re-identification",
-            "stars": 154
+            "stars": 154,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "awesome-reid",
+              "cross-modality",
+              "cross-modality-re-identification",
+              "cross-modality-reid",
+              "infrared-reid",
+              "person-re-identification",
+              "person-reid",
+              "person-reidentification",
+              "re-id",
+              "reid",
+              "reidentification",
+              "rgb-infrared-tracking",
+              "rgb-t-tracking",
+              "thermal-image-translation",
+              "visible-thermal",
+              "visible-thermal-reid"
+            ]
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         }
@@ -48,12 +89,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Resources for Multiple Object Tracking (MOT)",
+            "homepage": null,
             "id": 273806363,
             "language": null,
+            "license": null,
             "last_commit": "2025-10-07T06:54:10Z",
+            "open_issues": 5,
             "owner": "luanshiyinyang",
             "repo": "awesome-multiple-object-tracking",
-            "stars": 1483
+            "stars": 1483,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -64,12 +110,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 159589360,
             "language": null,
+            "license": null,
             "last_commit": "2023-01-31T21:06:47Z",
+            "open_issues": 4,
             "owner": "xuehaouwa",
             "repo": "Awesome-Trajectory-Prediction",
-            "stars": 1249
+            "stars": 1249,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         }
@@ -86,12 +137,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for Harnessing the Power of MLLMs for Transferable Text-to-Image Person ReID (CVPR 2024)",
+            "homepage": null,
             "id": 770247002,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-07-13T01:55:02Z",
+            "open_issues": 14,
             "owner": "MPI-Lab",
             "repo": "MLLM4Text-ReID",
-            "stars": 91
+            "stars": 91,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -102,12 +158,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 771518731,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-05-06T03:20:55Z",
+            "open_issues": 0,
             "owner": "PKU-ICST-MIPL",
             "repo": "C2R_CVPR2024",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -118,12 +179,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2024] LiDAR-based Person Re-identification",
+            "homepage": null,
             "id": 730141212,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-09-19T08:33:41Z",
+            "open_issues": 10,
             "owner": "GWxuan",
             "repo": "ReID3D",
-            "stars": 60
+            "stars": 60,
+            "topics": [
+              "lidar",
+              "person-reidentification",
+              "point-cloud",
+              "reid"
+            ]
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -134,12 +205,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR2024] UFineBench: Towards Text-based Person Retrieval with Ultra-fine Granularity",
+            "homepage": null,
             "id": 728112409,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-09-28T05:06:11Z",
+            "open_issues": 7,
             "owner": "Zplusdragon",
             "repo": "UFineBench",
-            "stars": 81
+            "stars": 81,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -150,12 +226,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR2024] Distribution-aware Knowledge Prototyping for Non-exemplar Lifelong Person Re-identification ",
+            "homepage": null,
             "id": 769810052,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-07-03T06:27:38Z",
+            "open_issues": 3,
             "owner": "zhoujiahuan1991",
             "repo": "CVPR2024-DKP",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -166,12 +247,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Noisy-Correspondence Learning for Text-to-Image Person Re-identification (CVPR 2024 Pytorch Code)",
+            "homepage": null,
             "id": 678248380,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-11-28T12:18:12Z",
+            "open_issues": 1,
             "owner": "QinYang79",
             "repo": "RDE",
-            "stars": 133
+            "stars": 133,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -182,12 +268,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A General-purpose Person Re-identification Task with Instructions",
+            "homepage": null,
             "id": 652903019,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-04-01T03:15:47Z",
+            "open_issues": 16,
             "owner": "hwz-zju",
             "repo": "Instruct-ReID",
-            "stars": 199
+            "stars": 199,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -198,12 +289,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "【CVPR2024】Magic Tokens: Select Diverse Tokens for Multi-modal Object Re-Identification",
+            "homepage": null,
             "id": 771874034,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-10-24T07:09:23Z",
+            "open_issues": 0,
             "owner": "924973292",
             "repo": "EDITOR",
-            "stars": 114
+            "stars": 114,
+            "topics": [
+              "cvpr2024",
+              "frequency-analysis",
+              "msvr310",
+              "multi-modal",
+              "multi-modal-learning",
+              "person-reid",
+              "reid",
+              "rgbnt100",
+              "rgbnt201",
+              "token-selection",
+              "vehicle-reidentification"
+            ]
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -214,12 +322,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2024] CA-Jaccard: Camera-aware Jaccard Distance for Person Re-identification",
+            "homepage": null,
             "id": 768221323,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-10-28T01:46:34Z",
+            "open_issues": 0,
             "owner": "chenyiyuu",
             "repo": "CA-Jaccard",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -230,12 +343,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 774321075,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-11-22T00:13:38Z",
+            "open_issues": 7,
             "owner": "yangbincv",
             "repo": "SDCL",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -246,12 +364,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "View-decoupled Transformer for Person Re-identification under Aerial-ground Camera Network (CVPR'24)",
+            "homepage": null,
             "id": 764239184,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-26T20:51:48Z",
+            "open_issues": 5,
             "owner": "LinlyAC",
             "repo": "VDT-AGPReID",
-            "stars": 60
+            "stars": 60,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -262,12 +385,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 771812979,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-08-08T19:20:52Z",
+            "open_issues": 13,
             "owner": "1KK077",
             "repo": "IDKL",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -278,12 +406,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 772213344,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-03-14T18:47:57Z",
+            "open_issues": 3,
             "owner": "sacrcv",
             "repo": "Activity-Biometrics",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         }
@@ -300,12 +433,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 684547469,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-01-18T13:01:14Z",
+            "open_issues": 1,
             "owner": "ramiMMhamza",
             "repo": "S2P",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -316,12 +454,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 598927505,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2026-01-17T16:34:49Z",
+            "open_issues": 4,
             "owner": "jurgendn",
             "repo": "CVSL_LReID",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -332,12 +475,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DDAM-PS: Diligent Domain Adaptive Mixer for Person Search -- WACV2024",
+            "homepage": null,
             "id": 711549413,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-02-28T14:07:28Z",
+            "open_issues": 1,
             "owner": "mustansarfiaz",
             "repo": "DDAM-PS",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -348,12 +496,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[WACV'24] Object Re-Identification from Point Clouds",
+            "homepage": "https://openaccess.thecvf.com/content/WACV2024/html/Therien_Object_Re-Identification_From_Point_Clouds_WACV_2024_paper.html",
             "id": 713088577,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-16T15:57:40Z",
+            "open_issues": 1,
             "owner": "bentherien",
             "repo": "point-cloud-reid",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -364,12 +517,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WildlifeDatasets: An open-source toolkit for animal re-identification",
+            "homepage": "https://wildlifedatasets.github.io/wildlife-datasets/",
             "id": 546057103,
             "language": "Jupyter Notebook",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-17T07:36:57Z",
+            "open_issues": 1,
             "owner": "WildlifeDatasets",
             "repo": "wildlife-datasets",
-            "stars": 197
+            "stars": 197,
+            "topics": [
+              "dataset",
+              "datasets",
+              "deep-learning",
+              "ecology",
+              "ecology-modelling",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         }
@@ -386,12 +551,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The code for ICCV2023 Oral paper: Identity-Seeking Self-Supervised Representation Learning for Generalizable Person Re-identification",
+            "homepage": null,
             "id": 678734078,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-10-01T13:41:44Z",
+            "open_issues": 7,
             "owner": "dcp15",
             "repo": "ISR_ICCV2023_Oral",
-            "stars": 82
+            "stars": 82,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -402,12 +572,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learning Clothing and Pose Invariant 3D Shape Representation for Long-Term Person Re-Identification (ICCV 2023)",
+            "homepage": "http://cvlab.cse.msu.edu/project-reid3dinvar.html",
             "id": 687127342,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-01-22T16:16:19Z",
+            "open_issues": 5,
             "owner": "liufeng2915",
             "repo": "3DInvarReID",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "3dhuman",
+              "body-shape-matching",
+              "personreid"
+            ]
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -418,12 +597,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Implementation of our ICCV 2023 paper: Towards Grand Unified Representation Learning for Unsupervised Visible-Infrared Person Re-Identification.",
+            "homepage": null,
             "id": 675173425,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-10-21T07:43:52Z",
+            "open_issues": 3,
             "owner": "yangbincv",
             "repo": "GUR",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -434,12 +618,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ICCV 2023, project page of the paper \"DeepChange: A Long-term Person Re-identification Benchmark\"",
+            "homepage": null,
             "id": 392680963,
             "language": null,
+            "license": null,
             "last_commit": "2025-10-08T12:40:43Z",
+            "open_issues": 1,
             "owner": "PengBoXiangShang",
             "repo": "deepchange",
-            "stars": 156
+            "stars": 156,
+            "topics": [
+              "benchmark",
+              "clothes-change",
+              "database",
+              "dataset",
+              "long-term-person-re-identification",
+              "person-re-id",
+              "person-re-identification"
+            ]
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -450,12 +647,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 672133335,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-04-12T01:24:03Z",
+            "open_issues": 7,
             "owner": "xiaoye-hhh",
             "repo": "SAAI",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -466,12 +668,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 678019635,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-09-24T07:12:24Z",
+            "open_issues": 9,
             "owner": "ZhiyinShao-H",
             "repo": "UniPT",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -482,12 +689,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV 2023] An official implementation for \"Part-Aware Transformer for Generalizable Person Re-identification\"",
+            "homepage": null,
             "id": 565034545,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-12-02T08:29:04Z",
+            "open_issues": 13,
             "owner": "liyuke65535",
             "repo": "Part-Aware-Transformer",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -498,12 +710,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Event-based Person ReId",
+            "homepage": null,
             "id": 673473444,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-09-09T13:25:43Z",
+            "open_issues": 2,
             "owner": "IIT-PAVIS",
             "repo": "ReId_without_Id",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -514,12 +731,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code of SSL[ICCV 2023]: Self-similarity Driven Scale-invariant Learning for Weakly Supervised Person Search",
+            "homepage": null,
             "id": 673684751,
             "language": null,
+            "license": null,
             "last_commit": "2023-08-02T07:38:21Z",
+            "open_issues": 1,
             "owner": "Wangbenzhi",
             "repo": "SSL",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         }
@@ -536,12 +758,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official code of \"Towards Unified Text-based Person Retrieval: A Large-scale Multi-Attribute and Language Search Benchmark\"",
+            "homepage": "https://arxiv.org/abs/2306.02898",
             "id": 655641296,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-06T08:31:06Z",
+            "open_issues": 4,
             "owner": "Shuyu-XJTU",
             "repo": "APTM",
-            "stars": 177
+            "stars": 177,
+            "topics": [
+              "attribute-prompt-learning",
+              "image-text-alignment",
+              "multi-attribute-recognition",
+              "synthetic-data",
+              "text-based-person-retrieval"
+            ]
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         }
@@ -558,12 +791,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[WACV23] A strong baseline for body part-based person re-identification",
+            "homepage": null,
             "id": 550391294,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-11-05T23:01:41Z",
+            "open_issues": 20,
             "owner": "VlSomers",
             "repo": "bpbreid",
-            "stars": 258
+            "stars": 258,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "gilt",
+              "part-based",
+              "part-based-triplet-loss",
+              "person",
+              "person-re-identification",
+              "person-reidentification",
+              "pytorch",
+              "re-identification",
+              "reid",
+              "reidentification",
+              "tracking",
+              "wacv2023"
+            ]
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         }
@@ -580,12 +833,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for ICCV 2021 paper Pyramid Spatial-Temporal Aggregation for Video-based Person Re-Identification",
+            "homepage": null,
             "id": 396042558,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-06-01T15:09:43Z",
+            "open_issues": 5,
             "owner": "WangYQ9",
             "repo": "VideoReID_PSTA",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -596,12 +854,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation for ICCV 2021 paper \"ICE: Inter-instance Contrastive Encoding for Unsupervised Person Re-identification\"",
+            "homepage": null,
             "id": 320609293,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-12-06T10:02:55Z",
+            "open_issues": 13,
             "owner": "chenhao2345",
             "repo": "ICE",
-            "stars": 49
+            "stars": 49,
+            "topics": [
+              "person-reidentification"
+            ]
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -612,12 +877,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CM-NAS: Cross-Modality Neural Architecture Search for Visible-Infrared Person Re-Identification (ICCV2021)",
+            "homepage": "https://arxiv.org/abs/2101.08467",
             "id": 394194947,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2021-08-12T07:28:34Z",
+            "open_issues": 3,
             "owner": "JDAI-CV",
             "repo": "CM-NAS",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "cm-nas",
+              "cross-modality",
+              "nas",
+              "neural-architecture-search",
+              "reid",
+              "visible-infrared"
+            ]
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -628,12 +905,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 389306821,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-03-08T01:57:22Z",
+            "open_issues": 2,
             "owner": "SikaStar",
             "repo": "IDM",
-            "stars": 103
+            "stars": 103,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -644,12 +926,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 686931701,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-09-04T09:12:49Z",
+            "open_issues": 2,
             "owner": "X-BrainLab",
             "repo": "WS_Text-ReID",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -660,12 +947,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cleaned test data list of DukeMTMC-reID, ICCV2021",
+            "homepage": null,
             "id": 391269706,
             "language": null,
+            "license": null,
             "last_commit": "2021-08-26T02:52:02Z",
+            "open_issues": 1,
             "owner": "RenMin1991",
             "repo": "cleaned-DukeMTMC-reID",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -676,12 +968,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV-2021] TransReID: Transformer-based Object Re-Identification",
+            "homepage": null,
             "id": 351802749,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-06-12T05:28:31Z",
+            "open_issues": 39,
             "owner": "damo-cv",
             "repo": "TransReID",
-            "stars": 1048
+            "stars": 1048,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -692,12 +989,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV 2021] Counterfactual Attention Learning for Fine-Grained Visual Categorization and Re-identification",
+            "homepage": null,
             "id": 397947436,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-01-05T09:04:47Z",
+            "open_issues": 9,
             "owner": "raoyongming",
             "repo": "CAL",
-            "stars": 159
+            "stars": 159,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -708,12 +1010,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "(ICCV'21) Official code of \"Dressing in Order: Recurrent Person Image Generation for Pose Transfer, Virtual Try-on and Outfit Editing.\" (No longer actively maintained)",
+            "homepage": "https://cuiaiyu.github.io/dressing-in-order",
             "id": 357386419,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2024-12-30T00:52:10Z",
+            "open_issues": 14,
             "owner": "cuiaiyu",
             "repo": "dressing-in-order",
-            "stars": 551
+            "stars": 551,
+            "topics": [
+              "iccv2021",
+              "pose-transfer"
+            ]
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         }
@@ -730,12 +1040,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR2021] Meta Batch-Instance Normalization for Generalizable Person Re-Identification",
+            "homepage": null,
             "id": 293723862,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-11-10T01:50:46Z",
+            "open_issues": 8,
             "owner": "bismex",
             "repo": "MetaBIN",
-            "stars": 71
+            "stars": 71,
+            "topics": [
+              "cvpr",
+              "cvpr2021",
+              "dg",
+              "domain-generalization",
+              "instance-normalization",
+              "maml",
+              "meta-learning",
+              "normalisation",
+              "normalization",
+              "person-reid",
+              "person-reidentification",
+              "re-id"
+            ]
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -746,12 +1074,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation \"Intra-Inter Camera Similarity for Unsupervised Person Re-Identification\" in pytorch (CVPR2021)",
+            "homepage": null,
             "id": 344468333,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-05-09T07:39:25Z",
+            "open_issues": 3,
             "owner": "SY-Xuan",
             "repo": "IICS",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -762,12 +1095,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for our CVPR 2021 paper \"MetaCam+DSCE\"",
+            "homepage": null,
             "id": 345499435,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-12-31T20:35:36Z",
+            "open_issues": 2,
             "owner": "FlyingRoastDuck",
             "repo": "MetaCam_DSCE",
-            "stars": 58
+            "stars": 58,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -778,12 +1116,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "offical implement of our Lifelong Person Re-Identification via Adaptive Knowledge Accumulation in CVPR2021",
+            "homepage": null,
             "id": 349379514,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-04-04T10:30:33Z",
+            "open_issues": 6,
             "owner": "TPCD",
             "repo": "LifelongReID",
-            "stars": 90
+            "stars": 90,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -794,12 +1137,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source stronger baseline for unsupervised or domain adaptive object re-ID.",
+            "homepage": null,
             "id": 276544237,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-08-05T09:28:32Z",
+            "open_issues": 6,
             "owner": "zkcys001",
             "repo": "UDAStrongBaseline",
-            "stars": 144
+            "stars": 144,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -810,12 +1158,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytorch implementation for M^3L. CVPR 2021",
+            "homepage": null,
             "id": 348350456,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-06-23T04:26:40Z",
+            "open_issues": 3,
             "owner": "HeliosZhao",
             "repo": "M3L",
-            "stars": 66
+            "stars": 66,
+            "topics": [
+              "cvpr2021",
+              "personreid"
+            ]
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -826,12 +1182,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 384514338,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-08-16T07:23:31Z",
+            "open_issues": 1,
             "owner": "Neverland610",
             "repo": "MSUDA_REID",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         }
@@ -848,12 +1209,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR2020] Hi-CMD: Hierarchical Cross-Modality Disentanglement for Visible-Infrared Person Re-Identification",
+            "homepage": "https://sites.google.com/site/seokeonchoi/",
             "id": 223299309,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-05-07T08:18:46Z",
+            "open_issues": 1,
             "owner": "bismex",
             "repo": "HiCMD",
-            "stars": 82
+            "stars": 82,
+            "topics": [
+              "cross-modality-re-identification",
+              "cvpr",
+              "cvpr2020",
+              "disentanglement",
+              "person-re-identification",
+              "person-reid",
+              "person-reidentification",
+              "re-id",
+              "regdb",
+              "regdb-dataset",
+              "reid",
+              "representation-learning",
+              "sysu-evaluation",
+              "sysu-features"
+            ]
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -864,12 +1245,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a pytorch implementation of the CVPR2020 paper: Transferable, Controllable, and Inconspicuous Adversarial Attacks on Person Re-identification With Deep Mis-Ranking",
+            "homepage": null,
             "id": 245167855,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-06-04T05:43:41Z",
+            "open_issues": 3,
             "owner": "whj363636",
             "repo": "Adversarial-attack-on-Person-ReID-With-Deep-Mis-Ranking",
-            "stars": 97
+            "stars": 97,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -880,12 +1266,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "We design an effective Relation-Aware Global Attention (RGA) module for CNNs to globally infer the attention. ",
+            "homepage": null,
             "id": 195148889,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-06-12T18:55:26Z",
+            "open_issues": 27,
             "owner": "microsoft",
             "repo": "Relation-Aware-Global-Attention-Networks",
-            "stars": 375
+            "stars": 375,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -896,12 +1287,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR20] Weakly supervised discriminative learning with state information for person identification",
+            "homepage": null,
             "id": 243452573,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-12-22T01:25:20Z",
+            "open_issues": 3,
             "owner": "KovenYu",
             "repo": "state-information",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -912,12 +1308,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR2020] High-Order Information Matters: Learning Relation and Topology for Occluded Person Re-Identification",
+            "homepage": null,
             "id": 252045606,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-09-29T07:29:33Z",
+            "open_issues": 4,
             "owner": "wangguanan",
             "repo": "HOReID",
-            "stars": 207
+            "stars": 207,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -928,12 +1329,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch code for CVPR'2020 paper “Pose-guided Visible Part Matching for Occluded Person ReID”",
+            "homepage": null,
             "id": 245611247,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-05-29T02:57:47Z",
+            "open_issues": 10,
             "owner": "hh23333",
             "repo": "PVPM",
-            "stars": 115
+            "stars": 115,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -944,12 +1350,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Implementation of paper \"Controllable Person Image Synthesis with Attribute-Decomposed GAN\" CVPR 2020 (Oral); Pose and Appearance Attributes Transfer;",
+            "homepage": null,
             "id": 249167869,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-11-16T23:25:22Z",
+            "open_issues": 37,
             "owner": "menyifang",
             "repo": "ADGAN",
-            "stars": 483
+            "stars": 483,
+            "topics": [
+              "gan",
+              "generative-adversarial-network",
+              "image-synthesis",
+              "pose-transfer",
+              "pytorch",
+              "virtual-try-on"
+            ]
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -960,12 +1378,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The source code for paper \"Deep Image Spatial Transformation for Person Image Generation\"",
+            "homepage": "https://renyurui.github.io/GFLA-web",
             "id": 243668574,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2022-09-03T09:29:52Z",
+            "open_issues": 30,
             "owner": "RenYurui",
             "repo": "Global-Flow-Local-Attention",
-            "stars": 567
+            "stars": 567,
+            "topics": [
+              "cvpr2020",
+              "spatial-transformer-network"
+            ]
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         }
@@ -982,12 +1408,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 179048626,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-08-30T15:40:34Z",
+            "open_issues": 19,
             "owner": "QizeYang",
             "repo": "PAUL",
-            "stars": 91
+            "stars": 91,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -998,12 +1429,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytorch code for our CVPR'19 (oral) work: Unsupervised person re-identification by soft multilabel learning",
+            "homepage": "https://kovenyu.com/publication/2019-cvpr-mar/",
             "id": 175545909,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-12-22T01:27:45Z",
+            "open_issues": 5,
             "owner": "KovenYu",
             "repo": "MAR",
-            "stars": 318
+            "stars": 318,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -1014,12 +1450,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Invariance Matters: Exemplar Memory for Domain Adaptive Person Re-identification CVPR 2019",
+            "homepage": null,
             "id": 177545937,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2019-07-18T04:00:00Z",
+            "open_issues": 8,
             "owner": "zhunzhong07",
             "repo": "ECN",
-            "stars": 304
+            "stars": 304,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -1030,12 +1471,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":couple: Joint Discriminative and Generative Learning for Person Re-identification. CVPR'19 (Oral) :couple:",
+            "homepage": "https://www.zdzheng.xyz/publication/Joint-di2019",
             "id": 194320424,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-07-09T10:24:47Z",
+            "open_issues": 45,
             "owner": "NVlabs",
             "repo": "DG-Net",
-            "stars": 1298
+            "stars": 1298,
+            "topics": [
+              "apex",
+              "cuhk-np",
+              "dg-net",
+              "dukemtmc-reid",
+              "image-retrieval",
+              "image-search",
+              "market-1501",
+              "msmt17",
+              "open-reid",
+              "person-reid",
+              "person-reidentification",
+              "pytorch",
+              "re-identification"
+            ]
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -1046,12 +1506,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Project page of \"Dissecting-Person-Re-identification-from-the-Viewpoint-of-Viewpoint, cvpr2019\"",
+            "homepage": null,
             "id": 174322052,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-08-17T06:29:23Z",
+            "open_issues": 1,
             "owner": "sxzrt",
             "repo": "Dissecting-Person-Re-ID-from-the-Viewpoint-of-Viewpoint",
-            "stars": 125
+            "stars": 125,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -1062,12 +1527,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 179820996,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-03-08T13:37:47Z",
+            "open_issues": 3,
             "owner": "munjalbharti",
             "repo": "Query-guided-End-to-End-Person-Search",
-            "stars": 68
+            "stars": 68,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -1078,12 +1548,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR2019, Oral]  Learning Context Graph for Person Search",
+            "homepage": null,
             "id": 176305865,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-12-04T05:10:50Z",
+            "open_issues": 6,
             "owner": "sjtuzq",
             "repo": "person_search_gcn",
-            "stars": 130
+            "stars": 130,
+            "topics": [
+              "graph-convolutional-networks",
+              "person-search",
+              "re-id"
+            ]
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -1094,12 +1573,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the paper Progressive Pose Attention for Person Image Generation in CVPR19 (Oral).",
+            "homepage": null,
             "id": 173587324,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-02-11T19:15:30Z",
+            "open_issues": 40,
             "owner": "tengteng95",
             "repo": "Pose-Transfer",
-            "stars": 741
+            "stars": 741,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -1110,12 +1594,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch Implementation for Unsupervised Person Image Generation with Semantic Parsing Transformation",
+            "homepage": null,
             "id": 179525539,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-05-21T09:11:36Z",
+            "open_issues": 7,
             "owner": "SijieSong",
             "repo": "person_generation_spt",
-            "stars": 110
+            "stars": 110,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         }
@@ -1132,12 +1621,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generalizing A Person Retrieval Model Hetero- and Homogeneously ECCV 2018",
+            "homepage": null,
             "id": 140219119,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-04-25T12:20:36Z",
+            "open_issues": 4,
             "owner": "zhunzhong07",
             "repo": "HHL",
-            "stars": 131
+            "stars": 131,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -1148,12 +1642,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for ECCV2018 paper: Part-Aligned Bilinear Representations for Person Re-Identification",
+            "homepage": null,
             "id": 142399440,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2019-08-29T05:27:11Z",
+            "open_issues": 14,
             "owner": "yuminsuh",
             "repo": "part_bilinear_reid",
-            "stars": 140
+            "stars": 140,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         }
@@ -1170,12 +1669,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CVPR2018: Unsupervised Cross-dataset Person Re-identification by Transfer Learning of Spatio-temporal Patterns",
+            "homepage": null,
             "id": 125446305,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-01-26T09:03:13Z",
+            "open_issues": 6,
             "owner": "ahangchen",
             "repo": "TFusion",
-            "stars": 310
+            "stars": 310,
+            "topics": [
+              "cvpr2018",
+              "fusion",
+              "reid",
+              "unsupervised"
+            ]
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -1186,12 +1695,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SPGAN in CVPR'18",
+            "homepage": null,
             "id": 113845324,
             "language": "MATLAB",
+            "license": "MIT",
             "last_commit": "2021-03-27T12:43:10Z",
+            "open_issues": 3,
             "owner": "Simon4Yan",
             "repo": "Learning-via-Translation",
-            "stars": 208
+            "stars": 208,
+            "topics": [
+              "domain-adaptation",
+              "person-reidentification"
+            ]
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -1202,12 +1719,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CVPR 2018 Exploit the Unknown Gradually: One-Shot Video-Based Person Re-Identification by Stepwise Learning",
+            "homepage": "https://yu-wu.net/pdf/CVPR2018_Exploit-Unknown-Gradually.pdf",
             "id": 125861050,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-04-26T03:14:56Z",
+            "open_issues": 2,
             "owner": "Yu-Wu",
             "repo": "Exploit-Unknown-Gradually",
-            "stars": 124
+            "stars": 124,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         }
@@ -1224,12 +1746,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MATLAB code for our ICCV'17 work: CAMEL (Clustering-based Asymmetric MEtric Learning)",
+            "homepage": null,
             "id": 110326318,
             "language": "Cuda",
+            "license": null,
             "last_commit": "2018-12-21T06:11:08Z",
+            "open_issues": 2,
             "owner": "KovenYu",
             "repo": "CAMEL",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -1240,12 +1767,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ICCV2017 Unlabeled Samples Generated by GAN Improve the Person Re-identification Baseline in vitro",
+            "homepage": "https://arxiv.org/abs/1701.07717",
             "id": 97428018,
             "language": "Cuda",
+            "license": "MIT",
             "last_commit": "2021-06-29T10:21:55Z",
+            "open_issues": 7,
             "owner": "layumi",
             "repo": "Person-reID_GAN",
-            "stars": 321
+            "stars": 321,
+            "topics": [
+              "gan",
+              "iccv2017",
+              "image-retrieval",
+              "matconvnet",
+              "person-re-identification",
+              "person-recognition",
+              "person-reid",
+              "person-reidentification",
+              "re-id"
+            ]
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -1256,12 +1798,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unsupervised Person Re-identification (ICCV 2017)",
+            "homepage": null,
             "id": 97898694,
             "language": "Matlab",
+            "license": null,
             "last_commit": "2018-03-04T15:10:35Z",
+            "open_issues": 1,
             "owner": "mangye16",
             "repo": "dgm_re-id",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "re-identification"
+            ]
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         }
@@ -1278,12 +1827,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep Learning for Person Re-identification:  A Survey and Outlook ",
+            "homepage": null,
             "id": 231049215,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-02-17T02:00:32Z",
+            "open_issues": 18,
             "owner": "mangye16",
             "repo": "ReID-Survey",
-            "stars": 756
+            "stars": 756,
+            "topics": [
+              "deep-learning",
+              "person-re-identification",
+              "re-identification",
+              "survey"
+            ]
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         }
@@ -1300,12 +1859,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 94908653,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-02-07T05:24:20Z",
+            "open_issues": 17,
             "owner": "hehefan",
             "repo": "Unsupervised-Person-Re-identification-Clustering-and-Fine-tuning",
-            "stars": 222
+            "stars": 222,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -1316,12 +1880,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of paper \"Person Re-identification in Appearance Impaired Scenarios\" in BMVC 2016",
+            "homepage": null,
             "id": 68019745,
             "language": "Matlab",
+            "license": "MIT",
             "last_commit": "2016-09-17T01:47:44Z",
+            "open_issues": 1,
             "owner": "NEU-Gou",
             "repo": "dynamicreid",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -1332,12 +1901,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Recurrent Attention Models for Depth-Based Person Identification",
+            "homepage": "https://www.albert.cm/projects/ram_person_id/",
             "id": 68612653,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2016-08-21T20:42:14Z",
+            "open_issues": 0,
             "owner": "zhengkang86",
             "repo": "ram_person_id",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -1348,12 +1922,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TCSVT2018 Pedestrian Alignment Network for Large-scale Person Re-identification",
+            "homepage": "https://ieeexplore.ieee.org/document/8481710",
             "id": 96018179,
             "language": "Cuda",
+            "license": "MIT",
             "last_commit": "2026-07-06T00:55:24Z",
+            "open_issues": 13,
             "owner": "layumi",
             "repo": "Pedestrian_Alignment",
-            "stars": 238
+            "stars": 238,
+            "topics": [
+              "alignment",
+              "matconvnet",
+              "matlab",
+              "person-re-identification",
+              "person-recognition",
+              "person-reid",
+              "re-identification",
+              "reid",
+              "reidentification"
+            ]
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         }
@@ -1370,12 +1959,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":bouncing_ball_person: Pytorch ReID: A tiny, friendly, strong pytorch implement of person re-id / vehicle re-id baseline. Tutorial 👉https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/tutorial",
+            "homepage": "https://www.zdzheng.xyz",
             "id": 115712649,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-18T07:34:37Z",
+            "open_issues": 174,
             "owner": "layumi",
             "repo": "Person_reID_baseline_pytorch",
-            "stars": 4447
+            "stars": 4447,
+            "topics": [
+              "awesome-reid",
+              "baseline",
+              "circle-loss",
+              "cuhk-np",
+              "image-retrieval",
+              "image-search",
+              "market-1501",
+              "metric-learning",
+              "msmt17",
+              "object-reid",
+              "open-reid",
+              "person-reid",
+              "person-reidentification",
+              "pytorch",
+              "random-erasing",
+              "re-ranking",
+              "tutorial",
+              "vehicle-reid"
+            ]
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -1386,12 +1999,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of public available person re-identification datasets",
+            "homepage": null,
             "id": 151848528,
             "language": null,
+            "license": null,
             "last_commit": "2025-10-23T07:24:42Z",
+            "open_issues": 14,
             "owner": "NEU-Gou",
             "repo": "awesome-reid-dataset",
-            "stars": 1105
+            "stars": 1105,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         }
@@ -1408,12 +2026,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Torchreid: Deep learning person re-identification in PyTorch.",
+            "homepage": "https://kaiyangzhou.github.io/deep-person-reid/",
             "id": 124800162,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-09T05:23:24Z",
+            "open_issues": 163,
             "owner": "KaiyangZhou",
             "repo": "deep-person-reid",
-            "stars": 4901
+            "stars": 4901,
+            "topics": [
+              "computer-vision",
+              "cross-domain",
+              "deep-learning",
+              "deep-neural-networks",
+              "image-retrieval",
+              "machine-learning",
+              "metric-learning",
+              "person-reid",
+              "person-reidentification",
+              "pytorch",
+              "re-ranking"
+            ]
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -1424,12 +2059,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytorch Code for Cross-Modality Person Re-Identification (Visible Thermal/Infrared Re-ID)",
+            "homepage": null,
             "id": 161232372,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-11-30T13:19:34Z",
+            "open_issues": 9,
             "owner": "mangye16",
             "repo": "Cross-Modal-Re-ID-baseline",
-            "stars": 402
+            "stars": 402,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -1440,12 +2080,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TOMM2020 Dual-Path Convolutional Image-Text Embedding with Instance Loss  :feet:  https://arxiv.org/abs/1711.05535",
+            "homepage": null,
             "id": 111048530,
             "language": "MATLAB",
+            "license": "MIT",
             "last_commit": "2026-07-06T00:56:20Z",
+            "open_issues": 12,
             "owner": "layumi",
             "repo": "Image-Text-Embedding",
-            "stars": 296
+            "stars": 296,
+            "topics": [
+              "bidirectional-retrieval",
+              "cross-modal-retrieval",
+              "cross-modality",
+              "image-retrieval",
+              "image-search",
+              "language-retrieval",
+              "matconvnet",
+              "matlab",
+              "person-reidentification",
+              "visual-semantic"
+            ]
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -1456,12 +2112,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TNNLS'22 :statue_of_liberty: Parameter-Efficient Person Re-identification in the 3D Space :statue_of_liberty:",
+            "homepage": "https://arxiv.org/abs/2006.04569",
             "id": 269918633,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-06T00:54:43Z",
+            "open_issues": 11,
             "owner": "layumi",
             "repo": "person-reid-3d",
-            "stars": 271
+            "stars": 271,
+            "topics": [
+              "3d",
+              "dukemtmc-reid",
+              "graph-neural-networks",
+              "market-1501",
+              "msmt17",
+              "ognet",
+              "person-reid",
+              "person-reidentification",
+              "pytorch",
+              "re-id",
+              "re-identification",
+              "reid"
+            ]
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -1472,12 +2146,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TOMM2017 A Discriminatively Learned CNN Embedding for Person Re-identification",
+            "homepage": "https://dl.acm.org/citation.cfm?id=3159171",
             "id": 78332110,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-07-06T00:57:49Z",
+            "open_issues": 8,
             "owner": "layumi",
             "repo": "2016_person_re-ID",
-            "stars": 264
+            "stars": 264,
+            "topics": [
+              "matconvnet",
+              "matlab",
+              "person-reidentification",
+              "re-id",
+              "reidentification",
+              "tomm2017"
+            ]
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -1488,12 +2174,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ID-discriminative Embedding (IDE) for Person Re-identification",
+            "homepage": null,
             "id": 75269717,
             "language": "Matlab",
+            "license": null,
             "last_commit": "2017-11-14T23:36:07Z",
+            "open_issues": 1,
             "owner": "zhunzhong07",
             "repo": "IDE-baseline-Market-1501",
-            "stars": 245
+            "stars": 245,
+            "topics": [
+              "caffe",
+              "person",
+              "re-identification"
+            ]
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -1504,12 +2199,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TCSVT2018 Pedestrian Alignment Network for Large-scale Person Re-identification",
+            "homepage": "https://ieeexplore.ieee.org/document/8481710",
             "id": 96018179,
             "language": "Cuda",
+            "license": "MIT",
             "last_commit": "2026-07-06T00:55:24Z",
+            "open_issues": 13,
             "owner": "layumi",
             "repo": "Pedestrian_Alignment",
-            "stars": 238
+            "stars": 238,
+            "topics": [
+              "alignment",
+              "matconvnet",
+              "matlab",
+              "person-re-identification",
+              "person-recognition",
+              "person-reid",
+              "re-identification",
+              "reid",
+              "reidentification"
+            ]
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         },
@@ -1520,12 +2230,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "vehicle re-identification baseline for veri and vehicleID dataset",
+            "homepage": null,
             "id": 174914010,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-08-12T03:13:33Z",
+            "open_issues": 8,
             "owner": "Jakel21",
             "repo": "vehicle-ReID-baseline",
-            "stars": 147
+            "stars": 147,
+            "topics": [
+              "reid",
+              "vehicle"
+            ]
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         }
@@ -1542,12 +2260,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "http://handong1587.github.io",
             "id": 40752536,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2023-11-22T02:04:15Z",
+            "open_issues": 3,
             "owner": "handong1587",
             "repo": "handong1587.github.io",
-            "stars": 3137
+            "stars": 3137,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "machine-learning",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
         }
@@ -1566,12 +2294,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome Cross-modality Person Re-identification",
+                "homepage": null,
                 "id": 195900171,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-07-14T06:22:11Z",
+                "open_issues": 1,
                 "owner": "bismex",
                 "repo": "Awesome-cross-modality-person-re-identification",
-                "stars": 154
+                "stars": 154,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "awesome-reid",
+                  "cross-modality",
+                  "cross-modality-re-identification",
+                  "cross-modality-reid",
+                  "infrared-reid",
+                  "person-re-identification",
+                  "person-reid",
+                  "person-reidentification",
+                  "re-id",
+                  "reid",
+                  "reidentification",
+                  "rgb-infrared-tracking",
+                  "rgb-t-tracking",
+                  "thermal-image-translation",
+                  "visible-thermal",
+                  "visible-thermal-reid"
+                ]
               },
               "first_seen": "2026-08-28T06:04:38.345Z"
             }
@@ -1585,15 +2337,38 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:04:38.345Z",
+    "last_updated": "2026-08-29T03:40:41.486Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome Person Re-identification",
+      "homepage": null,
       "id": 65597500,
       "language": null,
+      "license": null,
       "last_commit": "2024-06-18T00:18:05Z",
+      "open_issues": 2,
       "owner": "bismex",
       "repo": "Awesome-person-re-identification",
-      "stars": 1361
+      "stars": 1362,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-reid",
+        "cross-modality-person",
+        "gait",
+        "identification",
+        "person-identification",
+        "person-re-identification",
+        "person-recognition",
+        "person-reid",
+        "person-reidentification",
+        "person-retrieval",
+        "re-id",
+        "reid",
+        "reidentification",
+        "vehicle-reid",
+        "vehicle-reidentification"
+      ]
     },
     "original_repository_sha": "7185322f85d74fa4bdfeffd30e233ee3475ee86e",
     "enhanced_repository": "enhansome/enhansome-Awesome-person-re-identification",
