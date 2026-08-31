@@ -277,7 +277,7 @@
             "open_issues": 16,
             "owner": "hwz-zju",
             "repo": "Instruct-ReID",
-            "stars": 199,
+            "stars": 198,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -1964,7 +1964,7 @@
             "id": 115712649,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-07-18T07:34:37Z",
+            "last_commit": "2026-08-30T15:51:23Z",
             "open_issues": 174,
             "owner": "layumi",
             "repo": "Person_reID_baseline_pytorch",
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T00:11:18.924Z",
+    "last_updated": "2026-08-31T00:27:44.905Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
