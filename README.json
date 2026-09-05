@@ -526,7 +526,7 @@
             "open_issues": 1,
             "owner": "WildlifeDatasets",
             "repo": "wildlife-datasets",
-            "stars": 197,
+            "stars": 198,
             "topics": [
               "dataset",
               "datasets",
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T23:58:03.401Z",
+    "last_updated": "2026-09-05T23:48:30.400Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
