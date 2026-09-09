@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "bismex",
             "repo": "Awesome-vehicle-re-identification",
-            "stars": 162,
+            "stars": 161,
             "topics": [
               "awesome",
               "awesome-list",
@@ -977,7 +977,7 @@
             "open_issues": 39,
             "owner": "damo-cv",
             "repo": "TransReID",
-            "stars": 1052,
+            "stars": 1053,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -1968,7 +1968,7 @@
             "open_issues": 174,
             "owner": "layumi",
             "repo": "Person_reID_baseline_pytorch",
-            "stars": 4448,
+            "stars": 4446,
             "topics": [
               "awesome-reid",
               "baseline",
@@ -2008,7 +2008,7 @@
             "open_issues": 14,
             "owner": "NEU-Gou",
             "repo": "awesome-reid-dataset",
-            "stars": 1105,
+            "stars": 1104,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -2035,7 +2035,7 @@
             "open_issues": 164,
             "owner": "KaiyangZhou",
             "repo": "deep-person-reid",
-            "stars": 4905,
+            "stars": 4904,
             "topics": [
               "computer-vision",
               "cross-domain",
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T00:14:21.404Z",
+    "last_updated": "2026-09-09T00:06:17.857Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
@@ -2349,7 +2349,7 @@
       "open_issues": 2,
       "owner": "bismex",
       "repo": "Awesome-person-re-identification",
-      "stars": 1362,
+      "stars": 1361,
       "topics": [
         "awesome",
         "awesome-list",
