@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "bismex",
             "repo": "Awesome-vehicle-re-identification",
-            "stars": 161,
+            "stars": 162,
             "topics": [
               "awesome",
               "awesome-list",
@@ -52,7 +52,7 @@
             "open_issues": 1,
             "owner": "bismex",
             "repo": "Awesome-cross-modality-person-re-identification",
-            "stars": 154,
+            "stars": 155,
             "topics": [
               "awesome",
               "awesome-list",
@@ -98,7 +98,7 @@
             "open_issues": 4,
             "owner": "luanshiyinyang",
             "repo": "awesome-multiple-object-tracking",
-            "stars": 1483,
+            "stars": 1485,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -505,7 +505,7 @@
             "open_issues": 1,
             "owner": "bentherien",
             "repo": "point-cloud-reid",
-            "stars": 20,
+            "stars": 21,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -977,7 +977,7 @@
             "open_issues": 39,
             "owner": "damo-cv",
             "repo": "TransReID",
-            "stars": 1053,
+            "stars": 1054,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -1836,7 +1836,7 @@
             "open_issues": 18,
             "owner": "mangye16",
             "repo": "ReID-Survey",
-            "stars": 756,
+            "stars": 757,
             "topics": [
               "deep-learning",
               "person-re-identification",
@@ -2008,7 +2008,7 @@
             "open_issues": 14,
             "owner": "NEU-Gou",
             "repo": "awesome-reid-dataset",
-            "stars": 1104,
+            "stars": 1105,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -2303,7 +2303,7 @@
                 "open_issues": 1,
                 "owner": "bismex",
                 "repo": "Awesome-cross-modality-person-re-identification",
-                "stars": 154,
+                "stars": 155,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T00:06:17.857Z",
+    "last_updated": "2026-09-10T00:07:39.898Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
@@ -2349,7 +2349,7 @@
       "open_issues": 2,
       "owner": "bismex",
       "repo": "Awesome-person-re-identification",
-      "stars": 1361,
+      "stars": 1362,
       "topics": [
         "awesome",
         "awesome-list",

@@ -8,13 +8,13 @@ This is a repository for organizing articles related to person re-identification
 
 ### :high\_brightness: Other awesome re-identification
 
-* [Awesome Vehicle Re-Identification](https://github.com/bismex/Awesome-vehicle-re-identification) ⭐ 161 | 🐛 0 | 📅 2021-10-23
-* [Awesome Cross-Modality Person Re-Identification](https://github.com/bismex/Awesome-cross-modality-person-re-identification) ⭐ 154 | 🐛 1 | 📅 2022-07-14
+* [Awesome Vehicle Re-Identification](https://github.com/bismex/Awesome-vehicle-re-identification) ⭐ 162 | 🐛 0 | 📅 2021-10-23
+* [Awesome Cross-Modality Person Re-Identification](https://github.com/bismex/Awesome-cross-modality-person-re-identification) ⭐ 155 | 🐛 1 | 📅 2022-07-14
 
 ### :high\_brightness: Other recommended related topics
 
-* Multi-camera multi-object tracking (MCMOT) \[[github1](https://github.com/luanshiyinyang/awesome-multiple-object-tracking) ⭐ 1,483 | 🐛 4 | 📅 2026-08-29] \[[github2](https://github.com/SherryJYC/paper-MTMC) ⭐ 207 | 🐛 0 | 📅 2022-11-30] \[[workshop:AI-city-challange](https://www.aicitychallenge.org/)] \[[workshop:MMP-Tracking](https://iccv2021-mmp.github.io/)]
-* Trajectory prediction \[[github1](https://github.com/xuehaouwa/Awesome-Trajectory-Prediction) ⭐ 1,249 | 🐛 4 | 📅 2023-01-31] \[[github2](https://github.com/jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction) ⭐ 1,690 | 🐛 1 | 🌐 TeX | 📅 2026-08-24]
+* Multi-camera multi-object tracking (MCMOT) \[[github1](https://github.com/luanshiyinyang/awesome-multiple-object-tracking) ⭐ 1,485 | 🐛 4 | 📅 2026-08-29] \[[github2](https://github.com/SherryJYC/paper-MTMC) ⭐ 207 | 🐛 0 | 📅 2022-11-30] \[[workshop:AI-city-challange](https://www.aicitychallenge.org/)] \[[workshop:MMP-Tracking](https://iccv2021-mmp.github.io/)]
+* Trajectory prediction \[[github1](https://github.com/xuehaouwa/Awesome-Trajectory-Prediction) ⭐ 1,249 | 🐛 4 | 📅 2023-01-31] \[[github2](https://github.com/jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction) ⭐ 1,691 | 🐛 1 | 🌐 TeX | 📅 2026-08-24]
 
 ### :high\_brightness: Updated 2024-06-17
 
@@ -127,7 +127,7 @@ This is a repository for organizing articles related to person re-identification
 
 > ###### 1) *"SeaTurtleID2022: A long-span dataset for reliable sea turtle re-identification"* \[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Adam_SeaTurtleID2022_A_Long-Span_Dataset_for_Reliable_Sea_Turtle_Re-Identification_WACV_2024_paper.pdf)]
 >
-> ###### 2) *"Object Re-Identification from Point Clouds"* \[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Therien_Object_Re-Identification_From_Point_Clouds_WACV_2024_paper.pdf)] \[[github](https://github.com/bentherien/point-cloud-reid) ⭐ 20 | 🐛 1 | 🌐 Python | 📅 2026-01-16]
+> ###### 2) *"Object Re-Identification from Point Clouds"* \[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Therien_Object_Re-Identification_From_Point_Clouds_WACV_2024_paper.pdf)] \[[github](https://github.com/bentherien/point-cloud-reid) ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2026-01-16]
 >
 > ###### 3) *"ISAR: A Benchmark for Single- and Few-Shot Object Instance Segmentation and Re-Identification"* \[[paper](\[https://openaccess.thecvf.com/content/WACV2024/papers/Therien_Object_Re-Identification_From_Point_Clouds_WACV_2024_paper.pdf]\(https://openaccess.thecvf.com/content/WACV2024/papers/Gorlo_ISAR_A_Benchmark_for_Single-_and_Few-Shot_Object_Instance_Segmentation_WACV_2024_paper.pdf\))]
 >
@@ -437,7 +437,7 @@ This is a repository for organizing articles related to person re-identification
 >
 > ###### 22) *"Learning Instance-Level Spatial-Temporal Patterns for Person Re-Identification"* \[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ren_Learning_Instance-Level_Spatial-Temporal_Patterns_for_Person_Re-Identification_ICCV_2021_paper.pdf)] \[[github](https://github.com/RenMin1991/cleaned-DukeMTMC-reID/) ⭐ 15 | 🐛 1 | 📅 2021-08-26]
 >
-> ###### 23) *"TransReID: Transformer-Based Object Re-Identification"* \[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/He_TransReID_Transformer-Based_Object_Re-Identification_ICCV_2021_paper.pdf)] \[[github](https://github.com/heshuting555/TransReID) ⭐ 1,053 | 🐛 39 | 🌐 Python | 📅 2024-06-12]
+> ###### 23) *"TransReID: Transformer-Based Object Re-Identification"* \[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/He_TransReID_Transformer-Based_Object_Re-Identification_ICCV_2021_paper.pdf)] \[[github](https://github.com/heshuting555/TransReID) ⭐ 1,054 | 🐛 39 | 🌐 Python | 📅 2024-06-12]
 >
 > ###### 24) *"Attack-Guided Perceptual Data Generation for Real-World Re-Identification"* \[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Huang_Attack-Guided_Perceptual_Data_Generation_for_Real-World_Re-Identification_ICCV_2021_paper.pdf)]
 
@@ -1075,7 +1075,7 @@ This is a repository for organizing articles related to person re-identification
 
 > ###### 1) *"Beyond Intra-modality: A Survey of Heterogeneous Person Re-identification"*, IJCAI 2020 \[[paper](https://arxiv.org/abs/1905.10048)] \[[github](https://github.com/lightChaserX/Awesome-Hetero-reID)]
 >
-> ###### 2) *"Deep Learning for Person Re-identification: A Survey and Outlook"*, arXiv 2020 \[[paper](https://arxiv.org/abs/2001.04193)] \[[github](https://github.com/mangye16/ReID-Survey) ⭐ 756 | 🐛 18 | 🌐 Python | 📅 2025-02-17]
+> ###### 2) *"Deep Learning for Person Re-identification: A Survey and Outlook"*, arXiv 2020 \[[paper](https://arxiv.org/abs/2001.04193)] \[[github](https://github.com/mangye16/ReID-Survey) ⭐ 757 | 🐛 18 | 🌐 Python | 📅 2025-02-17]
 >
 > ###### 3) *"Person search: New paradigm of person re-identification: A survey and outlook of recent works"*, Image and Vision Computing 2020 \[[paper](https://www.sciencedirect.com/science/article/pii/S0262885620301025)]
 >
@@ -1144,7 +1144,7 @@ These are papers that search for "gait" and "person re-identification" in google
 ## Datasets
 
 * Duke Leaderboard \[[page](https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/leaderboard) ⭐ 4,446 | 🐛 174 | 🌐 Python | 📅 2026-08-30]
-* Awesome re-id dataset \[[github](https://github.com/NEU-Gou/awesome-reid-dataset) ⭐ 1,104 | 🐛 14 | 📅 2025-10-23]
+* Awesome re-id dataset \[[github](https://github.com/NEU-Gou/awesome-reid-dataset) ⭐ 1,105 | 🐛 14 | 📅 2025-10-23]
 * Market-1501 Leaderboard \[[page](https://jingdongwang2017.github.io/Projects/ReID/Datasets/result_market1501.html)]
 * Re-id dataset collection \[[page](http://robustsystems.coe.neu.edu/sites/robustsystems.coe.neu.edu/files/systems/projectpages/reiddataset.html)]
 
@@ -1266,7 +1266,7 @@ The github page will be revised largely at 2020 to provide more convenient infor
 
 ### :high\_brightness: Updated 2019-07-09
 
-* My new github page has been released. \[[Awesome-cross-modality-person-re-identification](https://github.com/bismex/Awesome-cross-modality-person-re-identification) ⭐ 154 | 🐛 1 | 📅 2022-07-14]
+* My new github page has been released. \[[Awesome-cross-modality-person-re-identification](https://github.com/bismex/Awesome-cross-modality-person-re-identification) ⭐ 155 | 🐛 1 | 📅 2022-07-14]
 * The paper has been included in the survey section.
   * "A Survey of Open-World Person Re-identification"
 
@@ -1299,4 +1299,4 @@ The github page will be revised largely at 2020 to provide more convenient infor
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
