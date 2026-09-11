@@ -1218,7 +1218,7 @@
             "open_issues": 1,
             "owner": "bismex",
             "repo": "HiCMD",
-            "stars": 82,
+            "stars": 81,
             "topics": [
               "cross-modality-re-identification",
               "cvpr",
@@ -2008,7 +2008,7 @@
             "open_issues": 14,
             "owner": "NEU-Gou",
             "repo": "awesome-reid-dataset",
-            "stars": 1105,
+            "stars": 1106,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -2035,7 +2035,7 @@
             "open_issues": 164,
             "owner": "KaiyangZhou",
             "repo": "deep-person-reid",
-            "stars": 4904,
+            "stars": 4906,
             "topics": [
               "computer-vision",
               "cross-domain",
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T00:07:39.898Z",
+    "last_updated": "2026-09-11T00:02:48.822Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
@@ -2349,7 +2349,7 @@
       "open_issues": 2,
       "owner": "bismex",
       "repo": "Awesome-person-re-identification",
-      "stars": 1362,
+      "stars": 1363,
       "topics": [
         "awesome",
         "awesome-list",
