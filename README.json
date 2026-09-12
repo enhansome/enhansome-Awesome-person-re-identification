@@ -522,8 +522,8 @@
             "id": 546057103,
             "language": "Jupyter Notebook",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-01T14:31:31Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-11T11:20:37Z",
+            "open_issues": 2,
             "owner": "WildlifeDatasets",
             "repo": "wildlife-datasets",
             "stars": 198,
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T00:02:48.822Z",
+    "last_updated": "2026-09-12T00:10:58.812Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
