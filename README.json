@@ -1387,7 +1387,7 @@
             "open_issues": 30,
             "owner": "RenYurui",
             "repo": "Global-Flow-Local-Attention",
-            "stars": 567,
+            "stars": 568,
             "topics": [
               "cvpr2020",
               "spatial-transformer-network"
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T00:10:58.812Z",
+    "last_updated": "2026-09-12T23:57:30.090Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
