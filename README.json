@@ -98,7 +98,7 @@
             "open_issues": 4,
             "owner": "luanshiyinyang",
             "repo": "awesome-multiple-object-tracking",
-            "stars": 1485,
+            "stars": 1486,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -256,7 +256,7 @@
             "open_issues": 1,
             "owner": "QinYang79",
             "repo": "RDE",
-            "stars": 133,
+            "stars": 132,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -526,7 +526,7 @@
             "open_issues": 2,
             "owner": "WildlifeDatasets",
             "repo": "wildlife-datasets",
-            "stars": 198,
+            "stars": 199,
             "topics": [
               "dataset",
               "datasets",
@@ -2035,7 +2035,7 @@
             "open_issues": 164,
             "owner": "KaiyangZhou",
             "repo": "deep-person-reid",
-            "stars": 4906,
+            "stars": 4907,
             "topics": [
               "computer-vision",
               "cross-domain",
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T23:57:30.090Z",
+    "last_updated": "2026-09-14T00:06:09.636Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
