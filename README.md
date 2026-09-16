@@ -14,7 +14,7 @@ This is a repository for organizing articles related to person re-identification
 ### :high\_brightness: Other recommended related topics
 
 * Multi-camera multi-object tracking (MCMOT) \[[github1](https://github.com/luanshiyinyang/awesome-multiple-object-tracking) ⭐ 1,488 | 🐛 4 | 📅 2026-08-29] \[[github2](https://github.com/SherryJYC/paper-MTMC) ⭐ 207 | 🐛 0 | 📅 2022-11-30] \[[workshop:AI-city-challange](https://www.aicitychallenge.org/)] \[[workshop:MMP-Tracking](https://iccv2021-mmp.github.io/)]
-* Trajectory prediction \[[github1](https://github.com/xuehaouwa/Awesome-Trajectory-Prediction) ⭐ 1,249 | 🐛 4 | 📅 2023-01-31] \[[github2](https://github.com/jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction) ⭐ 1,691 | 🐛 2 | 🌐 TeX | 📅 2026-08-24]
+* Trajectory prediction \[[github1](https://github.com/xuehaouwa/Awesome-Trajectory-Prediction) ⭐ 1,249 | 🐛 4 | 📅 2023-01-31] \[[github2](https://github.com/jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction) ⭐ 1,692 | 🐛 2 | 🌐 TeX | 📅 2026-08-24]
 
 ### :high\_brightness: Updated 2024-06-17
 
@@ -61,7 +61,7 @@ This is a repository for organizing articles related to person re-identification
 
 * <ins>***Person re-identification***</ins>
 
-> ###### 1) *"Harnessing the Power of MLLMs for Transferable Text-to-Image Person ReID"* \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Tan_Harnessing_the_Power_of_MLLMs_for_Transferable_Text-to-Image_Person_ReID_CVPR_2024_paper.pdf)] \[[github](https://github.com/WentaoTan/MLLM4Text-ReID) ⭐ 91 | 🐛 14 | 🌐 Python | 📅 2024-07-13]
+> ###### 1) *"Harnessing the Power of MLLMs for Transferable Text-to-Image Person ReID"* \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Tan_Harnessing_the_Power_of_MLLMs_for_Transferable_Text-to-Image_Person_ReID_CVPR_2024_paper.pdf)] \[[github](https://github.com/WentaoTan/MLLM4Text-ReID) ⭐ 92 | 🐛 14 | 🌐 Python | 📅 2024-07-13]
 >
 > ###### 2) *"Learning Continual Compatible Representation for Re-indexing Free Lifelong Person Re-identification"* \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Cui_Learning_Continual_Compatible_Representation_for_Re-indexing_Free_Lifelong_Person_Re-identification_CVPR_2024_paper.pdf)] \[[github](https://github.com/PKU-ICST-MIPL/C2R_CVPR2024) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2024-05-06]
 >
@@ -809,7 +809,7 @@ This is a repository for organizing articles related to person re-identification
 >
 > ###### 2) *"Patch-Based Discriminative Feature Learning for Unsupervised Person Re-identification"* \[[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_Patch-Based_Discriminative_Feature_Learning_for_Unsupervised_Person_Re-Identification_CVPR_2019_paper.pdf)] [\[github\]](https://github.com/QizeYang/PAUL) ⭐ 91 | 🐛 19 | 🌐 Python | 📅 2019-08-30
 >
-> ###### 3) *"Unsupervised Person Re-identification by Soft Multilabel Learning"* \[[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yu_Unsupervised_Person_Re-Identification_by_Soft_Multilabel_Learning_CVPR_2019_paper.pdf)] \[[github](https://github.com/KovenYu/MAR) ⭐ 318 | 🐛 5 | 🌐 Python | 📅 2021-12-22]
+> ###### 3) *"Unsupervised Person Re-identification by Soft Multilabel Learning"* \[[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yu_Unsupervised_Person_Re-Identification_by_Soft_Multilabel_Learning_CVPR_2019_paper.pdf)] \[[github](https://github.com/KovenYu/MAR) ⭐ 319 | 🐛 5 | 🌐 Python | 📅 2021-12-22]
 >
 > ###### 4) *"Invariance Matters: Exemplar Memory for Domain Adaptive Person Re-identification"* \[[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhong_Invariance_Matters_Exemplar_Memory_for_Domain_Adaptive_Person_Re-Identification_CVPR_2019_paper.pdf)] \[[github](https://github.com/zhunzhong07/ECN) ⭐ 304 | 🐛 8 | 🌐 Python | 📅 2019-07-18]
 >
@@ -1299,4 +1299,4 @@ The github page will be revised largely at 2020 to provide more convenient infor
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._

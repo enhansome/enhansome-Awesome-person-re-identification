@@ -146,7 +146,7 @@
             "open_issues": 14,
             "owner": "MPI-Lab",
             "repo": "MLLM4Text-ReID",
-            "stars": 91,
+            "stars": 92,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -1438,7 +1438,7 @@
             "open_issues": 5,
             "owner": "KovenYu",
             "repo": "MAR",
-            "stars": 318,
+            "stars": 319,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T00:30:44.379Z",
+    "last_updated": "2026-09-16T00:12:12.505Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
