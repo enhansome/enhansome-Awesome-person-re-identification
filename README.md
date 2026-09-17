@@ -13,7 +13,7 @@ This is a repository for organizing articles related to person re-identification
 
 ### :high\_brightness: Other recommended related topics
 
-* Multi-camera multi-object tracking (MCMOT) \[[github1](https://github.com/luanshiyinyang/awesome-multiple-object-tracking) ⭐ 1,488 | 🐛 4 | 📅 2026-08-29] \[[github2](https://github.com/SherryJYC/paper-MTMC) ⭐ 207 | 🐛 0 | 📅 2022-11-30] \[[workshop:AI-city-challange](https://www.aicitychallenge.org/)] \[[workshop:MMP-Tracking](https://iccv2021-mmp.github.io/)]
+* Multi-camera multi-object tracking (MCMOT) \[[github1](https://github.com/luanshiyinyang/awesome-multiple-object-tracking) ⭐ 1,490 | 🐛 4 | 📅 2026-08-29] \[[github2](https://github.com/SherryJYC/paper-MTMC) ⭐ 207 | 🐛 0 | 📅 2022-11-30] \[[workshop:AI-city-challange](https://www.aicitychallenge.org/)] \[[workshop:MMP-Tracking](https://iccv2021-mmp.github.io/)]
 * Trajectory prediction \[[github1](https://github.com/xuehaouwa/Awesome-Trajectory-Prediction) ⭐ 1,249 | 🐛 4 | 📅 2023-01-31] \[[github2](https://github.com/jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction) ⭐ 1,692 | 🐛 2 | 🌐 TeX | 📅 2026-08-24]
 
 ### :high\_brightness: Updated 2024-06-17
@@ -1299,4 +1299,4 @@ The github page will be revised largely at 2020 to provide more convenient infor
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
