@@ -298,7 +298,7 @@
             "open_issues": 0,
             "owner": "924973292",
             "repo": "EDITOR",
-            "stars": 114,
+            "stars": 115,
             "topics": [
               "cvpr2024",
               "frequency-analysis",
@@ -522,11 +522,11 @@
             "id": 546057103,
             "language": "Jupyter Notebook",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-11T11:20:37Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-18T08:37:48Z",
+            "open_issues": 0,
             "owner": "WildlifeDatasets",
             "repo": "wildlife-datasets",
-            "stars": 199,
+            "stars": 200,
             "topics": [
               "dataset",
               "datasets",
@@ -656,7 +656,7 @@
             "open_issues": 7,
             "owner": "xiaoye-hhh",
             "repo": "SAAI",
-            "stars": 30,
+            "stars": 31,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -800,7 +800,7 @@
             "open_issues": 20,
             "owner": "VlSomers",
             "repo": "bpbreid",
-            "stars": 258,
+            "stars": 259,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -977,7 +977,7 @@
             "open_issues": 39,
             "owner": "damo-cv",
             "repo": "TransReID",
-            "stars": 1054,
+            "stars": 1055,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -2035,7 +2035,7 @@
             "open_issues": 164,
             "owner": "KaiyangZhou",
             "repo": "deep-person-reid",
-            "stars": 4909,
+            "stars": 4911,
             "topics": [
               "computer-vision",
               "cross-domain",
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T00:08:25.728Z",
+    "last_updated": "2026-09-19T00:12:39.415Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
