@@ -98,7 +98,7 @@
             "open_issues": 4,
             "owner": "luanshiyinyang",
             "repo": "awesome-multiple-object-tracking",
-            "stars": 1491,
+            "stars": 1492,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -800,7 +800,7 @@
             "open_issues": 20,
             "owner": "VlSomers",
             "repo": "bpbreid",
-            "stars": 259,
+            "stars": 260,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -2035,7 +2035,7 @@
             "open_issues": 164,
             "owner": "KaiyangZhou",
             "repo": "deep-person-reid",
-            "stars": 4910,
+            "stars": 4913,
             "topics": [
               "computer-vision",
               "cross-domain",
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T00:05:33.249Z",
+    "last_updated": "2026-09-21T00:10:07.603Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
