@@ -2008,7 +2008,7 @@
             "open_issues": 14,
             "owner": "NEU-Gou",
             "repo": "awesome-reid-dataset",
-            "stars": 1105,
+            "stars": 1106,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T00:10:07.603Z",
+    "last_updated": "2026-09-22T00:44:30.455Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
