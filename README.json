@@ -977,7 +977,7 @@
             "open_issues": 39,
             "owner": "damo-cv",
             "repo": "TransReID",
-            "stars": 1055,
+            "stars": 1056,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -1968,7 +1968,7 @@
             "open_issues": 174,
             "owner": "layumi",
             "repo": "Person_reID_baseline_pytorch",
-            "stars": 4446,
+            "stars": 4447,
             "topics": [
               "awesome-reid",
               "baseline",
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T00:22:21.908Z",
+    "last_updated": "2026-09-24T00:25:38.125Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
