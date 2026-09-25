@@ -653,7 +653,7 @@ This is a repository for organizing articles related to person re-identification
 >
 > ###### 10) *"Unsupervised Person Re-Identification via Softened Similarity Learning"* \[[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Lin_Unsupervised_Person_Re-Identification_via_Softened_Similarity_Learning_CVPR_2020_paper.pdf)]
 >
-> ###### 11) *"Weakly Supervised Discriminative Feature Learning With State Information for Person Identification"* \[[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yu_Weakly_Supervised_Discriminative_Feature_Learning_With_State_Information_for_Person_CVPR_2020_paper.pdf)] \[[github](https://github.com/KovenYu/state-information) ⭐ 57 | 🐛 3 | 🌐 Python | 📅 2021-12-22]
+> ###### 11) *"Weakly Supervised Discriminative Feature Learning With State Information for Person Identification"* \[[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yu_Weakly_Supervised_Discriminative_Feature_Learning_With_State_Information_for_Person_CVPR_2020_paper.pdf)] \[[github](https://github.com/KovenYu/state-information) ⭐ 56 | 🐛 3 | 🌐 Python | 📅 2021-12-22]
 >
 > ###### 12) *"High-Order Information Matters: Learning Relation and Topology for Occluded Person Re-Identification"* \[[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_High-Order_Information_Matters_Learning_Relation_and_Topology_for_Occluded_Person_CVPR_2020_paper.pdf)] \[[github](https://github.com/wangguanan/HOReID) ⭐ 207 | 🐛 4 | 🌐 Python | 📅 2022-09-29]
 >
@@ -1143,7 +1143,7 @@ These are papers that search for "gait" and "person re-identification" in google
 
 ## Datasets
 
-* Duke Leaderboard \[[page](https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/leaderboard) ⭐ 4,447 | 🐛 174 | 🌐 Python | 📅 2026-08-30]
+* Duke Leaderboard \[[page](https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/leaderboard) ⭐ 4,447 | 🐛 172 | 🌐 Python | 📅 2026-09-24]
 * Awesome re-id dataset \[[github](https://github.com/NEU-Gou/awesome-reid-dataset) ⭐ 1,106 | 🐛 14 | 📅 2025-10-23]
 * Market-1501 Leaderboard \[[page](https://jingdongwang2017.github.io/Projects/ReID/Datasets/result_market1501.html)]
 * Re-id dataset collection \[[page](http://robustsystems.coe.neu.edu/sites/robustsystems.coe.neu.edu/files/systems/projectpages/reiddataset.html)]
@@ -1152,8 +1152,8 @@ These are papers that search for "gait" and "person re-identification" in google
 
 ## Codes
 
-* Library for deep-learning person re-identification \[[Torchreid(pytorch)](https://github.com/KaiyangZhou/deep-person-reid) ⭐ 4,913 | 🐛 164 | 🌐 Python | 📅 2026-01-09] \[[Openreid(pytorch)](https://github.com/Cysu/open-reid) ⭐ 1,369 | 🐛 37 | 🌐 Python | 📅 2019-04-23]
-* Cross modal reid baseline \[[Visual-thermal reid(pytorch)](https://github.com/mangye16/Cross-Modal-Re-ID-baseline) ⭐ 401 | 🐛 9 | 🌐 Python | 📅 2023-11-30]
+* Library for deep-learning person re-identification \[[Torchreid(pytorch)](https://github.com/KaiyangZhou/deep-person-reid) ⭐ 4,914 | 🐛 164 | 🌐 Python | 📅 2026-01-09] \[[Openreid(pytorch)](https://github.com/Cysu/open-reid) ⭐ 1,369 | 🐛 37 | 🌐 Python | 📅 2019-04-23]
+* Cross modal reid baseline \[[Visual-thermal reid(pytorch)](https://github.com/mangye16/Cross-Modal-Re-ID-baseline) ⭐ 400 | 🐛 9 | 🌐 Python | 📅 2023-11-30]
 * Language Person Search \[[Matlab](https://github.com/layumi/Image-Text-Embedding) ⭐ 297 | 🐛 12 | 🌐 MATLAB | 📅 2026-07-06]
 * 3D Person reid \[[Pytorch](https://github.com/layumi/person-reid-3d) ⭐ 271 | 🐛 11 | 🌐 Python | 📅 2026-07-06]
 * 2stream Person reid \[[Matlab](https://github.com/layumi/2016_person_re-ID) ⭐ 264 | 🐛 8 | 🌐 C | 📅 2026-07-06]
@@ -1299,4 +1299,4 @@ The github page will be revised largely at 2020 to provide more convenient infor
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._

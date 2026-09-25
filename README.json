@@ -1296,7 +1296,7 @@
             "open_issues": 3,
             "owner": "KovenYu",
             "repo": "state-information",
-            "stars": 57,
+            "stars": 56,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -1964,8 +1964,8 @@
             "id": 115712649,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-30T15:51:23Z",
-            "open_issues": 174,
+            "last_commit": "2026-09-24T04:49:56Z",
+            "open_issues": 172,
             "owner": "layumi",
             "repo": "Person_reID_baseline_pytorch",
             "stars": 4447,
@@ -2035,7 +2035,7 @@
             "open_issues": 164,
             "owner": "KaiyangZhou",
             "repo": "deep-person-reid",
-            "stars": 4913,
+            "stars": 4914,
             "topics": [
               "computer-vision",
               "cross-domain",
@@ -2068,7 +2068,7 @@
             "open_issues": 9,
             "owner": "mangye16",
             "repo": "Cross-Modal-Re-ID-baseline",
-            "stars": 401,
+            "stars": 400,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T00:25:38.125Z",
+    "last_updated": "2026-09-25T00:29:37.222Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
