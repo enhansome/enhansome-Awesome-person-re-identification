@@ -221,7 +221,7 @@ This is a repository for organizing articles related to person re-identification
 
 * <ins>***Person re-identification***</ins>
 
-> ###### 1) *"Body Part-Based Representation Learning for Occluded Person Re-Identification"* \[[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Somers_Body_Part-Based_Representation_Learning_for_Occluded_Person_Re-Identification_WACV_2023_paper.pdf)]\[[github](https://github.com/VlSomers/bpbreid) ⭐ 260 | 🐛 20 | 🌐 Python | 📅 2025-11-05]
+> ###### 1) *"Body Part-Based Representation Learning for Occluded Person Re-Identification"* \[[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Somers_Body_Part-Based_Representation_Learning_for_Occluded_Person_Re-Identification_WACV_2023_paper.pdf)]\[[github](https://github.com/VlSomers/bpbreid) ⭐ 261 | 🐛 20 | 🌐 Python | 📅 2025-11-05]
 >
 > ###### 2) *"Graph-Based Self-Learning for Robust Person Re-identification"* \[[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Xian_Graph-Based_Self-Learning_for_Robust_Person_Re-Identification_WACV_2023_paper.pdf)]
 >
@@ -1152,7 +1152,7 @@ These are papers that search for "gait" and "person re-identification" in google
 
 ## Codes
 
-* Library for deep-learning person re-identification \[[Torchreid(pytorch)](https://github.com/KaiyangZhou/deep-person-reid) ⭐ 4,914 | 🐛 164 | 🌐 Python | 📅 2026-01-09] \[[Openreid(pytorch)](https://github.com/Cysu/open-reid) ⭐ 1,369 | 🐛 37 | 🌐 Python | 📅 2019-04-23]
+* Library for deep-learning person re-identification \[[Torchreid(pytorch)](https://github.com/KaiyangZhou/deep-person-reid) ⭐ 4,915 | 🐛 164 | 🌐 Python | 📅 2026-01-09] \[[Openreid(pytorch)](https://github.com/Cysu/open-reid) ⭐ 1,369 | 🐛 37 | 🌐 Python | 📅 2019-04-23]
 * Cross modal reid baseline \[[Visual-thermal reid(pytorch)](https://github.com/mangye16/Cross-Modal-Re-ID-baseline) ⭐ 400 | 🐛 9 | 🌐 Python | 📅 2023-11-30]
 * Language Person Search \[[Matlab](https://github.com/layumi/Image-Text-Embedding) ⭐ 297 | 🐛 12 | 🌐 MATLAB | 📅 2026-07-06]
 * 3D Person reid \[[Pytorch](https://github.com/layumi/person-reid-3d) ⭐ 271 | 🐛 11 | 🌐 Python | 📅 2026-07-06]
@@ -1299,4 +1299,4 @@ The github page will be revised largely at 2020 to provide more convenient infor
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
