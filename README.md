@@ -13,7 +13,7 @@ This is a repository for organizing articles related to person re-identification
 
 ### :high\_brightness: Other recommended related topics
 
-* Multi-camera multi-object tracking (MCMOT) \[[github1](https://github.com/luanshiyinyang/awesome-multiple-object-tracking) ⭐ 1,492 | 🐛 4 | 📅 2026-08-29] \[[github2](https://github.com/SherryJYC/paper-MTMC) ⭐ 207 | 🐛 0 | 📅 2022-11-30] \[[workshop:AI-city-challange](https://www.aicitychallenge.org/)] \[[workshop:MMP-Tracking](https://iccv2021-mmp.github.io/)]
+* Multi-camera multi-object tracking (MCMOT) \[[github1](https://github.com/luanshiyinyang/awesome-multiple-object-tracking) ⭐ 1,493 | 🐛 4 | 📅 2026-08-29] \[[github2](https://github.com/SherryJYC/paper-MTMC) ⭐ 207 | 🐛 0 | 📅 2022-11-30] \[[workshop:AI-city-challange](https://www.aicitychallenge.org/)] \[[workshop:MMP-Tracking](https://iccv2021-mmp.github.io/)]
 * Trajectory prediction \[[github1](https://github.com/xuehaouwa/Awesome-Trajectory-Prediction) ⭐ 1,249 | 🐛 4 | 📅 2023-01-31] \[[github2](https://github.com/jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction) ⭐ 1,693 | 🐛 2 | 🌐 TeX | 📅 2026-08-24]
 
 ### :high\_brightness: Updated 2024-06-17
@@ -1157,7 +1157,7 @@ These are papers that search for "gait" and "person re-identification" in google
 * Language Person Search \[[Matlab](https://github.com/layumi/Image-Text-Embedding) ⭐ 297 | 🐛 12 | 🌐 MATLAB | 📅 2026-07-06]
 * 3D Person reid \[[Pytorch](https://github.com/layumi/person-reid-3d) ⭐ 271 | 🐛 11 | 🌐 Python | 📅 2026-07-06]
 * 2stream Person reid \[[Matlab](https://github.com/layumi/2016_person_re-ID) ⭐ 264 | 🐛 8 | 🌐 C | 📅 2026-07-06]
-* Person reid baseline \[[IDE(Caffe)](https://github.com/zhunzhong07/IDE-baseline-Market-1501) ⭐ 245 | 🐛 1 | 🌐 Matlab | 📅 2017-11-14] \[[Tricks(pytorch)](https://github.com/michuanhaohao/reid-strong-baseline) ⭐ 2,356 | 🐛 41 | 🌐 Python | 📅 2020-04-23] \[[Triplet(pytorch)](https://github.com/huanghoujing/person-reid-triplet-loss-baseline) ⭐ 484 | 🐛 10 | 🌐 Python | 📅 2019-01-06] \[[GAN(pytorch)](https://github.com/qiaoguan/Person-reid-GAN-pytorch) ⭐ 157 | 🐛 21 | 🌐 Python | 📅 2019-11-15] \[[GAN(Matlab)](https://github.com/layumi/Person-reID_GAN) ⭐ 322 | 🐛 7 | 🌐 Cuda | 📅 2021-06-29] \[[FDGAN(pytorch)](https://github.com/yxgeee/FD-GAN) ⭐ 284 | 🐛 10 | 🌐 Python | 📅 2020-09-08] \[[DGNet(pytorch)](https://github.com/NVlabs/DG-Net) ⭐ 1,298 | 🐛 45 | 🌐 Python | 📅 2023-07-09]
+* Person reid baseline \[[IDE(Caffe)](https://github.com/zhunzhong07/IDE-baseline-Market-1501) ⭐ 245 | 🐛 1 | 🌐 Matlab | 📅 2017-11-14] \[[Tricks(pytorch)](https://github.com/michuanhaohao/reid-strong-baseline) ⭐ 2,357 | 🐛 41 | 🌐 Python | 📅 2020-04-23] \[[Triplet(pytorch)](https://github.com/huanghoujing/person-reid-triplet-loss-baseline) ⭐ 484 | 🐛 10 | 🌐 Python | 📅 2019-01-06] \[[GAN(pytorch)](https://github.com/qiaoguan/Person-reid-GAN-pytorch) ⭐ 157 | 🐛 21 | 🌐 Python | 📅 2019-11-15] \[[GAN(Matlab)](https://github.com/layumi/Person-reID_GAN) ⭐ 322 | 🐛 7 | 🌐 Cuda | 📅 2021-06-29] \[[FDGAN(pytorch)](https://github.com/yxgeee/FD-GAN) ⭐ 284 | 🐛 10 | 🌐 Python | 📅 2020-09-08] \[[DGNet(pytorch)](https://github.com/NVlabs/DG-Net) ⭐ 1,298 | 🐛 45 | 🌐 Python | 📅 2023-07-09]
 * Person reid with Pedestrian alignment \[[STN(Matlab)](https://github.com/layumi/Pedestrian_Alignment) ⭐ 238 | 🐛 13 | 🌐 Cuda | 📅 2026-07-06]
 * Vehicle reid baseline \[[Jakel21(pytorch)](https://github.com/Jakel21/vehicle-ReID-baseline) ⭐ 147 | 🐛 8 | 🌐 Python | 📅 2019-08-12] \[[lxc86739795(pytorch)](https://github.com/lxc86739795/vehiclereid_baseline) ⭐ 93 | 🐛 4 | 🌐 Python | 📅 2020-06-20] \[[AICity 2020 Champion(pytorch)](https://github.com/layumi/AICIty-reID-2020) ⭐ 464 | 🐛 40 | 🌐 Python | 📅 2024-09-01]
 
@@ -1299,4 +1299,4 @@ The github page will be revised largely at 2020 to provide more convenient infor
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
