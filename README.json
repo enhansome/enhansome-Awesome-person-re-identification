@@ -526,7 +526,7 @@
             "open_issues": 0,
             "owner": "WildlifeDatasets",
             "repo": "wildlife-datasets",
-            "stars": 200,
+            "stars": 201,
             "topics": [
               "dataset",
               "datasets",
@@ -977,7 +977,7 @@
             "open_issues": 39,
             "owner": "damo-cv",
             "repo": "TransReID",
-            "stars": 1054,
+            "stars": 1055,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -1438,7 +1438,7 @@
             "open_issues": 5,
             "owner": "KovenYu",
             "repo": "MAR",
-            "stars": 319,
+            "stars": 320,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -1480,7 +1480,7 @@
             "open_issues": 45,
             "owner": "NVlabs",
             "repo": "DG-Net",
-            "stars": 1298,
+            "stars": 1299,
             "topics": [
               "apex",
               "cuhk-np",
@@ -2008,7 +2008,7 @@
             "open_issues": 14,
             "owner": "NEU-Gou",
             "repo": "awesome-reid-dataset",
-            "stars": 1106,
+            "stars": 1105,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -2035,7 +2035,7 @@
             "open_issues": 164,
             "owner": "KaiyangZhou",
             "repo": "deep-person-reid",
-            "stars": 4915,
+            "stars": 4916,
             "topics": [
               "computer-vision",
               "cross-domain",
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T00:35:17.313Z",
+    "last_updated": "2026-09-29T01:49:34.122Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
