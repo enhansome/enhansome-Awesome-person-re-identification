@@ -522,8 +522,8 @@
             "id": 546057103,
             "language": "Jupyter Notebook",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-18T08:37:48Z",
-            "open_issues": 0,
+            "last_commit": "2026-09-30T13:37:54Z",
+            "open_issues": 1,
             "owner": "WildlifeDatasets",
             "repo": "wildlife-datasets",
             "stars": 201,
@@ -2008,7 +2008,7 @@
             "open_issues": 14,
             "owner": "NEU-Gou",
             "repo": "awesome-reid-dataset",
-            "stars": 1106,
+            "stars": 1107,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T01:14:30.394Z",
+    "last_updated": "2026-10-01T01:14:06.216Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
