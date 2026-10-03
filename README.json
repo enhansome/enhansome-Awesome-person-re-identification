@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Awesome Vehicle Re-Identification",
-          "description": null,
+          "description": "bismex/Awesome-vehicle-re-identification",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -39,7 +39,7 @@
         {
           "node_type": "item",
           "title": "Awesome Cross-Modality Person Re-Identification",
-          "description": null,
+          "description": "bismex/Awesome-cross-modality-person-re-identification",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -133,7 +133,7 @@
         {
           "node_type": "item",
           "title": "1) \"Harnessing the Power of MLLMs for Transferable Text-to-Image Person ReID\" [paper",
-          "description": "] [github]",
+          "description": "MPI-Lab/MLLM4Text-ReID",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -154,7 +154,7 @@
         {
           "node_type": "item",
           "title": "2) \"Learning Continual Compatible Representation for Re-indexing Free Lifelong Person Re-identification\" [paper",
-          "description": "] [github]",
+          "description": "PKU-ICST-MIPL/C2R_CVPR2024",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -175,7 +175,7 @@
         {
           "node_type": "item",
           "title": "4) \"LiDAR-based Person Re-identification\" [paper",
-          "description": "] [github]",
+          "description": "GWxuan/ReID3D",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -201,7 +201,7 @@
         {
           "node_type": "item",
           "title": "6) \"UFineBench: Towards Text-based Person Retrieval with Ultra-fine Granularity\" [paper",
-          "description": "] [github]",
+          "description": "Zplusdragon/UFineBench",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -222,7 +222,7 @@
         {
           "node_type": "item",
           "title": "7) \"Distribution-aware Knowledge Prototyping for Non-exemplar Lifelong Person Re-identification\" [paper",
-          "description": "] [github]",
+          "description": "zhoujiahuan1991/CVPR2024-DKP",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -243,7 +243,7 @@
         {
           "node_type": "item",
           "title": "8) \"Noisy-Correspondence Learning for Text-to-Image Person Re-identification\" [paper",
-          "description": "] [github]",
+          "description": "QinYang79/RDE",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -264,7 +264,7 @@
         {
           "node_type": "item",
           "title": "9) \"Instruct-ReID: A Multi-purpose Person Re-identification Task with Instructions\" [paper",
-          "description": "] [github]",
+          "description": "hwz-zju/Instruct-ReID",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -285,7 +285,7 @@
         {
           "node_type": "item",
           "title": "11) \"Magic Tokens: Select Diverse Tokens for Multi-modal Object Re-Identification\" [paper",
-          "description": "] [github]",
+          "description": "924973292/EDITOR",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -318,7 +318,7 @@
         {
           "node_type": "item",
           "title": "12) \"CA-Jaccard: Camera-aware Jaccard Distance for Person Re-identification\" [paper",
-          "description": "] [github]",
+          "description": "chenyiyuu/CA-Jaccard",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -339,7 +339,7 @@
         {
           "node_type": "item",
           "title": "14) \"Shallow-Deep Collaborative Learning for Unsupervised Visible-Infrared Person Re-Identification\" [paper",
-          "description": "] [github]",
+          "description": "yangbincv/SDCL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -360,7 +360,7 @@
         {
           "node_type": "item",
           "title": "15) \"View-decoupled Transformer for Person Re-identification under Aerial-ground Camera Network\" [paper",
-          "description": "] [github]",
+          "description": "LinlyAC/VDT-AGPReID",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -381,7 +381,7 @@
         {
           "node_type": "item",
           "title": "16) \"Implicit Discriminative Knowledge Learning for Visible-Infrared Person Re-Identification\" [paper",
-          "description": "] [github]",
+          "description": "1KK077/IDKL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -402,7 +402,7 @@
         {
           "node_type": "item",
           "title": "17) \"Activity-Biometrics: Person Identification from Daily Activities\" [paper",
-          "description": "] [github]",
+          "description": "sacrcv/Activity-Biometrics",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -429,7 +429,7 @@
         {
           "node_type": "item",
           "title": "1) \"Source-Guided Similarity Preservation for Online Person Re-Identification\" [paper",
-          "description": "] [github]",
+          "description": "ramiMMhamza/S2P",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -450,7 +450,7 @@
         {
           "node_type": "item",
           "title": "4) \"Contrastive Viewpoint-aware Shape Learning for Long-term Person Re-Identification\" [paper",
-          "description": "] [github]",
+          "description": "jurgendn/CVSL_LReID",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -471,7 +471,7 @@
         {
           "node_type": "item",
           "title": "1) \"DDAM-PS: Diligent Domain Adaptive Mixer for Person Search\" [paper",
-          "description": "] [github]",
+          "description": "mustansarfiaz/DDAM-PS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -492,7 +492,7 @@
         {
           "node_type": "item",
           "title": "2) \"Object Re-Identification from Point Clouds\" [paper",
-          "description": "] [github]",
+          "description": "bentherien/point-cloud-reid",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -513,7 +513,7 @@
         {
           "node_type": "item",
           "title": "4) \"WildlifeDatasets: An open-source toolkit for animal re-identification\" [paper",
-          "description": "] [github]",
+          "description": "WildlifeDatasets/wildlife-datasets",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -547,7 +547,7 @@
         {
           "node_type": "item",
           "title": "1) \"Identity-Seeking Self-Supervised Representation Learning for Generalizable Person Re-identification\" [paper",
-          "description": "] [github]",
+          "description": "dcp15/ISR_ICCV2023_Oral",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -568,7 +568,7 @@
         {
           "node_type": "item",
           "title": "2) \"Learning Clothing and Pose Invariant 3D Shape Representation for Long-Term Person Re-Identification\" [paper",
-          "description": "] [github]",
+          "description": "liufeng2915/3DInvarReID",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -593,7 +593,7 @@
         {
           "node_type": "item",
           "title": "3) \"Towards Grand Unified Representation Learning for Unsupervised Visible-Infrared Person Re-Identification\" [paper",
-          "description": "] [github]",
+          "description": "yangbincv/GUR",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -614,7 +614,7 @@
         {
           "node_type": "item",
           "title": "4) \"A Long-Term Person Re-Identification Benchmark with Clothes Change\" [paper",
-          "description": "] [github]",
+          "description": "PengBoXiangShang/deepchange",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -643,7 +643,7 @@
         {
           "node_type": "item",
           "title": "6) \"Visible-Infrared Person Re-Identification via Semantic Alignment and Affinity Inference\" [paper",
-          "description": "] [github]",
+          "description": "xiaoye-hhh/SAAI",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -664,7 +664,7 @@
         {
           "node_type": "item",
           "title": "8) \"Unified Pre-training with Pseudo Texts for Text-To-Image Person Re-identification\" [paper",
-          "description": "] [github]",
+          "description": "ZhiyinShao-H/UniPT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -685,7 +685,7 @@
         {
           "node_type": "item",
           "title": "11) \"Part-Aware Transformer for Generalizable Person Re-identification\" [paper",
-          "description": "] [github]",
+          "description": "liyuke65535/Part-Aware-Transformer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -706,7 +706,7 @@
         {
           "node_type": "item",
           "title": "13) \"Person Re-Identification without Identification via Event Anonymization\" [paper",
-          "description": "] [github]",
+          "description": "IIT-PAVIS/ReId_without_Id",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -727,7 +727,7 @@
         {
           "node_type": "item",
           "title": "1) \"Self-similarity Driven Scale-invariant Learning for Weakly Supervised Person Search\" [paper",
-          "description": "] [github]",
+          "description": "Wangbenzhi/SSL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -754,7 +754,7 @@
         {
           "node_type": "item",
           "title": "1) \"Towards Unified Text-based Person Retrieval: A Large-scale Multi-Attribute and Language Search Benchmark\" [paper",
-          "description": "] [github]",
+          "description": "Shuyu-XJTU/APTM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -787,7 +787,7 @@
         {
           "node_type": "item",
           "title": "1) \"Body Part-Based Representation Learning for Occluded Person Re-Identification\" [paper",
-          "description": "][github]",
+          "description": "VlSomers/bpbreid",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -829,7 +829,7 @@
         {
           "node_type": "item",
           "title": "7) \"Pyramid Spatial-Temporal Aggregation for Video-Based Person Re-Identification\" [paper",
-          "description": "] [github]",
+          "description": "WangYQ9/VideoReID_PSTA",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -850,7 +850,7 @@
         {
           "node_type": "item",
           "title": "8) \"ICE: Inter-Instance Contrastive Encoding for Unsupervised Person Re-Identification\" [paper",
-          "description": "] [github]",
+          "description": "chenhao2345/ICE",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -873,7 +873,7 @@
         {
           "node_type": "item",
           "title": "11) \"CM-NAS: Cross-Modality Neural Architecture Search for Visible-Infrared Person Re-Identification\" [paper",
-          "description": "] [github]",
+          "description": "JDAI-CV/CM-NAS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -901,7 +901,7 @@
         {
           "node_type": "item",
           "title": "18) \"IDM: An Intermediate Domain Module for Domain Adaptive Person Re-ID\" [paper",
-          "description": "] [github]",
+          "description": "SikaStar/IDM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -922,7 +922,7 @@
         {
           "node_type": "item",
           "title": "19) \"Weakly Supervised Text-Based Person Re-Identification\" [paper",
-          "description": "] [github]",
+          "description": "X-BrainLab/WS_Text-ReID",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -943,7 +943,7 @@
         {
           "node_type": "item",
           "title": "22) \"Learning Instance-Level Spatial-Temporal Patterns for Person Re-Identification\" [paper",
-          "description": "] [github]",
+          "description": "RenMin1991/cleaned-DukeMTMC-reID",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -964,7 +964,7 @@
         {
           "node_type": "item",
           "title": "23) \"TransReID: Transformer-Based Object Re-Identification\" [paper",
-          "description": "] [github]",
+          "description": "damo-cv/TransReID",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -985,7 +985,7 @@
         {
           "node_type": "item",
           "title": "1) \"Counterfactual Attention Learning for Fine-Grained Visual Categorization and Re-Identification\" [paper",
-          "description": "] [github]",
+          "description": "raoyongming/CAL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1006,7 +1006,7 @@
         {
           "node_type": "item",
           "title": "1) \"Dressing in Order: Recurrent Person Image Generation for Pose Transfer, Virtual Try-On and Outfit Editing\" [paper",
-          "description": "] [github]",
+          "description": "cuiaiyu/dressing-in-order",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1036,7 +1036,7 @@
         {
           "node_type": "item",
           "title": "1) \"Meta Batch-Instance Normalization for Generalizable Person Re-Identification\" [paper",
-          "description": "][github]",
+          "description": "bismex/MetaBIN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1070,7 +1070,7 @@
         {
           "node_type": "item",
           "title": "2) \"Intra-Inter Camera Similarity for Unsupervised Person Re-Identification\" [paper",
-          "description": "][github]",
+          "description": "SY-Xuan/IICS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1091,7 +1091,7 @@
         {
           "node_type": "item",
           "title": "3) \"Joint Noise-Tolerant Learning and Meta Camera Shift Adaptation for Unsupervised Person Re-Identification\" [paper",
-          "description": "][github]",
+          "description": "FlyingRoastDuck/MetaCam_DSCE",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1112,7 +1112,7 @@
         {
           "node_type": "item",
           "title": "5) \"Lifelong Person Re-Identification via Adaptive Knowledge Accumulation\" [paper",
-          "description": "][github]",
+          "description": "TPCD/LifelongReID",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1133,7 +1133,7 @@
         {
           "node_type": "item",
           "title": "6) \"Group-aware Label Transfer for Domain Adaptive Person Re-identification\" [paper",
-          "description": "][github]",
+          "description": "zkcys001/UDAStrongBaseline",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1154,7 +1154,7 @@
         {
           "node_type": "item",
           "title": "8) \"Learning to Generalize Unseen Domains via Memory-based Multi-Source Meta-Learning for Person Re-Identification\" [paper",
-          "description": "][github]",
+          "description": "HeliosZhao/M3L",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1178,7 +1178,7 @@
         {
           "node_type": "item",
           "title": "9) \"Unsupervised Multi-Source Domain Adaptation for Person Re-Identification\" [paper",
-          "description": "] [github]",
+          "description": "Neverland610/MSUDA_REID",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1241,7 +1241,7 @@
         {
           "node_type": "item",
           "title": "2) \"Transferable, Controllable, and Inconspicuous Adversarial Attacks on Person Re-identification With Deep Mis-Ranking\" [paper",
-          "description": "] [github]",
+          "description": "whj363636/Adversarial-attack-on-Person-ReID-With-Deep-Mis-Ranking",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1262,7 +1262,7 @@
         {
           "node_type": "item",
           "title": "7) \"Relation-Aware Global Attention for Person Re-Identification\" [paper",
-          "description": "] [github]",
+          "description": "microsoft/Relation-Aware-Global-Attention-Networks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1283,7 +1283,7 @@
         {
           "node_type": "item",
           "title": "11) \"Weakly Supervised Discriminative Feature Learning With State Information for Person Identification\" [paper",
-          "description": "] [github]",
+          "description": "KovenYu/state-information",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1304,7 +1304,7 @@
         {
           "node_type": "item",
           "title": "12) \"High-Order Information Matters: Learning Relation and Topology for Occluded Person Re-Identification\" [paper",
-          "description": "] [github]",
+          "description": "wangguanan/HOReID",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1325,7 +1325,7 @@
         {
           "node_type": "item",
           "title": "19) \"Pose-Guided Visible Part Matching for Occluded Person ReID\" [paper",
-          "description": "] [github]",
+          "description": "hh23333/PVPM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1346,7 +1346,7 @@
         {
           "node_type": "item",
           "title": "1) \"Controllable Person Image Synthesis With Attribute-Decomposed GAN\" [paper",
-          "description": "] [github]",
+          "description": "menyifang/ADGAN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1374,7 +1374,7 @@
         {
           "node_type": "item",
           "title": "2) \"Deep Image Spatial Transformation for Person Image Generation\" [paper",
-          "description": "] [github]",
+          "description": "RenYurui/Global-Flow-Local-Attention",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1404,7 +1404,7 @@
         {
           "node_type": "item",
           "title": "2) \"Patch-Based Discriminative Feature Learning for Unsupervised Person Re-identification\" [paper",
-          "description": "] [github]",
+          "description": "QizeYang/PAUL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1425,7 +1425,7 @@
         {
           "node_type": "item",
           "title": "3) \"Unsupervised Person Re-identification by Soft Multilabel Learning\" [paper",
-          "description": "] [github]",
+          "description": "KovenYu/MAR",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1446,7 +1446,7 @@
         {
           "node_type": "item",
           "title": "4) \"Invariance Matters: Exemplar Memory for Domain Adaptive Person Re-identification\" [paper",
-          "description": "] [github]",
+          "description": "zhunzhong07/ECN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1467,7 +1467,7 @@
         {
           "node_type": "item",
           "title": "18) \"Joint Discriminative and Generative Learning for Person Re-identification\" [paper",
-          "description": "] [github]",
+          "description": "NVlabs/DG-Net",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1502,7 +1502,7 @@
         {
           "node_type": "item",
           "title": "21) \"Dissecting Person Re-identification from the Viewpoint of Viewpoint\" [paper",
-          "description": "] [github]",
+          "description": "sxzrt/Dissecting-Person-Re-ID-from-the-Viewpoint-of-Viewpoint",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1523,7 +1523,7 @@
         {
           "node_type": "item",
           "title": "1) \"Query-guided End-to-End Person Search\" [paper",
-          "description": "] [github]",
+          "description": "munjalbharti/Query-guided-End-to-End-Person-Search",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1544,7 +1544,7 @@
         {
           "node_type": "item",
           "title": "2) \"Learning Context Graph for Person Search\" [paper",
-          "description": "] [github]",
+          "description": "sjtuzq/person_search_gcn",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1569,7 +1569,7 @@
         {
           "node_type": "item",
           "title": "1) \"Progressive Pose Attention Transfer for Person Image Generation\" [paper",
-          "description": "] [github]",
+          "description": "tengteng95/Pose-Transfer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1590,7 +1590,7 @@
         {
           "node_type": "item",
           "title": "2) \"Unsupervised Person Image Generation with Semantic Parsing Transformation\" [paper",
-          "description": "] [github]",
+          "description": "SijieSong/person_generation_spt",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1617,7 +1617,7 @@
         {
           "node_type": "item",
           "title": "3) \"Generalizing A Person Retrieval Model Hetero- and Homogeneously\" [paper",
-          "description": "] [Github]",
+          "description": "zhunzhong07/HHL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1638,7 +1638,7 @@
         {
           "node_type": "item",
           "title": "10) \"Part-Aligned Bilinear Representations for Person Re-Identification\" [paper",
-          "description": "] [Github]",
+          "description": "yuminsuh/part_bilinear_reid",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1665,7 +1665,7 @@
         {
           "node_type": "item",
           "title": "1) \"Unsupervised Cross-dataset Person Re-identification by Transfer Learning of Spatial-Temporal Patterns\" [paper",
-          "description": "] [Github]",
+          "description": "ahangchen/TFusion",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1691,7 +1691,7 @@
         {
           "node_type": "item",
           "title": "3) \"Image-Image Domain Adaptation with Preserved Self-Similarity and Domain-Dissimilarity for Person Re-identification\" [paper",
-          "description": "] [Github]",
+          "description": "Simon4Yan/Learning-via-Translation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1742,7 +1742,7 @@
         {
           "node_type": "item",
           "title": "1) \"Cross-view Asymmetric Metric Learning for Unsupervised Person Re-identification\" [paper",
-          "description": "] [Github]",
+          "description": "KovenYu/CAMEL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1763,7 +1763,7 @@
         {
           "node_type": "item",
           "title": "6) \"Unlabeled Samples Generated by GAN Improve the Person Re-identification Baseline in vitro\" [paper",
-          "description": "] [Github]",
+          "description": "layumi/Person-reID_GAN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1794,7 +1794,7 @@
         {
           "node_type": "item",
           "title": "7) \"Dynamic Label Graph Matching for Unsupervised Video Re-Identification\" [paper",
-          "description": "] [Github]",
+          "description": "mangye16/dgm_re-id",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1823,7 +1823,7 @@
         {
           "node_type": "item",
           "title": "2) \"Deep Learning for Person Re-identification: A Survey and Outlook\", arXiv 2020 [paper",
-          "description": "] [github]",
+          "description": "mangye16/ReID-Survey",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1855,7 +1855,7 @@
         {
           "node_type": "item",
           "title": "1) \"Unsupervised Person Re-identification: Clustering and Fine-tuning\" [paper",
-          "description": "] [Github]",
+          "description": "hehefan/Unsupervised-Person-Re-identification-Clustering-and-Fine-tuning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1876,7 +1876,7 @@
         {
           "node_type": "item",
           "title": "12) \"Person Re-identification in Appearance Impaired Scenarios\", arXiv 2016 [paper",
-          "description": "] [github]",
+          "description": "NEU-Gou/dynamicreid",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1897,7 +1897,7 @@
         {
           "node_type": "item",
           "title": "14) \"Recurrent Attention Models for Depth-Based Person Identification\", CVPR 2016 [paper",
-          "description": "] [github]",
+          "description": "zhengkang86/ram_person_id",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1918,7 +1918,7 @@
         {
           "node_type": "item",
           "title": "21) \"Pedestrian Alignment Network for Large-scale Person Re-Identification\", TCSVT 2018 [paper",
-          "description": "][code]",
+          "description": "layumi/Pedestrian_Alignment",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1955,7 +1955,7 @@
         {
           "node_type": "item",
           "title": "Duke Leaderboard [page",
-          "description": "]",
+          "description": "layumi/Person_reID_baseline_pytorch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1995,7 +1995,7 @@
         {
           "node_type": "item",
           "title": "Awesome re-id dataset [github",
-          "description": "]",
+          "description": "NEU-Gou/awesome-reid-dataset",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2055,7 +2055,7 @@
         {
           "node_type": "item",
           "title": "Cross modal reid baseline [Visual-thermal reid(pytorch)",
-          "description": "]",
+          "description": "mangye16/Cross-Modal-Re-ID-baseline",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2076,7 +2076,7 @@
         {
           "node_type": "item",
           "title": "Language Person Search [Matlab",
-          "description": "]",
+          "description": "layumi/Image-Text-Embedding",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2108,7 +2108,7 @@
         {
           "node_type": "item",
           "title": "3D Person reid [Pytorch",
-          "description": "]",
+          "description": "layumi/person-reid-3d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2142,7 +2142,7 @@
         {
           "node_type": "item",
           "title": "2stream Person reid [Matlab",
-          "description": "]",
+          "description": "layumi/2016_person_re-ID",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2195,7 +2195,7 @@
         {
           "node_type": "item",
           "title": "Person reid with Pedestrian alignment [STN(Matlab)",
-          "description": "]",
+          "description": "layumi/Pedestrian_Alignment",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2256,7 +2256,7 @@
         {
           "node_type": "item",
           "title": "handong1587/handong1587.github.io",
-          "description": null,
+          "description": "handong1587/handong1587.github.io",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2290,7 +2290,7 @@
             {
               "node_type": "item",
               "title": "My new github page has been released. [Awesome-cross-modality-person-re-identification",
-              "description": "]",
+              "description": "bismex/Awesome-cross-modality-person-re-identification",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:05:51.016Z",
+    "last_updated": "2026-10-03T04:26:57.860Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
