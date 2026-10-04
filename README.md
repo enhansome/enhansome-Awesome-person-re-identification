@@ -645,7 +645,7 @@ This is a repository for organizing articles related to person re-identification
 >
 > ###### 6) *"Style Normalization and Restitution for Generalizable Person Re-Identification"* \[[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Jin_Style_Normalization_and_Restitution_for_Generalizable_Person_Re-Identification_CVPR_2020_paper.pdf)]
 >
-> ###### 7) *"Relation-Aware Global Attention for Person Re-Identification"* \[[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Relation-Aware_Global_Attention_for_Person_Re-Identification_CVPR_2020_paper.pdf)] \[[github](https://github.com/microsoft/Relation-Aware-Global-Attention-Networks) ⭐ 375 | 🐛 27 | 🌐 Python | 📅 2023-06-12]
+> ###### 7) *"Relation-Aware Global Attention for Person Re-Identification"* \[[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Relation-Aware_Global_Attention_for_Person_Re-Identification_CVPR_2020_paper.pdf)] \[[github](https://github.com/microsoft/Relation-Aware-Global-Attention-Networks) ⭐ 376 | 🐛 27 | 🌐 Python | 📅 2023-06-12]
 >
 > ###### 8) *"Spatial-Temporal Graph Convolutional Network for Video-Based Person Re-Identification"* \[[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Spatial-Temporal_Graph_Convolutional_Network_for_Video-Based_Person_Re-Identification_CVPR_2020_paper.pdf)]
 >
@@ -1299,4 +1299,4 @@ The github page will be revised largely at 2020 to provide more convenient infor
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._

@@ -1275,7 +1275,7 @@
             "open_issues": 27,
             "owner": "microsoft",
             "repo": "Relation-Aware-Global-Attention-Networks",
-            "stars": 375,
+            "stars": 376,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:26:57.860Z",
+    "last_updated": "2026-10-04T00:31:15.377Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
