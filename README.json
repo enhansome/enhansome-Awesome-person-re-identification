@@ -2008,7 +2008,7 @@
             "open_issues": 14,
             "owner": "NEU-Gou",
             "repo": "awesome-reid-dataset",
-            "stars": 1107,
+            "stars": 1108,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T00:31:15.377Z",
+    "last_updated": "2026-10-05T00:48:30.037Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
@@ -2349,7 +2349,7 @@
       "open_issues": 2,
       "owner": "bismex",
       "repo": "Awesome-person-re-identification",
-      "stars": 1363,
+      "stars": 1365,
       "topics": [
         "awesome",
         "awesome-list",
