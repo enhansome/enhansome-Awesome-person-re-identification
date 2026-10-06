@@ -98,7 +98,7 @@
             "open_issues": 4,
             "owner": "luanshiyinyang",
             "repo": "awesome-multiple-object-tracking",
-            "stars": 1495,
+            "stars": 1496,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -352,7 +352,7 @@
             "open_issues": 7,
             "owner": "yangbincv",
             "repo": "SDCL",
-            "stars": 36,
+            "stars": 37,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T02:12:35.504Z",
+    "last_updated": "2026-10-06T10:37:05.617Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",

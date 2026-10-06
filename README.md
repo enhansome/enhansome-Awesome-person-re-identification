@@ -13,7 +13,7 @@ This is a repository for organizing articles related to person re-identification
 
 ### :high\_brightness: Other recommended related topics
 
-* Multi-camera multi-object tracking (MCMOT) \[[github1](https://github.com/luanshiyinyang/awesome-multiple-object-tracking) ⭐ 1,495 | 🐛 4 | 📅 2026-08-29] \[[github2](https://github.com/SherryJYC/paper-MTMC) ⭐ 207 | 🐛 0 | 📅 2022-11-30] \[[workshop:AI-city-challange](https://www.aicitychallenge.org/)] \[[workshop:MMP-Tracking](https://iccv2021-mmp.github.io/)]
+* Multi-camera multi-object tracking (MCMOT) \[[github1](https://github.com/luanshiyinyang/awesome-multiple-object-tracking) ⭐ 1,496 | 🐛 4 | 📅 2026-08-29] \[[github2](https://github.com/SherryJYC/paper-MTMC) ⭐ 207 | 🐛 0 | 📅 2022-11-30] \[[workshop:AI-city-challange](https://www.aicitychallenge.org/)] \[[workshop:MMP-Tracking](https://iccv2021-mmp.github.io/)]
 * Trajectory prediction \[[github1](https://github.com/xuehaouwa/Awesome-Trajectory-Prediction) ⭐ 1,249 | 🐛 4 | 📅 2023-01-31] \[[github2](https://github.com/jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction) ⭐ 1,692 | 🐛 2 | 🌐 TeX | 📅 2026-08-24]
 
 ### :high\_brightness: Updated 2024-06-17
@@ -87,7 +87,7 @@ This is a repository for organizing articles related to person re-identification
 >
 > ###### 13) *"All in One Framework for Multimodal Re-identification in the Wild"* \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_All_in_One_Framework_for_Multimodal_Re-identification_in_the_Wild_CVPR_2024_paper.pdf)]
 >
-> ###### 14) *"Shallow-Deep Collaborative Learning for Unsupervised Visible-Infrared Person Re-Identification"* \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Shallow-Deep_Collaborative_Learning_for_Unsupervised_Visible-Infrared_Person_Re-Identification_CVPR_2024_paper.pdf)] \[[github](https://github.com/yangbincv/SDCL) ⭐ 36 | 🐛 7 | 🌐 Python | 📅 2024-11-22]
+> ###### 14) *"Shallow-Deep Collaborative Learning for Unsupervised Visible-Infrared Person Re-Identification"* \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Shallow-Deep_Collaborative_Learning_for_Unsupervised_Visible-Infrared_Person_Re-Identification_CVPR_2024_paper.pdf)] \[[github](https://github.com/yangbincv/SDCL) ⭐ 37 | 🐛 7 | 🌐 Python | 📅 2024-11-22]
 >
 > ###### 15) *"View-decoupled Transformer for Person Re-identification under Aerial-ground Camera Network"* \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_View-decoupled_Transformer_for_Person_Re-identification_under_Aerial-ground_Camera_Network_CVPR_2024_paper.pdf)] \[[github](https://github.com/LinlyAC/VDT-AGPReID) ⭐ 60 | 🐛 5 | 🌐 Python | 📅 2024-03-26]
 >
