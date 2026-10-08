@@ -131,7 +131,7 @@ This is a repository for organizing articles related to person re-identification
 >
 > ###### 3) *"ISAR: A Benchmark for Single- and Few-Shot Object Instance Segmentation and Re-Identification"* \[[paper](\[https://openaccess.thecvf.com/content/WACV2024/papers/Therien_Object_Re-Identification_From_Point_Clouds_WACV_2024_paper.pdf]\(https://openaccess.thecvf.com/content/WACV2024/papers/Gorlo_ISAR_A_Benchmark_for_Single-_and_Few-Shot_Object_Instance_Segmentation_WACV_2024_paper.pdf\))]
 >
-> ###### 4) *"WildlifeDatasets: An open-source toolkit for animal re-identification"* \[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Cermak_WildlifeDatasets_An_Open-Source_Toolkit_for_Animal_Re-Identification_WACV_2024_paper.pdf)] \[[github](https://github.com/WildlifeDatasets/wildlife-datasets) ⭐ 204 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-10-06]
+> ###### 4) *"WildlifeDatasets: An open-source toolkit for animal re-identification"* \[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Cermak_WildlifeDatasets_An_Open-Source_Toolkit_for_Animal_Re-Identification_WACV_2024_paper.pdf)] \[[github](https://github.com/WildlifeDatasets/wildlife-datasets) ⭐ 204 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-10-07]
 >
 > ###### 5) *"Computer Vision on the Edge: Individual Cattle Identification in Real-time with ReadMyCow System"* \[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Smink_Computer_Vision_on_the_Edge_Individual_Cattle_Identification_in_Real-Time_WACV_2024_paper.pdf)]
 
@@ -1075,7 +1075,7 @@ This is a repository for organizing articles related to person re-identification
 
 > ###### 1) *"Beyond Intra-modality: A Survey of Heterogeneous Person Re-identification"*, IJCAI 2020 \[[paper](https://arxiv.org/abs/1905.10048)] \[[github](https://github.com/lightChaserX/Awesome-Hetero-reID)]
 >
-> ###### 2) *"Deep Learning for Person Re-identification: A Survey and Outlook"*, arXiv 2020 \[[paper](https://arxiv.org/abs/2001.04193)] \[[github](https://github.com/mangye16/ReID-Survey) ⭐ 757 | 🐛 18 | 🌐 Python | 📅 2025-02-17]
+> ###### 2) *"Deep Learning for Person Re-identification: A Survey and Outlook"*, arXiv 2020 \[[paper](https://arxiv.org/abs/2001.04193)] \[[github](https://github.com/mangye16/ReID-Survey) ⭐ 758 | 🐛 18 | 🌐 Python | 📅 2025-02-17]
 >
 > ###### 3) *"Person search: New paradigm of person re-identification: A survey and outlook of recent works"*, Image and Vision Computing 2020 \[[paper](https://www.sciencedirect.com/science/article/pii/S0262885620301025)]
 >
@@ -1143,7 +1143,7 @@ These are papers that search for "gait" and "person re-identification" in google
 
 ## Datasets
 
-* Duke Leaderboard \[[page](https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/leaderboard) ⭐ 4,448 | 🐛 172 | 🌐 Python | 📅 2026-09-24]
+* Duke Leaderboard \[[page](https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/leaderboard) ⭐ 4,448 | 🐛 176 | 🌐 Python | 📅 2026-09-24]
 * Awesome re-id dataset \[[github](https://github.com/NEU-Gou/awesome-reid-dataset) ⭐ 1,109 | 🐛 14 | 📅 2025-10-23]
 * Market-1501 Leaderboard \[[page](https://jingdongwang2017.github.io/Projects/ReID/Datasets/result_market1501.html)]
 * Re-id dataset collection \[[page](http://robustsystems.coe.neu.edu/sites/robustsystems.coe.neu.edu/files/systems/projectpages/reiddataset.html)]
@@ -1152,7 +1152,7 @@ These are papers that search for "gait" and "person re-identification" in google
 
 ## Codes
 
-* Library for deep-learning person re-identification \[[Torchreid(pytorch)](https://github.com/KaiyangZhou/deep-person-reid) ⭐ 4,919 | 🐛 164 | 🌐 Python | 📅 2026-01-09] \[[Openreid(pytorch)](https://github.com/Cysu/open-reid) ⭐ 1,371 | 🐛 37 | 🌐 Python | 📅 2019-04-23]
+* Library for deep-learning person re-identification \[[Torchreid(pytorch)](https://github.com/KaiyangZhou/deep-person-reid) ⭐ 4,921 | 🐛 164 | 🌐 Python | 📅 2026-01-09] \[[Openreid(pytorch)](https://github.com/Cysu/open-reid) ⭐ 1,371 | 🐛 37 | 🌐 Python | 📅 2019-04-23]
 * Cross modal reid baseline \[[Visual-thermal reid(pytorch)](https://github.com/mangye16/Cross-Modal-Re-ID-baseline) ⭐ 401 | 🐛 9 | 🌐 Python | 📅 2023-11-30]
 * Language Person Search \[[Matlab](https://github.com/layumi/Image-Text-Embedding) ⭐ 297 | 🐛 12 | 🌐 MATLAB | 📅 2026-07-06]
 * 3D Person reid \[[Pytorch](https://github.com/layumi/person-reid-3d) ⭐ 271 | 🐛 11 | 🌐 Python | 📅 2026-07-06]
@@ -1299,4 +1299,4 @@ The github page will be revised largely at 2020 to provide more convenient infor
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
