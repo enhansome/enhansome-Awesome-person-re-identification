@@ -406,13 +406,13 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "Official PyTorch implementation of Activity-Biometrics : Person Identification from Daily Activities (CVPR 2024).",
             "homepage": null,
             "id": 772213344,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2024-03-14T18:47:57Z",
-            "open_issues": 3,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-08T23:47:27Z",
+            "open_issues": 0,
             "owner": "sacrcv",
             "repo": "Activity-Biometrics",
             "stars": 2,
@@ -526,7 +526,7 @@
             "open_issues": 1,
             "owner": "WildlifeDatasets",
             "repo": "wildlife-datasets",
-            "stars": 204,
+            "stars": 206,
             "topics": [
               "dataset",
               "datasets",
@@ -1964,11 +1964,11 @@
             "id": 115712649,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-24T04:49:56Z",
-            "open_issues": 176,
+            "last_commit": "2026-10-08T06:16:40Z",
+            "open_issues": 172,
             "owner": "layumi",
             "repo": "Person_reID_baseline_pytorch",
-            "stars": 4448,
+            "stars": 4449,
             "topics": [
               "awesome-reid",
               "baseline",
@@ -2035,7 +2035,7 @@
             "open_issues": 164,
             "owner": "KaiyangZhou",
             "repo": "deep-person-reid",
-            "stars": 4921,
+            "stars": 4922,
             "topics": [
               "computer-vision",
               "cross-domain",
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T01:50:02.387Z",
+    "last_updated": "2026-10-09T02:02:31.803Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
@@ -2349,7 +2349,7 @@
       "open_issues": 2,
       "owner": "bismex",
       "repo": "Awesome-person-re-identification",
-      "stars": 1364,
+      "stars": 1365,
       "topics": [
         "awesome",
         "awesome-list",
