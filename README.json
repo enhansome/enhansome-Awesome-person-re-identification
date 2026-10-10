@@ -1704,7 +1704,7 @@
             "open_issues": 3,
             "owner": "Simon4Yan",
             "repo": "Learning-via-Translation",
-            "stars": 208,
+            "stars": 209,
             "topics": [
               "domain-adaptation",
               "person-reidentification"
@@ -2035,7 +2035,7 @@
             "open_issues": 164,
             "owner": "KaiyangZhou",
             "repo": "deep-person-reid",
-            "stars": 4922,
+            "stars": 4925,
             "topics": [
               "computer-vision",
               "cross-domain",
@@ -2068,7 +2068,7 @@
             "open_issues": 9,
             "owner": "mangye16",
             "repo": "Cross-Modal-Re-ID-baseline",
-            "stars": 401,
+            "stars": 402,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -2269,7 +2269,7 @@
             "open_issues": 3,
             "owner": "handong1587",
             "repo": "handong1587.github.io",
-            "stars": 3135,
+            "stars": 3136,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T02:02:31.803Z",
+    "last_updated": "2026-10-10T01:41:45.974Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
