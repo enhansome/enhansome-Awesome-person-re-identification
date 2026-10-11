@@ -526,7 +526,7 @@
             "open_issues": 1,
             "owner": "WildlifeDatasets",
             "repo": "wildlife-datasets",
-            "stars": 206,
+            "stars": 208,
             "topics": [
               "dataset",
               "datasets",
@@ -977,7 +977,7 @@
             "open_issues": 39,
             "owner": "damo-cv",
             "repo": "TransReID",
-            "stars": 1055,
+            "stars": 1056,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -1968,7 +1968,7 @@
             "open_issues": 172,
             "owner": "layumi",
             "repo": "Person_reID_baseline_pytorch",
-            "stars": 4449,
+            "stars": 4450,
             "topics": [
               "awesome-reid",
               "baseline",
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T01:41:45.974Z",
+    "last_updated": "2026-10-11T00:53:23.776Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
