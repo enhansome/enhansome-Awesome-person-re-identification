@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "bismex",
             "repo": "Awesome-vehicle-re-identification",
-            "stars": 162,
+            "stars": 163,
             "topics": [
               "awesome",
               "awesome-list",
@@ -526,7 +526,7 @@
             "open_issues": 1,
             "owner": "WildlifeDatasets",
             "repo": "wildlife-datasets",
-            "stars": 208,
+            "stars": 210,
             "topics": [
               "dataset",
               "datasets",
@@ -800,7 +800,7 @@
             "open_issues": 20,
             "owner": "VlSomers",
             "repo": "bpbreid",
-            "stars": 261,
+            "stars": 260,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -2035,7 +2035,7 @@
             "open_issues": 164,
             "owner": "KaiyangZhou",
             "repo": "deep-person-reid",
-            "stars": 4925,
+            "stars": 4926,
             "topics": [
               "computer-vision",
               "cross-domain",
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T00:53:23.776Z",
+    "last_updated": "2026-10-12T01:13:50.275Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
@@ -2349,7 +2349,7 @@
       "open_issues": 2,
       "owner": "bismex",
       "repo": "Awesome-person-re-identification",
-      "stars": 1365,
+      "stars": 1366,
       "topics": [
         "awesome",
         "awesome-list",
