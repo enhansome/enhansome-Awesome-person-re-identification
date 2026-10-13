@@ -98,7 +98,7 @@
             "open_issues": 4,
             "owner": "luanshiyinyang",
             "repo": "awesome-multiple-object-tracking",
-            "stars": 1496,
+            "stars": 1497,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -522,7 +522,7 @@
             "id": 546057103,
             "language": "Jupyter Notebook",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-07T15:24:14Z",
+            "last_commit": "2026-10-12T08:56:02Z",
             "open_issues": 1,
             "owner": "WildlifeDatasets",
             "repo": "wildlife-datasets",
@@ -1704,7 +1704,7 @@
             "open_issues": 3,
             "owner": "Simon4Yan",
             "repo": "Learning-via-Translation",
-            "stars": 209,
+            "stars": 210,
             "topics": [
               "domain-adaptation",
               "person-reidentification"
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T01:13:50.275Z",
+    "last_updated": "2026-10-13T02:59:32.341Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
