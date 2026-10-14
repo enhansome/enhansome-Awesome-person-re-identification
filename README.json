@@ -256,7 +256,7 @@
             "open_issues": 1,
             "owner": "QinYang79",
             "repo": "RDE",
-            "stars": 132,
+            "stars": 133,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -522,8 +522,8 @@
             "id": 546057103,
             "language": "Jupyter Notebook",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-12T08:56:02Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-13T14:13:28Z",
+            "open_issues": 0,
             "owner": "WildlifeDatasets",
             "repo": "wildlife-datasets",
             "stars": 210,
@@ -627,7 +627,7 @@
             "open_issues": 1,
             "owner": "PengBoXiangShang",
             "repo": "deepchange",
-            "stars": 157,
+            "stars": 158,
             "topics": [
               "benchmark",
               "clothes-change",
@@ -1167,7 +1167,7 @@
             "open_issues": 3,
             "owner": "HeliosZhao",
             "repo": "M3L",
-            "stars": 66,
+            "stars": 67,
             "topics": [
               "cvpr2021",
               "personreid"
@@ -1968,7 +1968,7 @@
             "open_issues": 172,
             "owner": "layumi",
             "repo": "Person_reID_baseline_pytorch",
-            "stars": 4450,
+            "stars": 4451,
             "topics": [
               "awesome-reid",
               "baseline",
@@ -2035,7 +2035,7 @@
             "open_issues": 164,
             "owner": "KaiyangZhou",
             "repo": "deep-person-reid",
-            "stars": 4926,
+            "stars": 4927,
             "topics": [
               "computer-vision",
               "cross-domain",
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T02:59:32.341Z",
+    "last_updated": "2026-10-14T01:08:45.239Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
@@ -2349,7 +2349,7 @@
       "open_issues": 2,
       "owner": "bismex",
       "repo": "Awesome-person-re-identification",
-      "stars": 1366,
+      "stars": 1367,
       "topics": [
         "awesome",
         "awesome-list",
