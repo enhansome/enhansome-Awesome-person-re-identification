@@ -98,7 +98,7 @@
             "open_issues": 4,
             "owner": "luanshiyinyang",
             "repo": "awesome-multiple-object-tracking",
-            "stars": 1497,
+            "stars": 1498,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -526,7 +526,7 @@
             "open_issues": 0,
             "owner": "WildlifeDatasets",
             "repo": "wildlife-datasets",
-            "stars": 210,
+            "stars": 211,
             "topics": [
               "dataset",
               "datasets",
@@ -1968,7 +1968,7 @@
             "open_issues": 176,
             "owner": "layumi",
             "repo": "Person_reID_baseline_pytorch",
-            "stars": 4451,
+            "stars": 4450,
             "topics": [
               "awesome-reid",
               "baseline",
@@ -2008,7 +2008,7 @@
             "open_issues": 14,
             "owner": "NEU-Gou",
             "repo": "awesome-reid-dataset",
-            "stars": 1109,
+            "stars": 1110,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -2269,7 +2269,7 @@
             "open_issues": 3,
             "owner": "handong1587",
             "repo": "handong1587.github.io",
-            "stars": 3136,
+            "stars": 3135,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T00:27:58.799Z",
+    "last_updated": "2026-10-16T00:18:22.662Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
