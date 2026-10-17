@@ -98,7 +98,7 @@
             "open_issues": 4,
             "owner": "luanshiyinyang",
             "repo": "awesome-multiple-object-tracking",
-            "stars": 1498,
+            "stars": 1497,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -119,7 +119,7 @@
             "open_issues": 4,
             "owner": "xuehaouwa",
             "repo": "Awesome-Trajectory-Prediction",
-            "stars": 1249,
+            "stars": 1248,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -522,8 +522,8 @@
             "id": 546057103,
             "language": "Jupyter Notebook",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-13T14:13:28Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-16T16:05:07Z",
+            "open_issues": 1,
             "owner": "WildlifeDatasets",
             "repo": "wildlife-datasets",
             "stars": 211,
@@ -914,7 +914,7 @@
             "open_issues": 2,
             "owner": "SikaStar",
             "repo": "IDM",
-            "stars": 103,
+            "stars": 102,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -977,7 +977,7 @@
             "open_issues": 39,
             "owner": "damo-cv",
             "repo": "TransReID",
-            "stars": 1056,
+            "stars": 1055,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -1480,7 +1480,7 @@
             "open_issues": 45,
             "owner": "NVlabs",
             "repo": "DG-Net",
-            "stars": 1299,
+            "stars": 1300,
             "topics": [
               "apex",
               "cuhk-np",
@@ -2035,7 +2035,7 @@
             "open_issues": 164,
             "owner": "KaiyangZhou",
             "repo": "deep-person-reid",
-            "stars": 4927,
+            "stars": 4926,
             "topics": [
               "computer-vision",
               "cross-domain",
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T00:18:22.662Z",
+    "last_updated": "2026-10-17T00:21:23.157Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
