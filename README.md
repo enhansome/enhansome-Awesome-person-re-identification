@@ -477,7 +477,7 @@ This is a repository for organizing articles related to person re-identification
 
 > ###### 1) *"Meta Batch-Instance Normalization for Generalizable Person Re-Identification"* \[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Choi_Meta_Batch-Instance_Normalization_for_Generalizable_Person_Re-Identification_CVPR_2021_paper.pdf)]\[[github](https://github.com/bismex/MetaBIN) ⭐ 71 | 🐛 8 | 🌐 Python | 📅 2021-11-10]
 >
-> ###### 2) *"Intra-Inter Camera Similarity for Unsupervised Person Re-Identification"* \[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Xuan_Intra-Inter_Camera_Similarity_for_Unsupervised_Person_Re-Identification_CVPR_2021_paper.pdf)]\[[github](https://github.com/SY-Xuan/IICS) ⭐ 50 | 🐛 3 | 🌐 Python | 📅 2022-05-09]
+> ###### 2) *"Intra-Inter Camera Similarity for Unsupervised Person Re-Identification"* \[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Xuan_Intra-Inter_Camera_Similarity_for_Unsupervised_Person_Re-Identification_CVPR_2021_paper.pdf)]\[[github](https://github.com/SY-Xuan/IICS) ⭐ 49 | 🐛 3 | 🌐 Python | 📅 2022-05-09]
 >
 > ###### 3) *"Joint Noise-Tolerant Learning and Meta Camera Shift Adaptation for Unsupervised Person Re-Identification"* \[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Joint_Noise-Tolerant_Learning_and_Meta_Camera_Shift_Adaptation_for_Unsupervised_CVPR_2021_paper.pdf)]\[[github](https://github.com/FlyingRoastDuck/MetaCam_DSCE) ⭐ 58 | 🐛 2 | 🌐 Python | 📅 2022-12-31]
 >

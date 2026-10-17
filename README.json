@@ -1083,7 +1083,7 @@
             "open_issues": 3,
             "owner": "SY-Xuan",
             "repo": "IICS",
-            "stars": 50,
+            "stars": 49,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T00:21:23.157Z",
+    "last_updated": "2026-10-17T23:58:12.116Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
