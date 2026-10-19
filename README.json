@@ -98,7 +98,7 @@
             "open_issues": 4,
             "owner": "luanshiyinyang",
             "repo": "awesome-multiple-object-tracking",
-            "stars": 1497,
+            "stars": 1498,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -349,7 +349,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2024-11-22T00:13:38Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "yangbincv",
             "repo": "SDCL",
             "stars": 37,
@@ -522,8 +522,8 @@
             "id": 546057103,
             "language": "Jupyter Notebook",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-16T16:05:07Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-18T12:53:23Z",
+            "open_issues": 2,
             "owner": "WildlifeDatasets",
             "repo": "wildlife-datasets",
             "stars": 211,
@@ -800,7 +800,7 @@
             "open_issues": 20,
             "owner": "VlSomers",
             "repo": "bpbreid",
-            "stars": 260,
+            "stars": 261,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1254,7 +1254,7 @@
             "open_issues": 3,
             "owner": "whj363636",
             "repo": "Adversarial-attack-on-Person-ReID-With-Deep-Mis-Ranking",
-            "stars": 97,
+            "stars": 99,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T23:58:12.116Z",
+    "last_updated": "2026-10-19T00:09:02.923Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",

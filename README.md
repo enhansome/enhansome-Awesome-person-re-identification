@@ -13,7 +13,7 @@ This is a repository for organizing articles related to person re-identification
 
 ### :high\_brightness: Other recommended related topics
 
-* Multi-camera multi-object tracking (MCMOT) \[[github1](https://github.com/luanshiyinyang/awesome-multiple-object-tracking) ⭐ 1,497 | 🐛 4 | 📅 2026-08-29] \[[github2](https://github.com/SherryJYC/paper-MTMC) ⭐ 207 | 🐛 0 | 📅 2022-11-30] \[[workshop:AI-city-challange](https://www.aicitychallenge.org/)] \[[workshop:MMP-Tracking](https://iccv2021-mmp.github.io/)]
+* Multi-camera multi-object tracking (MCMOT) \[[github1](https://github.com/luanshiyinyang/awesome-multiple-object-tracking) ⭐ 1,498 | 🐛 4 | 📅 2026-08-29] \[[github2](https://github.com/SherryJYC/paper-MTMC) ⭐ 207 | 🐛 0 | 📅 2022-11-30] \[[workshop:AI-city-challange](https://www.aicitychallenge.org/)] \[[workshop:MMP-Tracking](https://iccv2021-mmp.github.io/)]
 * Trajectory prediction \[[github1](https://github.com/xuehaouwa/Awesome-Trajectory-Prediction) ⭐ 1,248 | 🐛 4 | 📅 2023-01-31] \[[github2](https://github.com/jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction) ⭐ 1,693 | 🐛 2 | 🌐 TeX | 📅 2026-08-24]
 
 ### :high\_brightness: Updated 2024-06-17
@@ -87,7 +87,7 @@ This is a repository for organizing articles related to person re-identification
 >
 > ###### 13) *"All in One Framework for Multimodal Re-identification in the Wild"* \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_All_in_One_Framework_for_Multimodal_Re-identification_in_the_Wild_CVPR_2024_paper.pdf)]
 >
-> ###### 14) *"Shallow-Deep Collaborative Learning for Unsupervised Visible-Infrared Person Re-Identification"* \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Shallow-Deep_Collaborative_Learning_for_Unsupervised_Visible-Infrared_Person_Re-Identification_CVPR_2024_paper.pdf)] \[[github](https://github.com/yangbincv/SDCL) ⭐ 37 | 🐛 7 | 🌐 Python | 📅 2024-11-22]
+> ###### 14) *"Shallow-Deep Collaborative Learning for Unsupervised Visible-Infrared Person Re-Identification"* \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Shallow-Deep_Collaborative_Learning_for_Unsupervised_Visible-Infrared_Person_Re-Identification_CVPR_2024_paper.pdf)] \[[github](https://github.com/yangbincv/SDCL) ⭐ 37 | 🐛 8 | 🌐 Python | 📅 2024-11-22]
 >
 > ###### 15) *"View-decoupled Transformer for Person Re-identification under Aerial-ground Camera Network"* \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_View-decoupled_Transformer_for_Person_Re-identification_under_Aerial-ground_Camera_Network_CVPR_2024_paper.pdf)] \[[github](https://github.com/LinlyAC/VDT-AGPReID) ⭐ 60 | 🐛 5 | 🌐 Python | 📅 2024-03-26]
 >
@@ -131,7 +131,7 @@ This is a repository for organizing articles related to person re-identification
 >
 > ###### 3) *"ISAR: A Benchmark for Single- and Few-Shot Object Instance Segmentation and Re-Identification"* \[[paper](\[https://openaccess.thecvf.com/content/WACV2024/papers/Therien_Object_Re-Identification_From_Point_Clouds_WACV_2024_paper.pdf]\(https://openaccess.thecvf.com/content/WACV2024/papers/Gorlo_ISAR_A_Benchmark_for_Single-_and_Few-Shot_Object_Instance_Segmentation_WACV_2024_paper.pdf\))]
 >
-> ###### 4) *"WildlifeDatasets: An open-source toolkit for animal re-identification"* \[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Cermak_WildlifeDatasets_An_Open-Source_Toolkit_for_Animal_Re-Identification_WACV_2024_paper.pdf)] \[[github](https://github.com/WildlifeDatasets/wildlife-datasets) ⭐ 211 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-10-16]
+> ###### 4) *"WildlifeDatasets: An open-source toolkit for animal re-identification"* \[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Cermak_WildlifeDatasets_An_Open-Source_Toolkit_for_Animal_Re-Identification_WACV_2024_paper.pdf)] \[[github](https://github.com/WildlifeDatasets/wildlife-datasets) ⭐ 211 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-10-18]
 >
 > ###### 5) *"Computer Vision on the Edge: Individual Cattle Identification in Real-time with ReadMyCow System"* \[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Smink_Computer_Vision_on_the_Edge_Individual_Cattle_Identification_in_Real-Time_WACV_2024_paper.pdf)]
 
@@ -221,7 +221,7 @@ This is a repository for organizing articles related to person re-identification
 
 * <ins>***Person re-identification***</ins>
 
-> ###### 1) *"Body Part-Based Representation Learning for Occluded Person Re-Identification"* \[[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Somers_Body_Part-Based_Representation_Learning_for_Occluded_Person_Re-Identification_WACV_2023_paper.pdf)]\[[github](https://github.com/VlSomers/bpbreid) ⭐ 260 | 🐛 20 | 🌐 Python | 📅 2025-11-05]
+> ###### 1) *"Body Part-Based Representation Learning for Occluded Person Re-Identification"* \[[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Somers_Body_Part-Based_Representation_Learning_for_Occluded_Person_Re-Identification_WACV_2023_paper.pdf)]\[[github](https://github.com/VlSomers/bpbreid) ⭐ 261 | 🐛 20 | 🌐 Python | 📅 2025-11-05]
 >
 > ###### 2) *"Graph-Based Self-Learning for Robust Person Re-identification"* \[[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Xian_Graph-Based_Self-Learning_for_Robust_Person_Re-Identification_WACV_2023_paper.pdf)]
 >
@@ -635,7 +635,7 @@ This is a repository for organizing articles related to person re-identification
 
 > ###### 1) *"Hi-CMD: Hierarchical Cross-Modality Disentanglement for Visible-Infrared Person Re-Identification"* \[[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Choi_Hi-CMD_Hierarchical_Cross-Modality_Disentanglement_for_Visible-Infrared_Person_Re-Identification_CVPR_2020_paper.pdf)] \[[github](https://github.com/bismex/HiCMD) ⭐ 81 | 🐛 1 | 🌐 Python | 📅 2021-05-07] \[[video](https://www.youtube.com/watch?v=da_4DxF0rGk\&feature=youtu.be)]
 >
-> ###### 2) *"Transferable, Controllable, and Inconspicuous Adversarial Attacks on Person Re-identification With Deep Mis-Ranking"* \[[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Transferable_Controllable_and_Inconspicuous_Adversarial_Attacks_on_Person_Re-identification_With_CVPR_2020_paper.pdf)] \[[github](https://github.com/whj363636/Adversarial-attack-on-Person-ReID-With-Deep-Mis-Ranking) ⭐ 97 | 🐛 3 | 🌐 Python | 📅 2021-06-04]
+> ###### 2) *"Transferable, Controllable, and Inconspicuous Adversarial Attacks on Person Re-identification With Deep Mis-Ranking"* \[[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Transferable_Controllable_and_Inconspicuous_Adversarial_Attacks_on_Person_Re-identification_With_CVPR_2020_paper.pdf)] \[[github](https://github.com/whj363636/Adversarial-attack-on-Person-ReID-With-Deep-Mis-Ranking) ⭐ 99 | 🐛 3 | 🌐 Python | 📅 2021-06-04]
 >
 > ###### 3) *"Inter-Task Association Critic for Cross-Resolution Person Re-Identification"* \[[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_Inter-Task_Association_Critic_for_Cross-Resolution_Person_Re-Identification_CVPR_2020_paper.pdf)]
 >
@@ -1299,4 +1299,4 @@ The github page will be revised largely at 2020 to provide more convenient infor
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
