@@ -256,7 +256,7 @@
             "open_issues": 1,
             "owner": "QinYang79",
             "repo": "RDE",
-            "stars": 133,
+            "stars": 134,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -522,7 +522,7 @@
             "id": 546057103,
             "language": "Jupyter Notebook",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-18T12:53:23Z",
+            "last_commit": "2026-10-19T09:17:41Z",
             "open_issues": 2,
             "owner": "WildlifeDatasets",
             "repo": "wildlife-datasets",
@@ -2035,7 +2035,7 @@
             "open_issues": 164,
             "owner": "KaiyangZhou",
             "repo": "deep-person-reid",
-            "stars": 4926,
+            "stars": 4929,
             "topics": [
               "computer-vision",
               "cross-domain",
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T00:09:02.923Z",
+    "last_updated": "2026-10-20T01:02:52.866Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
