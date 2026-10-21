@@ -89,7 +89,7 @@ This is a repository for organizing articles related to person re-identification
 >
 > ###### 14) *"Shallow-Deep Collaborative Learning for Unsupervised Visible-Infrared Person Re-Identification"* \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Shallow-Deep_Collaborative_Learning_for_Unsupervised_Visible-Infrared_Person_Re-Identification_CVPR_2024_paper.pdf)] \[[github](https://github.com/yangbincv/SDCL) ⭐ 37 | 🐛 8 | 🌐 Python | 📅 2024-11-22]
 >
-> ###### 15) *"View-decoupled Transformer for Person Re-identification under Aerial-ground Camera Network"* \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_View-decoupled_Transformer_for_Person_Re-identification_under_Aerial-ground_Camera_Network_CVPR_2024_paper.pdf)] \[[github](https://github.com/LinlyAC/VDT-AGPReID) ⭐ 60 | 🐛 5 | 🌐 Python | 📅 2024-03-26]
+> ###### 15) *"View-decoupled Transformer for Person Re-identification under Aerial-ground Camera Network"* \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_View-decoupled_Transformer_for_Person_Re-identification_under_Aerial-ground_Camera_Network_CVPR_2024_paper.pdf)] \[[github](https://github.com/LinlyAC/VDT-AGPReID) ⭐ 61 | 🐛 5 | 🌐 Python | 📅 2024-03-26]
 >
 > ###### 16) *"Implicit Discriminative Knowledge Learning for Visible-Infrared Person Re-Identification"* \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Ren_Implicit_Discriminative_Knowledge_Learning_for_Visible-Infrared_Person_Re-Identification_CVPR_2024_paper.pdf)] \[[github](https://github.com/1KK077/IDKL) ⭐ 24 | 🐛 13 | 🌐 Python | 📅 2024-08-08]
 >
@@ -131,7 +131,7 @@ This is a repository for organizing articles related to person re-identification
 >
 > ###### 3) *"ISAR: A Benchmark for Single- and Few-Shot Object Instance Segmentation and Re-Identification"* \[[paper](\[https://openaccess.thecvf.com/content/WACV2024/papers/Therien_Object_Re-Identification_From_Point_Clouds_WACV_2024_paper.pdf]\(https://openaccess.thecvf.com/content/WACV2024/papers/Gorlo_ISAR_A_Benchmark_for_Single-_and_Few-Shot_Object_Instance_Segmentation_WACV_2024_paper.pdf\))]
 >
-> ###### 4) *"WildlifeDatasets: An open-source toolkit for animal re-identification"* \[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Cermak_WildlifeDatasets_An_Open-Source_Toolkit_for_Animal_Re-Identification_WACV_2024_paper.pdf)] \[[github](https://github.com/WildlifeDatasets/wildlife-datasets) ⭐ 211 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-10-19]
+> ###### 4) *"WildlifeDatasets: An open-source toolkit for animal re-identification"* \[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Cermak_WildlifeDatasets_An_Open-Source_Toolkit_for_Animal_Re-Identification_WACV_2024_paper.pdf)] \[[github](https://github.com/WildlifeDatasets/wildlife-datasets) ⭐ 212 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-10-20]
 >
 > ###### 5) *"Computer Vision on the Edge: Individual Cattle Identification in Real-time with ReadMyCow System"* \[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Smink_Computer_Vision_on_the_Edge_Individual_Cattle_Identification_in_Real-Time_WACV_2024_paper.pdf)]
 
@@ -703,7 +703,7 @@ This is a repository for organizing articles related to person re-identification
 
 * <ins>***Person image synthesis / generation***</ins>
 
-> ###### 1) *"Controllable Person Image Synthesis With Attribute-Decomposed GAN"* \[[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Men_Controllable_Person_Image_Synthesis_With_Attribute-Decomposed_GAN_CVPR_2020_paper.pdf)] \[[github](https://github.com/menyifang/ADGAN) ⭐ 483 | 🐛 37 | 🌐 Python | 📅 2022-11-16]
+> ###### 1) *"Controllable Person Image Synthesis With Attribute-Decomposed GAN"* \[[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Men_Controllable_Person_Image_Synthesis_With_Attribute-Decomposed_GAN_CVPR_2020_paper.pdf)] \[[github](https://github.com/menyifang/ADGAN) ⭐ 484 | 🐛 37 | 🌐 Python | 📅 2022-11-16]
 >
 > ###### 2) *"Deep Image Spatial Transformation for Person Image Generation"* \[[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Ren_Deep_Image_Spatial_Transformation_for_Person_Image_Generation_CVPR_2020_paper.pdf)] \[[github](https://github.com/RenYurui/Global-Flow-Local-Attention) ⭐ 568 | 🐛 30 | 🌐 Jupyter Notebook | 📅 2022-09-03]
 >
@@ -863,7 +863,7 @@ This is a repository for organizing articles related to person re-identification
 
 * <ins>***Person image synthesis / generation***</ins>
 
-> ###### 1) *"Progressive Pose Attention Transfer for Person Image Generation"* \[[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Progressive_Pose_Attention_Transfer_for_Person_Image_Generation_CVPR_2019_paper.pdf)] \[[github](https://github.com/tengteng95/Pose-Transfer) ⭐ 741 | 🐛 40 | 🌐 Python | 📅 2023-02-11]
+> ###### 1) *"Progressive Pose Attention Transfer for Person Image Generation"* \[[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Progressive_Pose_Attention_Transfer_for_Person_Image_Generation_CVPR_2019_paper.pdf)] \[[github](https://github.com/tengteng95/Pose-Transfer) ⭐ 742 | 🐛 40 | 🌐 Python | 📅 2023-02-11]
 >
 > ###### 2) *"Unsupervised Person Image Generation with Semantic Parsing Transformation"* \[[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Song_Unsupervised_Person_Image_Generation_With_Semantic_Parsing_Transformation_CVPR_2019_paper.pdf)] \[[github](https://github.com/SijieSong/person_generation_spt) ⭐ 110 | 🐛 7 | 🌐 Python | 📅 2021-05-21]
 >
@@ -1143,7 +1143,7 @@ These are papers that search for "gait" and "person re-identification" in google
 
 ## Datasets
 
-* Duke Leaderboard \[[page](https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/leaderboard) ⭐ 4,450 | 🐛 176 | 🌐 Python | 📅 2026-10-08]
+* Duke Leaderboard \[[page](https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/leaderboard) ⭐ 4,452 | 🐛 176 | 🌐 Python | 📅 2026-10-08]
 * Awesome re-id dataset \[[github](https://github.com/NEU-Gou/awesome-reid-dataset) ⭐ 1,110 | 🐛 14 | 📅 2025-10-23]
 * Market-1501 Leaderboard \[[page](https://jingdongwang2017.github.io/Projects/ReID/Datasets/result_market1501.html)]
 * Re-id dataset collection \[[page](http://robustsystems.coe.neu.edu/sites/robustsystems.coe.neu.edu/files/systems/projectpages/reiddataset.html)]
@@ -1152,7 +1152,7 @@ These are papers that search for "gait" and "person re-identification" in google
 
 ## Codes
 
-* Library for deep-learning person re-identification \[[Torchreid(pytorch)](https://github.com/KaiyangZhou/deep-person-reid) ⭐ 4,929 | 🐛 164 | 🌐 Python | 📅 2026-01-09] \[[Openreid(pytorch)](https://github.com/Cysu/open-reid) ⭐ 1,371 | 🐛 37 | 🌐 Python | 📅 2019-04-23]
+* Library for deep-learning person re-identification \[[Torchreid(pytorch)](https://github.com/KaiyangZhou/deep-person-reid) ⭐ 4,930 | 🐛 164 | 🌐 Python | 📅 2026-01-09] \[[Openreid(pytorch)](https://github.com/Cysu/open-reid) ⭐ 1,372 | 🐛 37 | 🌐 Python | 📅 2019-04-23]
 * Cross modal reid baseline \[[Visual-thermal reid(pytorch)](https://github.com/mangye16/Cross-Modal-Re-ID-baseline) ⭐ 403 | 🐛 9 | 🌐 Python | 📅 2023-11-30]
 * Language Person Search \[[Matlab](https://github.com/layumi/Image-Text-Embedding) ⭐ 297 | 🐛 12 | 🌐 MATLAB | 📅 2026-07-06]
 * 3D Person reid \[[Pytorch](https://github.com/layumi/person-reid-3d) ⭐ 271 | 🐛 11 | 🌐 Python | 📅 2026-07-06]
@@ -1299,4 +1299,4 @@ The github page will be revised largely at 2020 to provide more convenient infor
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._

@@ -373,7 +373,7 @@
             "open_issues": 5,
             "owner": "LinlyAC",
             "repo": "VDT-AGPReID",
-            "stars": 60,
+            "stars": 61,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -522,11 +522,11 @@
             "id": 546057103,
             "language": "Jupyter Notebook",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-19T09:17:41Z",
+            "last_commit": "2026-10-20T10:55:12Z",
             "open_issues": 2,
             "owner": "WildlifeDatasets",
             "repo": "wildlife-datasets",
-            "stars": 211,
+            "stars": 212,
             "topics": [
               "dataset",
               "datasets",
@@ -1359,7 +1359,7 @@
             "open_issues": 37,
             "owner": "menyifang",
             "repo": "ADGAN",
-            "stars": 483,
+            "stars": 484,
             "topics": [
               "gan",
               "generative-adversarial-network",
@@ -1582,7 +1582,7 @@
             "open_issues": 40,
             "owner": "tengteng95",
             "repo": "Pose-Transfer",
-            "stars": 741,
+            "stars": 742,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -1968,7 +1968,7 @@
             "open_issues": 176,
             "owner": "layumi",
             "repo": "Person_reID_baseline_pytorch",
-            "stars": 4450,
+            "stars": 4452,
             "topics": [
               "awesome-reid",
               "baseline",
@@ -2035,7 +2035,7 @@
             "open_issues": 164,
             "owner": "KaiyangZhou",
             "repo": "deep-person-reid",
-            "stars": 4929,
+            "stars": 4930,
             "topics": [
               "computer-vision",
               "cross-domain",
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T01:02:52.866Z",
+    "last_updated": "2026-10-21T00:33:20.433Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
@@ -2349,7 +2349,7 @@
       "open_issues": 2,
       "owner": "bismex",
       "repo": "Awesome-person-re-identification",
-      "stars": 1367,
+      "stars": 1368,
       "topics": [
         "awesome",
         "awesome-list",
