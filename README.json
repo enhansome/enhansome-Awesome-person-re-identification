@@ -98,7 +98,7 @@
             "open_issues": 5,
             "owner": "luanshiyinyang",
             "repo": "awesome-multiple-object-tracking",
-            "stars": 1498,
+            "stars": 1499,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -627,7 +627,7 @@
             "open_issues": 1,
             "owner": "PengBoXiangShang",
             "repo": "deepchange",
-            "stars": 158,
+            "stars": 159,
             "topics": [
               "benchmark",
               "clothes-change",
@@ -1968,7 +1968,7 @@
             "open_issues": 176,
             "owner": "layumi",
             "repo": "Person_reID_baseline_pytorch",
-            "stars": 4452,
+            "stars": 4453,
             "topics": [
               "awesome-reid",
               "baseline",
@@ -2035,7 +2035,7 @@
             "open_issues": 164,
             "owner": "KaiyangZhou",
             "repo": "deep-person-reid",
-            "stars": 4933,
+            "stars": 4932,
             "topics": [
               "computer-vision",
               "cross-domain",
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T00:33:13.226Z",
+    "last_updated": "2026-10-25T00:15:31.332Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
