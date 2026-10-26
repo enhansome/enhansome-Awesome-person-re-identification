@@ -1728,7 +1728,7 @@
             "open_issues": 2,
             "owner": "Yu-Wu",
             "repo": "Exploit-Unknown-Gradually",
-            "stars": 124,
+            "stars": 125,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T00:15:31.332Z",
+    "last_updated": "2026-10-26T00:10:12.922Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",

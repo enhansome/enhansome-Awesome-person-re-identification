@@ -929,7 +929,7 @@ This is a repository for organizing articles related to person re-identification
 >
 > ###### 4) *"Disentangled Person Image Generation"* \[[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ma_Disentangled_Person_Image_CVPR_2018_paper.pdf)]
 >
-> ###### 5) *"Exploit the Unknown Gradually: One-Shot Video-Based Person Re-Identification by Stepwise Learning"* \[[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wu_Exploit_the_Unknown_CVPR_2018_paper.pdf)] \[[Github](https://github.com/Yu-Wu/Exploit-Unknown-Gradually) ⭐ 124 | 🐛 2 | 🌐 Python | 📅 2019-04-26] \[[Homepage](https://yu-wu.net/publication/cvpr2018-oneshot-reid/)]
+> ###### 5) *"Exploit the Unknown Gradually: One-Shot Video-Based Person Re-Identification by Stepwise Learning"* \[[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wu_Exploit_the_Unknown_CVPR_2018_paper.pdf)] \[[Github](https://github.com/Yu-Wu/Exploit-Unknown-Gradually) ⭐ 125 | 🐛 2 | 🌐 Python | 📅 2019-04-26] \[[Homepage](https://yu-wu.net/publication/cvpr2018-oneshot-reid/)]
 >
 > ###### 6) *"Diversity Regularized Spatiotemporal Attention for Video-based Person Re-identification"* \[[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Diversity_Regularized_Spatiotemporal_CVPR_2018_paper.pdf)]
 >
@@ -1299,4 +1299,4 @@ The github page will be revised largely at 2020 to provide more convenient infor
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
