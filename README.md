@@ -89,7 +89,7 @@ This is a repository for organizing articles related to person re-identification
 >
 > ###### 14) *"Shallow-Deep Collaborative Learning for Unsupervised Visible-Infrared Person Re-Identification"* \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Shallow-Deep_Collaborative_Learning_for_Unsupervised_Visible-Infrared_Person_Re-Identification_CVPR_2024_paper.pdf)] \[[github](https://github.com/yangbincv/SDCL) ⭐ 37 | 🐛 8 | 🌐 Python | 📅 2024-11-22]
 >
-> ###### 15) *"View-decoupled Transformer for Person Re-identification under Aerial-ground Camera Network"* \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_View-decoupled_Transformer_for_Person_Re-identification_under_Aerial-ground_Camera_Network_CVPR_2024_paper.pdf)] \[[github](https://github.com/LinlyAC/VDT-AGPReID) ⭐ 61 | 🐛 5 | 🌐 Python | 📅 2024-03-26]
+> ###### 15) *"View-decoupled Transformer for Person Re-identification under Aerial-ground Camera Network"* \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_View-decoupled_Transformer_for_Person_Re-identification_under_Aerial-ground_Camera_Network_CVPR_2024_paper.pdf)] \[[github](https://github.com/LinlyAC/VDT-AGPReID) ⭐ 61 | 🐛 6 | 🌐 Python | 📅 2024-03-26]
 >
 > ###### 16) *"Implicit Discriminative Knowledge Learning for Visible-Infrared Person Re-Identification"* \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Ren_Implicit_Discriminative_Knowledge_Learning_for_Visible-Infrared_Person_Re-Identification_CVPR_2024_paper.pdf)] \[[github](https://github.com/1KK077/IDKL) ⭐ 24 | 🐛 13 | 🌐 Python | 📅 2024-08-08]
 >
@@ -131,7 +131,7 @@ This is a repository for organizing articles related to person re-identification
 >
 > ###### 3) *"ISAR: A Benchmark for Single- and Few-Shot Object Instance Segmentation and Re-Identification"* \[[paper](\[https://openaccess.thecvf.com/content/WACV2024/papers/Therien_Object_Re-Identification_From_Point_Clouds_WACV_2024_paper.pdf]\(https://openaccess.thecvf.com/content/WACV2024/papers/Gorlo_ISAR_A_Benchmark_for_Single-_and_Few-Shot_Object_Instance_Segmentation_WACV_2024_paper.pdf\))]
 >
-> ###### 4) *"WildlifeDatasets: An open-source toolkit for animal re-identification"* \[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Cermak_WildlifeDatasets_An_Open-Source_Toolkit_for_Animal_Re-Identification_WACV_2024_paper.pdf)] \[[github](https://github.com/WildlifeDatasets/wildlife-datasets) ⭐ 212 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-10-23]
+> ###### 4) *"WildlifeDatasets: An open-source toolkit for animal re-identification"* \[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Cermak_WildlifeDatasets_An_Open-Source_Toolkit_for_Animal_Re-Identification_WACV_2024_paper.pdf)] \[[github](https://github.com/WildlifeDatasets/wildlife-datasets) ⭐ 214 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-10-23]
 >
 > ###### 5) *"Computer Vision on the Edge: Individual Cattle Identification in Real-time with ReadMyCow System"* \[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Smink_Computer_Vision_on_the_Edge_Individual_Cattle_Identification_in_Real-Time_WACV_2024_paper.pdf)]
 
@@ -1299,4 +1299,4 @@ The github page will be revised largely at 2020 to provide more convenient infor
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
