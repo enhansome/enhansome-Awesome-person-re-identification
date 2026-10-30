@@ -119,7 +119,7 @@
             "open_issues": 4,
             "owner": "xuehaouwa",
             "repo": "Awesome-Trajectory-Prediction",
-            "stars": 1249,
+            "stars": 1248,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -522,8 +522,8 @@
             "id": 546057103,
             "language": "Jupyter Notebook",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-23T05:33:20Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-29T20:22:14Z",
+            "open_issues": 2,
             "owner": "WildlifeDatasets",
             "repo": "wildlife-datasets",
             "stars": 214,
@@ -627,7 +627,7 @@
             "open_issues": 1,
             "owner": "PengBoXiangShang",
             "repo": "deepchange",
-            "stars": 159,
+            "stars": 158,
             "topics": [
               "benchmark",
               "clothes-change",
@@ -698,7 +698,7 @@
             "open_issues": 13,
             "owner": "liyuke65535",
             "repo": "Part-Aware-Transformer",
-            "stars": 45,
+            "stars": 46,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -977,7 +977,7 @@
             "open_issues": 39,
             "owner": "damo-cv",
             "repo": "TransReID",
-            "stars": 1063,
+            "stars": 1064,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -2035,7 +2035,7 @@
             "open_issues": 164,
             "owner": "KaiyangZhou",
             "repo": "deep-person-reid",
-            "stars": 4934,
+            "stars": 4936,
             "topics": [
               "computer-vision",
               "cross-domain",
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T01:44:26.484Z",
+    "last_updated": "2026-10-30T01:52:42.483Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",

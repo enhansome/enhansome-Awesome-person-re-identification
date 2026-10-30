@@ -14,7 +14,7 @@ This is a repository for organizing articles related to person re-identification
 ### :high\_brightness: Other recommended related topics
 
 * Multi-camera multi-object tracking (MCMOT) \[[github1](https://github.com/luanshiyinyang/awesome-multiple-object-tracking) ⭐ 1,499 | 🐛 5 | 📅 2026-08-29] \[[github2](https://github.com/SherryJYC/paper-MTMC) ⭐ 208 | 🐛 0 | 📅 2022-11-30] \[[workshop:AI-city-challange](https://www.aicitychallenge.org/)] \[[workshop:MMP-Tracking](https://iccv2021-mmp.github.io/)]
-* Trajectory prediction \[[github1](https://github.com/xuehaouwa/Awesome-Trajectory-Prediction) ⭐ 1,249 | 🐛 4 | 📅 2023-01-31] \[[github2](https://github.com/jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction) ⭐ 1,695 | 🐛 2 | 🌐 TeX | 📅 2026-08-24]
+* Trajectory prediction \[[github1](https://github.com/xuehaouwa/Awesome-Trajectory-Prediction) ⭐ 1,248 | 🐛 4 | 📅 2023-01-31] \[[github2](https://github.com/jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction) ⭐ 1,694 | 🐛 2 | 🌐 TeX | 📅 2026-08-24]
 
 ### :high\_brightness: Updated 2024-06-17
 
@@ -131,7 +131,7 @@ This is a repository for organizing articles related to person re-identification
 >
 > ###### 3) *"ISAR: A Benchmark for Single- and Few-Shot Object Instance Segmentation and Re-Identification"* \[[paper](\[https://openaccess.thecvf.com/content/WACV2024/papers/Therien_Object_Re-Identification_From_Point_Clouds_WACV_2024_paper.pdf]\(https://openaccess.thecvf.com/content/WACV2024/papers/Gorlo_ISAR_A_Benchmark_for_Single-_and_Few-Shot_Object_Instance_Segmentation_WACV_2024_paper.pdf\))]
 >
-> ###### 4) *"WildlifeDatasets: An open-source toolkit for animal re-identification"* \[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Cermak_WildlifeDatasets_An_Open-Source_Toolkit_for_Animal_Re-Identification_WACV_2024_paper.pdf)] \[[github](https://github.com/WildlifeDatasets/wildlife-datasets) ⭐ 214 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-10-23]
+> ###### 4) *"WildlifeDatasets: An open-source toolkit for animal re-identification"* \[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Cermak_WildlifeDatasets_An_Open-Source_Toolkit_for_Animal_Re-Identification_WACV_2024_paper.pdf)] \[[github](https://github.com/WildlifeDatasets/wildlife-datasets) ⭐ 214 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-10-29]
 >
 > ###### 5) *"Computer Vision on the Edge: Individual Cattle Identification in Real-time with ReadMyCow System"* \[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Smink_Computer_Vision_on_the_Edge_Individual_Cattle_Identification_in_Real-Time_WACV_2024_paper.pdf)]
 
@@ -147,7 +147,7 @@ This is a repository for organizing articles related to person re-identification
 >
 > ###### 3) *"Towards Grand Unified Representation Learning for Unsupervised Visible-Infrared Person Re-Identification"* \[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Towards_Grand_Unified_Representation_Learning_for_Unsupervised_Visible-Infrared_Person_Re-Identification_ICCV_2023_paper.pdf)] \[[github](https://github.com/yangbincv/GUR) ⭐ 20 | 🐛 3 | 🌐 Python | 📅 2023-10-21]
 >
-> ###### 4) *"A Long-Term Person Re-Identification Benchmark with Clothes Change"* \[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_DeepChange_A_Long-Term_Person_Re-Identification_Benchmark_with_Clothes_Change_ICCV_2023_paper.pdf)] \[[github](https://github.com/PengBoXiangShang/deepchange) ⭐ 159 | 🐛 1 | 📅 2025-10-08]
+> ###### 4) *"A Long-Term Person Re-Identification Benchmark with Clothes Change"* \[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_DeepChange_A_Long-Term_Person_Re-Identification_Benchmark_with_Clothes_Change_ICCV_2023_paper.pdf)] \[[github](https://github.com/PengBoXiangShang/deepchange) ⭐ 158 | 🐛 1 | 📅 2025-10-08]
 >
 > ###### 5) *"Discrepant and Multi-instance Proxies for Unsupervised Person Re-identification"* \[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zou_Discrepant_and_Multi-Instance_Proxies_for_Unsupervised_Person_Re-Identification_ICCV_2023_paper.pdf)]
 >
@@ -161,7 +161,7 @@ This is a repository for organizing articles related to person re-identification
 >
 > ###### 10) *"Camera-Driven Representation Learning for Unsupervised Domain Adaptive Person Re-identification"* \[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Lee_Camera-Driven_Representation_Learning_for_Unsupervised_Domain_Adaptive_Person_Re-identification_ICCV_2023_paper.pdf)] \[[github](https://cvlab.yonsei.ac.kr/projects/CaCL/)]
 >
-> ###### 11) *"Part-Aware Transformer for Generalizable Person Re-identification"* \[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Ni_Part-Aware_Transformer_for_Generalizable_Person_Re-identification_ICCV_2023_paper.pdf)] \[[github](https://github.com/liyuke65535/Part-Aware-Transformer) ⭐ 45 | 🐛 13 | 🌐 Python | 📅 2024-12-02]
+> ###### 11) *"Part-Aware Transformer for Generalizable Person Re-identification"* \[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Ni_Part-Aware_Transformer_for_Generalizable_Person_Re-identification_ICCV_2023_paper.pdf)] \[[github](https://github.com/liyuke65535/Part-Aware-Transformer) ⭐ 46 | 🐛 13 | 🌐 Python | 📅 2024-12-02]
 >
 > ###### 12) *"Dual Pseudo-Labels Interactive Self-Training for Semi-Supervised Visible-Infrared Person Re-Identification"* \[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Shi_Dual_Pseudo-Labels_Interactive_Self-Training_for_Semi-Supervised_Visible-Infrared_Person_Re-Identification_ICCV_2023_paper.pdf)] \[[github](https://github.com/XiangboYin/DPIS_SSVI-ReID)]
 >
@@ -437,7 +437,7 @@ This is a repository for organizing articles related to person re-identification
 >
 > ###### 22) *"Learning Instance-Level Spatial-Temporal Patterns for Person Re-Identification"* \[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ren_Learning_Instance-Level_Spatial-Temporal_Patterns_for_Person_Re-Identification_ICCV_2021_paper.pdf)] \[[github](https://github.com/RenMin1991/cleaned-DukeMTMC-reID/) ⭐ 15 | 🐛 1 | 📅 2021-08-26]
 >
-> ###### 23) *"TransReID: Transformer-Based Object Re-Identification"* \[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/He_TransReID_Transformer-Based_Object_Re-Identification_ICCV_2021_paper.pdf)] \[[github](https://github.com/heshuting555/TransReID) ⭐ 1,063 | 🐛 39 | 🌐 Python | 📅 2024-06-12]
+> ###### 23) *"TransReID: Transformer-Based Object Re-Identification"* \[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/He_TransReID_Transformer-Based_Object_Re-Identification_ICCV_2021_paper.pdf)] \[[github](https://github.com/heshuting555/TransReID) ⭐ 1,064 | 🐛 39 | 🌐 Python | 📅 2024-06-12]
 >
 > ###### 24) *"Attack-Guided Perceptual Data Generation for Real-World Re-Identification"* \[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Huang_Attack-Guided_Perceptual_Data_Generation_for_Real-World_Re-Identification_ICCV_2021_paper.pdf)]
 
@@ -1152,7 +1152,7 @@ These are papers that search for "gait" and "person re-identification" in google
 
 ## Codes
 
-* Library for deep-learning person re-identification \[[Torchreid(pytorch)](https://github.com/KaiyangZhou/deep-person-reid) ⭐ 4,934 | 🐛 164 | 🌐 Python | 📅 2026-01-09] \[[Openreid(pytorch)](https://github.com/Cysu/open-reid) ⭐ 1,372 | 🐛 37 | 🌐 Python | 📅 2019-04-23]
+* Library for deep-learning person re-identification \[[Torchreid(pytorch)](https://github.com/KaiyangZhou/deep-person-reid) ⭐ 4,936 | 🐛 164 | 🌐 Python | 📅 2026-01-09] \[[Openreid(pytorch)](https://github.com/Cysu/open-reid) ⭐ 1,372 | 🐛 37 | 🌐 Python | 📅 2019-04-23]
 * Cross modal reid baseline \[[Visual-thermal reid(pytorch)](https://github.com/mangye16/Cross-Modal-Re-ID-baseline) ⭐ 403 | 🐛 9 | 🌐 Python | 📅 2023-11-30]
 * Language Person Search \[[Matlab](https://github.com/layumi/Image-Text-Embedding) ⭐ 297 | 🐛 12 | 🌐 MATLAB | 📅 2026-07-06]
 * 3D Person reid \[[Pytorch](https://github.com/layumi/person-reid-3d) ⭐ 271 | 🐛 11 | 🌐 Python | 📅 2026-07-06]
@@ -1299,4 +1299,4 @@ The github page will be revised largely at 2020 to provide more convenient infor
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
