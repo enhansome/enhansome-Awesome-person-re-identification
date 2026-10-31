@@ -98,7 +98,7 @@
             "open_issues": 5,
             "owner": "luanshiyinyang",
             "repo": "awesome-multiple-object-tracking",
-            "stars": 1499,
+            "stars": 1500,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -522,7 +522,7 @@
             "id": 546057103,
             "language": "Jupyter Notebook",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-29T20:22:14Z",
+            "last_commit": "2026-10-30T06:39:47Z",
             "open_issues": 2,
             "owner": "WildlifeDatasets",
             "repo": "wildlife-datasets",
@@ -800,7 +800,7 @@
             "open_issues": 20,
             "owner": "VlSomers",
             "repo": "bpbreid",
-            "stars": 262,
+            "stars": 263,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1480,7 +1480,7 @@
             "open_issues": 45,
             "owner": "NVlabs",
             "repo": "DG-Net",
-            "stars": 1300,
+            "stars": 1301,
             "topics": [
               "apex",
               "cuhk-np",
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T01:52:42.483Z",
+    "last_updated": "2026-10-31T01:31:38.656Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
