@@ -98,7 +98,7 @@
             "open_issues": 5,
             "owner": "luanshiyinyang",
             "repo": "awesome-multiple-object-tracking",
-            "stars": 1500,
+            "stars": 1501,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -977,7 +977,7 @@
             "open_issues": 39,
             "owner": "damo-cv",
             "repo": "TransReID",
-            "stars": 1064,
+            "stars": 1065,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T01:31:38.656Z",
+    "last_updated": "2026-11-01T01:00:34.439Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
