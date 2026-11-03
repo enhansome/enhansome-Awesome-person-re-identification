@@ -522,11 +522,11 @@
             "id": 546057103,
             "language": "Jupyter Notebook",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-01T23:10:08Z",
+            "last_commit": "2026-11-02T18:08:13Z",
             "open_issues": 2,
             "owner": "WildlifeDatasets",
             "repo": "wildlife-datasets",
-            "stars": 214,
+            "stars": 215,
             "topics": [
               "dataset",
               "datasets",
@@ -977,7 +977,7 @@
             "open_issues": 39,
             "owner": "damo-cv",
             "repo": "TransReID",
-            "stars": 1065,
+            "stars": 1066,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -2035,7 +2035,7 @@
             "open_issues": 164,
             "owner": "KaiyangZhou",
             "repo": "deep-person-reid",
-            "stars": 4936,
+            "stars": 4937,
             "topics": [
               "computer-vision",
               "cross-domain",
@@ -2269,7 +2269,7 @@
             "open_issues": 3,
             "owner": "handong1587",
             "repo": "handong1587.github.io",
-            "stars": 3132,
+            "stars": 3133,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T01:27:56.417Z",
+    "last_updated": "2026-11-03T03:26:29.925Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
