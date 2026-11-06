@@ -2035,7 +2035,7 @@
             "open_issues": 164,
             "owner": "KaiyangZhou",
             "repo": "deep-person-reid",
-            "stars": 4937,
+            "stars": 4938,
             "topics": [
               "computer-vision",
               "cross-domain",
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T02:17:14.325Z",
+    "last_updated": "2026-11-06T02:16:47.471Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
