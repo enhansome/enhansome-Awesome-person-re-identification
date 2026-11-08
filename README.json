@@ -1968,7 +1968,7 @@
             "open_issues": 176,
             "owner": "layumi",
             "repo": "Person_reID_baseline_pytorch",
-            "stars": 4457,
+            "stars": 4458,
             "topics": [
               "awesome-reid",
               "baseline",
@@ -2035,7 +2035,7 @@
             "open_issues": 164,
             "owner": "KaiyangZhou",
             "repo": "deep-person-reid",
-            "stars": 4939,
+            "stars": 4940,
             "topics": [
               "computer-vision",
               "cross-domain",
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T01:49:16.622Z",
+    "last_updated": "2026-11-08T01:19:33.546Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
