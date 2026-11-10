@@ -13,8 +13,8 @@ This is a repository for organizing articles related to person re-identification
 
 ### :high\_brightness: Other recommended related topics
 
-* Multi-camera multi-object tracking (MCMOT) \[[github1](https://github.com/luanshiyinyang/awesome-multiple-object-tracking) ⭐ 1,500 | 🐛 4 | 📅 2026-11-03] \[[github2](https://github.com/SherryJYC/paper-MTMC) ⭐ 208 | 🐛 0 | 📅 2022-11-30] \[[workshop:AI-city-challange](https://www.aicitychallenge.org/)] \[[workshop:MMP-Tracking](https://iccv2021-mmp.github.io/)]
-* Trajectory prediction \[[github1](https://github.com/xuehaouwa/Awesome-Trajectory-Prediction) ⭐ 1,248 | 🐛 4 | 📅 2023-01-31] \[[github2](https://github.com/jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction) ⭐ 1,699 | 🐛 2 | 🌐 TeX | 📅 2026-08-24]
+* Multi-camera multi-object tracking (MCMOT) \[[github1](https://github.com/luanshiyinyang/awesome-multiple-object-tracking) ⭐ 1,501 | 🐛 4 | 📅 2026-11-03] \[[github2](https://github.com/SherryJYC/paper-MTMC) ⭐ 208 | 🐛 0 | 📅 2022-11-30] \[[workshop:AI-city-challange](https://www.aicitychallenge.org/)] \[[workshop:MMP-Tracking](https://iccv2021-mmp.github.io/)]
+* Trajectory prediction \[[github1](https://github.com/xuehaouwa/Awesome-Trajectory-Prediction) ⭐ 1,247 | 🐛 4 | 📅 2023-01-31] \[[github2](https://github.com/jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction) ⭐ 1,698 | 🐛 2 | 🌐 TeX | 📅 2026-08-24]
 
 ### :high\_brightness: Updated 2024-06-17
 
@@ -131,7 +131,7 @@ This is a repository for organizing articles related to person re-identification
 >
 > ###### 3) *"ISAR: A Benchmark for Single- and Few-Shot Object Instance Segmentation and Re-Identification"* \[[paper](\[https://openaccess.thecvf.com/content/WACV2024/papers/Therien_Object_Re-Identification_From_Point_Clouds_WACV_2024_paper.pdf]\(https://openaccess.thecvf.com/content/WACV2024/papers/Gorlo_ISAR_A_Benchmark_for_Single-_and_Few-Shot_Object_Instance_Segmentation_WACV_2024_paper.pdf\))]
 >
-> ###### 4) *"WildlifeDatasets: An open-source toolkit for animal re-identification"* \[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Cermak_WildlifeDatasets_An_Open-Source_Toolkit_for_Animal_Re-Identification_WACV_2024_paper.pdf)] \[[github](https://github.com/WildlifeDatasets/wildlife-datasets) ⭐ 216 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-11-02]
+> ###### 4) *"WildlifeDatasets: An open-source toolkit for animal re-identification"* \[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Cermak_WildlifeDatasets_An_Open-Source_Toolkit_for_Animal_Re-Identification_WACV_2024_paper.pdf)] \[[github](https://github.com/WildlifeDatasets/wildlife-datasets) ⭐ 217 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-11-02]
 >
 > ###### 5) *"Computer Vision on the Edge: Individual Cattle Identification in Real-time with ReadMyCow System"* \[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Smink_Computer_Vision_on_the_Edge_Individual_Cattle_Identification_in_Real-Time_WACV_2024_paper.pdf)]
 
@@ -437,7 +437,7 @@ This is a repository for organizing articles related to person re-identification
 >
 > ###### 22) *"Learning Instance-Level Spatial-Temporal Patterns for Person Re-Identification"* \[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ren_Learning_Instance-Level_Spatial-Temporal_Patterns_for_Person_Re-Identification_ICCV_2021_paper.pdf)] \[[github](https://github.com/RenMin1991/cleaned-DukeMTMC-reID/) ⭐ 15 | 🐛 1 | 📅 2021-08-26]
 >
-> ###### 23) *"TransReID: Transformer-Based Object Re-Identification"* \[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/He_TransReID_Transformer-Based_Object_Re-Identification_ICCV_2021_paper.pdf)] \[[github](https://github.com/heshuting555/TransReID) ⭐ 1,066 | 🐛 39 | 🌐 Python | 📅 2024-06-12]
+> ###### 23) *"TransReID: Transformer-Based Object Re-Identification"* \[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/He_TransReID_Transformer-Based_Object_Re-Identification_ICCV_2021_paper.pdf)] \[[github](https://github.com/heshuting555/TransReID) ⭐ 1,067 | 🐛 39 | 🌐 Python | 📅 2024-06-12]
 >
 > ###### 24) *"Attack-Guided Perceptual Data Generation for Real-World Re-Identification"* \[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Huang_Attack-Guided_Perceptual_Data_Generation_for_Real-World_Re-Identification_ICCV_2021_paper.pdf)]
 
@@ -635,7 +635,7 @@ This is a repository for organizing articles related to person re-identification
 
 > ###### 1) *"Hi-CMD: Hierarchical Cross-Modality Disentanglement for Visible-Infrared Person Re-Identification"* \[[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Choi_Hi-CMD_Hierarchical_Cross-Modality_Disentanglement_for_Visible-Infrared_Person_Re-Identification_CVPR_2020_paper.pdf)] \[[github](https://github.com/bismex/HiCMD) ⭐ 81 | 🐛 1 | 🌐 Python | 📅 2021-05-07] \[[video](https://www.youtube.com/watch?v=da_4DxF0rGk\&feature=youtu.be)]
 >
-> ###### 2) *"Transferable, Controllable, and Inconspicuous Adversarial Attacks on Person Re-identification With Deep Mis-Ranking"* \[[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Transferable_Controllable_and_Inconspicuous_Adversarial_Attacks_on_Person_Re-identification_With_CVPR_2020_paper.pdf)] \[[github](https://github.com/whj363636/Adversarial-attack-on-Person-ReID-With-Deep-Mis-Ranking) ⭐ 99 | 🐛 4 | 🌐 Python | 📅 2021-06-04]
+> ###### 2) *"Transferable, Controllable, and Inconspicuous Adversarial Attacks on Person Re-identification With Deep Mis-Ranking"* \[[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Transferable_Controllable_and_Inconspicuous_Adversarial_Attacks_on_Person_Re-identification_With_CVPR_2020_paper.pdf)] \[[github](https://github.com/whj363636/Adversarial-attack-on-Person-ReID-With-Deep-Mis-Ranking) ⭐ 99 | 🐛 3 | 🌐 Python | 📅 2021-06-04]
 >
 > ###### 3) *"Inter-Task Association Critic for Cross-Resolution Person Re-Identification"* \[[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_Inter-Task_Association_Critic_for_Cross-Resolution_Person_Re-Identification_CVPR_2020_paper.pdf)]
 >
@@ -1001,7 +1001,7 @@ This is a repository for organizing articles related to person re-identification
 >
 > ###### 5) *"Group Re-Identification via Unsupervised Transfer of Sparse Features Encoding"* \[[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Lisanti_Group_Re-Identification_via_ICCV_2017_paper.pdf)]
 >
-> ###### 6) *"Unlabeled Samples Generated by GAN Improve the Person Re-identification Baseline in vitro"* \[[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zheng_Unlabeled_Samples_Generated_ICCV_2017_paper.pdf)] \[[Github](https://github.com/layumi/Person-reID_GAN) ⭐ 323 | 🐛 7 | 🌐 Cuda | 📅 2021-06-29]
+> ###### 6) *"Unlabeled Samples Generated by GAN Improve the Person Re-identification Baseline in vitro"* \[[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zheng_Unlabeled_Samples_Generated_ICCV_2017_paper.pdf)] \[[Github](https://github.com/layumi/Person-reID_GAN) ⭐ 324 | 🐛 7 | 🌐 Cuda | 📅 2021-06-29]
 >
 > ###### 7) *"Dynamic Label Graph Matching for Unsupervised Video Re-Identification"* \[[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Ye_Dynamic_Label_Graph_ICCV_2017_paper.pdf)] \[[Github](https://github.com/mangye16/dgm_re-id) ⭐ 42 | 🐛 1 | 🌐 Matlab | 📅 2018-03-04]
 >
@@ -1075,7 +1075,7 @@ This is a repository for organizing articles related to person re-identification
 
 > ###### 1) *"Beyond Intra-modality: A Survey of Heterogeneous Person Re-identification"*, IJCAI 2020 \[[paper](https://arxiv.org/abs/1905.10048)] \[[github](https://github.com/lightChaserX/Awesome-Hetero-reID)]
 >
-> ###### 2) *"Deep Learning for Person Re-identification: A Survey and Outlook"*, arXiv 2020 \[[paper](https://arxiv.org/abs/2001.04193)] \[[github](https://github.com/mangye16/ReID-Survey) ⭐ 758 | 🐛 18 | 🌐 Python | 📅 2025-02-17]
+> ###### 2) *"Deep Learning for Person Re-identification: A Survey and Outlook"*, arXiv 2020 \[[paper](https://arxiv.org/abs/2001.04193)] \[[github](https://github.com/mangye16/ReID-Survey) ⭐ 759 | 🐛 18 | 🌐 Python | 📅 2025-02-17]
 >
 > ###### 3) *"Person search: New paradigm of person re-identification: A survey and outlook of recent works"*, Image and Vision Computing 2020 \[[paper](https://www.sciencedirect.com/science/article/pii/S0262885620301025)]
 >
@@ -1143,7 +1143,7 @@ These are papers that search for "gait" and "person re-identification" in google
 
 ## Datasets
 
-* Duke Leaderboard \[[page](https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/leaderboard) ⭐ 4,459 | 🐛 176 | 🌐 Python | 📅 2026-10-08]
+* Duke Leaderboard \[[page](https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/leaderboard) ⭐ 4,460 | 🐛 176 | 🌐 Python | 📅 2026-10-08]
 * Awesome re-id dataset \[[github](https://github.com/NEU-Gou/awesome-reid-dataset) ⭐ 1,112 | 🐛 14 | 📅 2025-10-23]
 * Market-1501 Leaderboard \[[page](https://jingdongwang2017.github.io/Projects/ReID/Datasets/result_market1501.html)]
 * Re-id dataset collection \[[page](http://robustsystems.coe.neu.edu/sites/robustsystems.coe.neu.edu/files/systems/projectpages/reiddataset.html)]
@@ -1153,13 +1153,13 @@ These are papers that search for "gait" and "person re-identification" in google
 ## Codes
 
 * Library for deep-learning person re-identification \[[Torchreid(pytorch)](https://github.com/KaiyangZhou/deep-person-reid) ⭐ 4,941 | 🐛 164 | 🌐 Python | 📅 2026-01-09] \[[Openreid(pytorch)](https://github.com/Cysu/open-reid) ⭐ 1,372 | 🐛 37 | 🌐 Python | 📅 2019-04-23]
-* Cross modal reid baseline \[[Visual-thermal reid(pytorch)](https://github.com/mangye16/Cross-Modal-Re-ID-baseline) ⭐ 403 | 🐛 9 | 🌐 Python | 📅 2023-11-30]
+* Cross modal reid baseline \[[Visual-thermal reid(pytorch)](https://github.com/mangye16/Cross-Modal-Re-ID-baseline) ⭐ 404 | 🐛 9 | 🌐 Python | 📅 2023-11-30]
 * Language Person Search \[[Matlab](https://github.com/layumi/Image-Text-Embedding) ⭐ 297 | 🐛 12 | 🌐 MATLAB | 📅 2026-07-06]
 * 3D Person reid \[[Pytorch](https://github.com/layumi/person-reid-3d) ⭐ 271 | 🐛 11 | 🌐 Python | 📅 2026-07-06]
 * 2stream Person reid \[[Matlab](https://github.com/layumi/2016_person_re-ID) ⭐ 264 | 🐛 8 | 🌐 C | 📅 2026-07-06]
-* Person reid baseline \[[IDE(Caffe)](https://github.com/zhunzhong07/IDE-baseline-Market-1501) ⭐ 245 | 🐛 1 | 🌐 Matlab | 📅 2017-11-14] \[[Tricks(pytorch)](https://github.com/michuanhaohao/reid-strong-baseline) ⭐ 2,358 | 🐛 41 | 🌐 Python | 📅 2020-04-23] \[[Triplet(pytorch)](https://github.com/huanghoujing/person-reid-triplet-loss-baseline) ⭐ 484 | 🐛 10 | 🌐 Python | 📅 2019-01-06] \[[GAN(pytorch)](https://github.com/qiaoguan/Person-reid-GAN-pytorch) ⭐ 157 | 🐛 21 | 🌐 Python | 📅 2019-11-15] \[[GAN(Matlab)](https://github.com/layumi/Person-reID_GAN) ⭐ 323 | 🐛 7 | 🌐 Cuda | 📅 2021-06-29] \[[FDGAN(pytorch)](https://github.com/yxgeee/FD-GAN) ⭐ 284 | 🐛 10 | 🌐 Python | 📅 2020-09-08] \[[DGNet(pytorch)](https://github.com/NVlabs/DG-Net) ⭐ 1,301 | 🐛 45 | 🌐 Python | 📅 2023-07-09]
+* Person reid baseline \[[IDE(Caffe)](https://github.com/zhunzhong07/IDE-baseline-Market-1501) ⭐ 245 | 🐛 1 | 🌐 Matlab | 📅 2017-11-14] \[[Tricks(pytorch)](https://github.com/michuanhaohao/reid-strong-baseline) ⭐ 2,358 | 🐛 41 | 🌐 Python | 📅 2020-04-23] \[[Triplet(pytorch)](https://github.com/huanghoujing/person-reid-triplet-loss-baseline) ⭐ 484 | 🐛 10 | 🌐 Python | 📅 2019-01-06] \[[GAN(pytorch)](https://github.com/qiaoguan/Person-reid-GAN-pytorch) ⭐ 157 | 🐛 21 | 🌐 Python | 📅 2019-11-15] \[[GAN(Matlab)](https://github.com/layumi/Person-reID_GAN) ⭐ 324 | 🐛 7 | 🌐 Cuda | 📅 2021-06-29] \[[FDGAN(pytorch)](https://github.com/yxgeee/FD-GAN) ⭐ 284 | 🐛 10 | 🌐 Python | 📅 2020-09-08] \[[DGNet(pytorch)](https://github.com/NVlabs/DG-Net) ⭐ 1,301 | 🐛 45 | 🌐 Python | 📅 2023-07-09]
 * Person reid with Pedestrian alignment \[[STN(Matlab)](https://github.com/layumi/Pedestrian_Alignment) ⭐ 238 | 🐛 13 | 🌐 Cuda | 📅 2026-07-06]
-* Vehicle reid baseline \[[Jakel21(pytorch)](https://github.com/Jakel21/vehicle-ReID-baseline) ⭐ 147 | 🐛 8 | 🌐 Python | 📅 2019-08-12] \[[lxc86739795(pytorch)](https://github.com/lxc86739795/vehiclereid_baseline) ⭐ 93 | 🐛 4 | 🌐 Python | 📅 2020-06-20] \[[AICity 2020 Champion(pytorch)](https://github.com/layumi/AICIty-reID-2020) ⭐ 464 | 🐛 40 | 🌐 Python | 📅 2024-09-01]
+* Vehicle reid baseline \[[Jakel21(pytorch)](https://github.com/Jakel21/vehicle-ReID-baseline) ⭐ 147 | 🐛 8 | 🌐 Python | 📅 2019-08-12] \[[lxc86739795(pytorch)](https://github.com/lxc86739795/vehiclereid_baseline) ⭐ 93 | 🐛 4 | 🌐 Python | 📅 2020-06-20] \[[AICity 2020 Champion(pytorch)](https://github.com/layumi/AICIty-reID-2020) ⭐ 465 | 🐛 40 | 🌐 Python | 📅 2024-09-01]
 
 ***
 
@@ -1299,4 +1299,4 @@ The github page will be revised largely at 2020 to provide more convenient infor
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
