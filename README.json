@@ -256,7 +256,7 @@
             "open_issues": 1,
             "owner": "QinYang79",
             "repo": "RDE",
-            "stars": 132,
+            "stars": 131,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -522,7 +522,7 @@
             "id": 546057103,
             "language": "Jupyter Notebook",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-02T18:08:13Z",
+            "last_commit": "2026-11-10T16:32:40Z",
             "open_issues": 2,
             "owner": "WildlifeDatasets",
             "repo": "wildlife-datasets",
@@ -767,7 +767,7 @@
             "open_issues": 4,
             "owner": "Shuyu-XJTU",
             "repo": "APTM",
-            "stars": 177,
+            "stars": 176,
             "topics": [
               "attribute-prompt-learning",
               "image-text-alignment",
@@ -2008,7 +2008,7 @@
             "open_issues": 14,
             "owner": "NEU-Gou",
             "repo": "awesome-reid-dataset",
-            "stars": 1112,
+            "stars": 1111,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -2035,7 +2035,7 @@
             "open_issues": 164,
             "owner": "KaiyangZhou",
             "repo": "deep-person-reid",
-            "stars": 4941,
+            "stars": 4942,
             "topics": [
               "computer-vision",
               "cross-domain",
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T04:03:26.122Z",
+    "last_updated": "2026-11-11T01:52:23.447Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
