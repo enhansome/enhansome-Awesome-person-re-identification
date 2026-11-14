@@ -1836,7 +1836,7 @@
             "open_issues": 18,
             "owner": "mangye16",
             "repo": "ReID-Survey",
-            "stars": 759,
+            "stars": 760,
             "topics": [
               "deep-learning",
               "person-re-identification",
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T02:33:24.322Z",
+    "last_updated": "2026-11-14T02:16:22.702Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
