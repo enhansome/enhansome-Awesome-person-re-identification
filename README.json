@@ -438,7 +438,7 @@
             "id": 684547469,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-15T00:01:15Z",
+            "last_commit": "2026-11-15T15:41:06Z",
             "open_issues": 1,
             "owner": "ramiMMhamza",
             "repo": "S2P",
@@ -977,7 +977,7 @@
             "open_issues": 39,
             "owner": "damo-cv",
             "repo": "TransReID",
-            "stars": 1067,
+            "stars": 1068,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -2035,7 +2035,7 @@
             "open_issues": 164,
             "owner": "KaiyangZhou",
             "repo": "deep-person-reid",
-            "stars": 4945,
+            "stars": 4946,
             "topics": [
               "computer-vision",
               "cross-domain",
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T01:47:13.763Z",
+    "last_updated": "2026-11-16T01:54:03.617Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
