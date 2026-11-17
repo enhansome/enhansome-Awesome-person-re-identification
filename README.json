@@ -119,7 +119,7 @@
             "open_issues": 4,
             "owner": "xuehaouwa",
             "repo": "Awesome-Trajectory-Prediction",
-            "stars": 1247,
+            "stars": 1246,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -977,7 +977,7 @@
             "open_issues": 39,
             "owner": "damo-cv",
             "repo": "TransReID",
-            "stars": 1068,
+            "stars": 1069,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -1019,7 +1019,7 @@
             "open_issues": 14,
             "owner": "cuiaiyu",
             "repo": "dressing-in-order",
-            "stars": 551,
+            "stars": 552,
             "topics": [
               "iccv2021",
               "pose-transfer"
@@ -1387,7 +1387,7 @@
             "open_issues": 30,
             "owner": "RenYurui",
             "repo": "Global-Flow-Local-Attention",
-            "stars": 568,
+            "stars": 569,
             "topics": [
               "cvpr2020",
               "spatial-transformer-network"
@@ -1582,7 +1582,7 @@
             "open_issues": 40,
             "owner": "tengteng95",
             "repo": "Pose-Transfer",
-            "stars": 742,
+            "stars": 743,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -2035,7 +2035,7 @@
             "open_issues": 164,
             "owner": "KaiyangZhou",
             "repo": "deep-person-reid",
-            "stars": 4946,
+            "stars": 4950,
             "topics": [
               "computer-vision",
               "cross-domain",
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T01:54:03.617Z",
+    "last_updated": "2026-11-17T04:25:50.031Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
