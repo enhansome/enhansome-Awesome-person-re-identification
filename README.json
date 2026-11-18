@@ -526,7 +526,7 @@
             "open_issues": 2,
             "owner": "WildlifeDatasets",
             "repo": "wildlife-datasets",
-            "stars": 218,
+            "stars": 219,
             "topics": [
               "dataset",
               "datasets",
@@ -977,7 +977,7 @@
             "open_issues": 39,
             "owner": "damo-cv",
             "repo": "TransReID",
-            "stars": 1069,
+            "stars": 1070,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T04:25:50.031Z",
+    "last_updated": "2026-11-18T03:39:25.372Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
