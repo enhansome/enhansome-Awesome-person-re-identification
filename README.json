@@ -977,7 +977,7 @@
             "open_issues": 39,
             "owner": "damo-cv",
             "repo": "TransReID",
-            "stars": 1070,
+            "stars": 1071,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T03:39:25.372Z",
+    "last_updated": "2026-11-19T03:14:10.077Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
