@@ -98,7 +98,7 @@
             "open_issues": 4,
             "owner": "luanshiyinyang",
             "repo": "awesome-multiple-object-tracking",
-            "stars": 1501,
+            "stars": 1503,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -253,7 +253,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2024-11-28T12:18:12Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "QinYang79",
             "repo": "RDE",
             "stars": 131,
@@ -977,7 +977,7 @@
             "open_issues": 39,
             "owner": "damo-cv",
             "repo": "TransReID",
-            "stars": 1071,
+            "stars": 1070,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -1019,7 +1019,7 @@
             "open_issues": 14,
             "owner": "cuiaiyu",
             "repo": "dressing-in-order",
-            "stars": 552,
+            "stars": 551,
             "topics": [
               "iccv2021",
               "pose-transfer"
@@ -1387,7 +1387,7 @@
             "open_issues": 30,
             "owner": "RenYurui",
             "repo": "Global-Flow-Local-Attention",
-            "stars": 569,
+            "stars": 567,
             "topics": [
               "cvpr2020",
               "spatial-transformer-network"
@@ -1438,7 +1438,7 @@
             "open_issues": 5,
             "owner": "KovenYu",
             "repo": "MAR",
-            "stars": 321,
+            "stars": 320,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -1459,7 +1459,7 @@
             "open_issues": 8,
             "owner": "zhunzhong07",
             "repo": "ECN",
-            "stars": 305,
+            "stars": 304,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -1480,7 +1480,7 @@
             "open_issues": 45,
             "owner": "NVlabs",
             "repo": "DG-Net",
-            "stars": 1301,
+            "stars": 1299,
             "topics": [
               "apex",
               "cuhk-np",
@@ -1582,7 +1582,7 @@
             "open_issues": 40,
             "owner": "tengteng95",
             "repo": "Pose-Transfer",
-            "stars": 743,
+            "stars": 741,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -1678,7 +1678,7 @@
             "open_issues": 6,
             "owner": "ahangchen",
             "repo": "TFusion",
-            "stars": 311,
+            "stars": 310,
             "topics": [
               "cvpr2018",
               "fusion",
@@ -1776,7 +1776,7 @@
             "open_issues": 7,
             "owner": "layumi",
             "repo": "Person-reID_GAN",
-            "stars": 324,
+            "stars": 323,
             "topics": [
               "gan",
               "iccv2017",
@@ -1836,7 +1836,7 @@
             "open_issues": 18,
             "owner": "mangye16",
             "repo": "ReID-Survey",
-            "stars": 760,
+            "stars": 759,
             "topics": [
               "deep-learning",
               "person-re-identification",
@@ -1968,7 +1968,7 @@
             "open_issues": 176,
             "owner": "layumi",
             "repo": "Person_reID_baseline_pytorch",
-            "stars": 4460,
+            "stars": 4459,
             "topics": [
               "awesome-reid",
               "baseline",
@@ -2008,7 +2008,7 @@
             "open_issues": 14,
             "owner": "NEU-Gou",
             "repo": "awesome-reid-dataset",
-            "stars": 1112,
+            "stars": 1111,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -2068,7 +2068,7 @@
             "open_issues": 9,
             "owner": "mangye16",
             "repo": "Cross-Modal-Re-ID-baseline",
-            "stars": 404,
+            "stars": 402,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T03:14:10.077Z",
+    "last_updated": "2026-11-20T03:01:35.358Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
@@ -2349,7 +2349,7 @@
       "open_issues": 2,
       "owner": "bismex",
       "repo": "Awesome-person-re-identification",
-      "stars": 1371,
+      "stars": 1370,
       "topics": [
         "awesome",
         "awesome-list",
