@@ -429,7 +429,7 @@
         {
           "node_type": "item",
           "title": "1) \"Source-Guided Similarity Preservation for Online Person Re-Identification\" [paper",
-          "description": "ramiMMhamza/S2P",
+          "description": "hamzaramiia/S2P",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -440,7 +440,7 @@
             "license": null,
             "last_commit": "2026-11-15T15:41:06Z",
             "open_issues": 1,
-            "owner": "ramiMMhamza",
+            "owner": "hamzaramiia",
             "repo": "S2P",
             "stars": 5,
             "topics": []
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T02:06:21.440Z",
+    "last_updated": "2026-11-23T02:33:52.890Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
