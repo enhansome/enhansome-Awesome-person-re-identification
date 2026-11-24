@@ -75,7 +75,7 @@ This is a repository for organizing articles related to person re-identification
 >
 > ###### 7) *"Distribution-aware Knowledge Prototyping for Non-exemplar Lifelong Person Re-identification"* \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Distribution-aware_Knowledge_Prototyping_for_Non-exemplar_Lifelong_Person_Re-identification_CVPR_2024_paper.pdf)] \[[github](https://github.com/zhoujiahuan1991/CVPR2024-DKP) ⭐ 18 | 🐛 3 | 🌐 Python | 📅 2025-07-03]
 >
-> ###### 8) *"Noisy-Correspondence Learning for Text-to-Image Person Re-identification"* \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Qin_Noisy-Correspondence_Learning_for_Text-to-Image_Person_Re-identification_CVPR_2024_paper.pdf)] \[[github](https://github.com/QinYang79/RDE) ⭐ 131 | 🐛 2 | 🌐 Python | 📅 2024-11-28]
+> ###### 8) *"Noisy-Correspondence Learning for Text-to-Image Person Re-identification"* \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Qin_Noisy-Correspondence_Learning_for_Text-to-Image_Person_Re-identification_CVPR_2024_paper.pdf)] \[[github](https://github.com/QinYang79/RDE) ⭐ 132 | 🐛 2 | 🌐 Python | 📅 2024-11-28]
 >
 > ###### 9) *"Instruct-ReID: A Multi-purpose Person Re-identification Task with Instructions"* \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/He_Instruct-ReID_A_Multi-purpose_Person_Re-identification_Task_with_Instructions_CVPR_2024_paper.pdf)] \[[github](https://github.com/hwz-zju/Instruct-ReID) ⭐ 198 | 🐛 16 | 🌐 Python | 📅 2024-04-01]
 >
@@ -1143,7 +1143,7 @@ These are papers that search for "gait" and "person re-identification" in google
 
 ## Datasets
 
-* Duke Leaderboard \[[page](https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/leaderboard) ⭐ 4,459 | 🐛 176 | 🌐 Python | 📅 2026-10-08]
+* Duke Leaderboard \[[page](https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/leaderboard) ⭐ 4,459 | 🐛 172 | 🌐 Python | 📅 2026-11-23]
 * Awesome re-id dataset \[[github](https://github.com/NEU-Gou/awesome-reid-dataset) ⭐ 1,111 | 🐛 14 | 📅 2025-10-23]
 * Market-1501 Leaderboard \[[page](https://jingdongwang2017.github.io/Projects/ReID/Datasets/result_market1501.html)]
 * Re-id dataset collection \[[page](http://robustsystems.coe.neu.edu/sites/robustsystems.coe.neu.edu/files/systems/projectpages/reiddataset.html)]
@@ -1157,7 +1157,7 @@ These are papers that search for "gait" and "person re-identification" in google
 * Language Person Search \[[Matlab](https://github.com/layumi/Image-Text-Embedding) ⭐ 297 | 🐛 12 | 🌐 MATLAB | 📅 2026-07-06]
 * 3D Person reid \[[Pytorch](https://github.com/layumi/person-reid-3d) ⭐ 271 | 🐛 11 | 🌐 Python | 📅 2026-07-06]
 * 2stream Person reid \[[Matlab](https://github.com/layumi/2016_person_re-ID) ⭐ 264 | 🐛 8 | 🌐 C | 📅 2026-07-06]
-* Person reid baseline \[[IDE(Caffe)](https://github.com/zhunzhong07/IDE-baseline-Market-1501) ⭐ 245 | 🐛 1 | 🌐 Matlab | 📅 2017-11-14] \[[Tricks(pytorch)](https://github.com/michuanhaohao/reid-strong-baseline) ⭐ 2,360 | 🐛 41 | 🌐 Python | 📅 2020-04-23] \[[Triplet(pytorch)](https://github.com/huanghoujing/person-reid-triplet-loss-baseline) ⭐ 484 | 🐛 10 | 🌐 Python | 📅 2019-01-06] \[[GAN(pytorch)](https://github.com/qiaoguan/Person-reid-GAN-pytorch) ⭐ 157 | 🐛 21 | 🌐 Python | 📅 2019-11-15] \[[GAN(Matlab)](https://github.com/layumi/Person-reID_GAN) ⭐ 323 | 🐛 7 | 🌐 Cuda | 📅 2021-06-29] \[[FDGAN(pytorch)](https://github.com/yxgeee/FD-GAN) ⭐ 284 | 🐛 10 | 🌐 Python | 📅 2020-09-08] \[[DGNet(pytorch)](https://github.com/NVlabs/DG-Net) ⭐ 1,299 | 🐛 45 | 🌐 Python | 📅 2023-07-09]
+* Person reid baseline \[[IDE(Caffe)](https://github.com/zhunzhong07/IDE-baseline-Market-1501) ⭐ 245 | 🐛 1 | 🌐 Matlab | 📅 2017-11-14] \[[Tricks(pytorch)](https://github.com/michuanhaohao/reid-strong-baseline) ⭐ 2,360 | 🐛 41 | 🌐 Python | 📅 2020-04-23] \[[Triplet(pytorch)](https://github.com/huanghoujing/person-reid-triplet-loss-baseline) ⭐ 484 | 🐛 10 | 🌐 Python | 📅 2019-01-06] \[[GAN(pytorch)](https://github.com/qiaoguan/Person-reid-GAN-pytorch) ⭐ 157 | 🐛 21 | 🌐 Python | 📅 2019-11-15] \[[GAN(Matlab)](https://github.com/layumi/Person-reID_GAN) ⭐ 323 | 🐛 7 | 🌐 Cuda | 📅 2021-06-29] \[[FDGAN(pytorch)](https://github.com/yxgeee/FD-GAN) ⭐ 284 | 🐛 9 | 🌐 Python | 📅 2020-09-08] \[[DGNet(pytorch)](https://github.com/NVlabs/DG-Net) ⭐ 1,299 | 🐛 45 | 🌐 Python | 📅 2023-07-09]
 * Person reid with Pedestrian alignment \[[STN(Matlab)](https://github.com/layumi/Pedestrian_Alignment) ⭐ 238 | 🐛 13 | 🌐 Cuda | 📅 2026-07-06]
 * Vehicle reid baseline \[[Jakel21(pytorch)](https://github.com/Jakel21/vehicle-ReID-baseline) ⭐ 147 | 🐛 8 | 🌐 Python | 📅 2019-08-12] \[[lxc86739795(pytorch)](https://github.com/lxc86739795/vehiclereid_baseline) ⭐ 93 | 🐛 4 | 🌐 Python | 📅 2020-06-20] \[[AICity 2020 Champion(pytorch)](https://github.com/layumi/AICIty-reID-2020) ⭐ 464 | 🐛 40 | 🌐 Python | 📅 2024-09-01]
 
@@ -1299,4 +1299,4 @@ The github page will be revised largely at 2020 to provide more convenient infor
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
