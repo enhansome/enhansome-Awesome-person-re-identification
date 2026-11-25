@@ -8,7 +8,7 @@ This is a repository for organizing articles related to person re-identification
 
 ### :high\_brightness: Other awesome re-identification
 
-* [Awesome Vehicle Re-Identification](https://github.com/bismex/Awesome-vehicle-re-identification) ⭐ 164 | 🐛 0 | 📅 2021-10-23
+* [Awesome Vehicle Re-Identification](https://github.com/bismex/Awesome-vehicle-re-identification) ⭐ 165 | 🐛 0 | 📅 2021-10-23
 * [Awesome Cross-Modality Person Re-Identification](https://github.com/bismex/Awesome-cross-modality-person-re-identification) ⭐ 155 | 🐛 1 | 📅 2022-07-14
 
 ### :high\_brightness: Other recommended related topics
@@ -75,7 +75,7 @@ This is a repository for organizing articles related to person re-identification
 >
 > ###### 7) *"Distribution-aware Knowledge Prototyping for Non-exemplar Lifelong Person Re-identification"* \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Distribution-aware_Knowledge_Prototyping_for_Non-exemplar_Lifelong_Person_Re-identification_CVPR_2024_paper.pdf)] \[[github](https://github.com/zhoujiahuan1991/CVPR2024-DKP) ⭐ 18 | 🐛 3 | 🌐 Python | 📅 2025-07-03]
 >
-> ###### 8) *"Noisy-Correspondence Learning for Text-to-Image Person Re-identification"* \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Qin_Noisy-Correspondence_Learning_for_Text-to-Image_Person_Re-identification_CVPR_2024_paper.pdf)] \[[github](https://github.com/QinYang79/RDE) ⭐ 132 | 🐛 2 | 🌐 Python | 📅 2024-11-28]
+> ###### 8) *"Noisy-Correspondence Learning for Text-to-Image Person Re-identification"* \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Qin_Noisy-Correspondence_Learning_for_Text-to-Image_Person_Re-identification_CVPR_2024_paper.pdf)] \[[github](https://github.com/QinYang79/RDE) ⭐ 131 | 🐛 2 | 🌐 Python | 📅 2024-11-28]
 >
 > ###### 9) *"Instruct-ReID: A Multi-purpose Person Re-identification Task with Instructions"* \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/He_Instruct-ReID_A_Multi-purpose_Person_Re-identification_Task_with_Instructions_CVPR_2024_paper.pdf)] \[[github](https://github.com/hwz-zju/Instruct-ReID) ⭐ 198 | 🐛 16 | 🌐 Python | 📅 2024-04-01]
 >
@@ -1152,7 +1152,7 @@ These are papers that search for "gait" and "person re-identification" in google
 
 ## Codes
 
-* Library for deep-learning person re-identification \[[Torchreid(pytorch)](https://github.com/KaiyangZhou/deep-person-reid) ⭐ 4,950 | 🐛 164 | 🌐 Python | 📅 2026-01-09] \[[Openreid(pytorch)](https://github.com/Cysu/open-reid) ⭐ 1,370 | 🐛 37 | 🌐 Python | 📅 2019-04-23]
+* Library for deep-learning person re-identification \[[Torchreid(pytorch)](https://github.com/KaiyangZhou/deep-person-reid) ⭐ 4,951 | 🐛 164 | 🌐 Python | 📅 2026-01-09] \[[Openreid(pytorch)](https://github.com/Cysu/open-reid) ⭐ 1,370 | 🐛 37 | 🌐 Python | 📅 2019-04-23]
 * Cross modal reid baseline \[[Visual-thermal reid(pytorch)](https://github.com/mangye16/Cross-Modal-Re-ID-baseline) ⭐ 402 | 🐛 9 | 🌐 Python | 📅 2023-11-30]
 * Language Person Search \[[Matlab](https://github.com/layumi/Image-Text-Embedding) ⭐ 297 | 🐛 12 | 🌐 MATLAB | 📅 2026-07-06]
 * 3D Person reid \[[Pytorch](https://github.com/layumi/person-reid-3d) ⭐ 271 | 🐛 11 | 🌐 Python | 📅 2026-07-06]
@@ -1299,4 +1299,4 @@ The github page will be revised largely at 2020 to provide more convenient infor
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._

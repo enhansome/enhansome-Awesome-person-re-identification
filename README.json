@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "bismex",
             "repo": "Awesome-vehicle-re-identification",
-            "stars": 164,
+            "stars": 165,
             "topics": [
               "awesome",
               "awesome-list",
@@ -256,7 +256,7 @@
             "open_issues": 2,
             "owner": "QinYang79",
             "repo": "RDE",
-            "stars": 132,
+            "stars": 131,
             "topics": []
           },
           "first_seen": "2026-08-28T06:04:38.345Z"
@@ -2035,7 +2035,7 @@
             "open_issues": 164,
             "owner": "KaiyangZhou",
             "repo": "deep-person-reid",
-            "stars": 4950,
+            "stars": 4951,
             "topics": [
               "computer-vision",
               "cross-domain",
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T05:55:59.223Z",
+    "last_updated": "2026-11-25T04:51:29.309Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
