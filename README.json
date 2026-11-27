@@ -526,7 +526,7 @@
             "open_issues": 2,
             "owner": "WildlifeDatasets",
             "repo": "wildlife-datasets",
-            "stars": 220,
+            "stars": 221,
             "topics": [
               "dataset",
               "datasets",
@@ -1480,7 +1480,7 @@
             "open_issues": 45,
             "owner": "NVlabs",
             "repo": "DG-Net",
-            "stars": 1299,
+            "stars": 1298,
             "topics": [
               "apex",
               "cuhk-np",
@@ -2269,7 +2269,7 @@
             "open_issues": 3,
             "owner": "handong1587",
             "repo": "handong1587.github.io",
-            "stars": 3133,
+            "stars": 3132,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -2337,7 +2337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T04:05:32.465Z",
+    "last_updated": "2026-11-27T04:08:19.944Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Person Re-identification",
